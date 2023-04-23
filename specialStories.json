@@ -1,0 +1,278 @@
+[
+    {
+        "id": 2,
+        "seq": 1,
+        "title": "Opening",
+        "assetbundleName": "special-story",
+        "startAt": 1577865600000,
+        "endAt": 1609401600000,
+        "episodes": [
+            {
+                "id": 4,
+                "specialStoryId": 2,
+                "episodeNo": 1,
+                "title": "Opening 1",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_sp_ts_01_01",
+                "scenarioId": "op_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": [
+                    1
+                ]
+            },
+            {
+                "id": 5,
+                "specialStoryId": 2,
+                "episodeNo": 2,
+                "title": "Opening 2",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_sp_ts_01_01",
+                "scenarioId": "op_02",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": [
+                    1
+                ]
+            },
+            {
+                "id": 6,
+                "specialStoryId": 2,
+                "episodeNo": 3,
+                "title": "Area Conversations",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_sp_ts_01_01",
+                "scenarioId": "op_02area",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": [
+                    1
+                ]
+            },
+            {
+                "id": 7,
+                "specialStoryId": 2,
+                "episodeNo": 4,
+                "title": "Opening 3",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_sp_ts_01_01",
+                "scenarioId": "op_03",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "seq": 1,
+        "title": "1st Anniversary Countdown Movie 01",
+        "assetbundleName": "special-story",
+        "startAt": 1664089200000,
+        "endAt": 1664175599000,
+        "episodes": [
+            {
+                "id": 8,
+                "specialStoryId": 3,
+                "episodeNo": 1,
+                "title": "1st Anniversary Countdown Movie 01",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_1st_countdown",
+                "scenarioId": "1st_countdown_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "seq": 1,
+        "title": "1st Anniversary Countdown Movie 02",
+        "assetbundleName": "special-story",
+        "startAt": 1664175600000,
+        "endAt": 1664261999000,
+        "episodes": [
+            {
+                "id": 9,
+                "specialStoryId": 4,
+                "episodeNo": 1,
+                "title": "1st Anniversary Countdown Movie 02",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_1st_countdown",
+                "scenarioId": "1st_countdown_02",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "seq": 1,
+        "title": "1st Anniversary Countdown Movie 03",
+        "assetbundleName": "special-story",
+        "startAt": 1664262000000,
+        "endAt": 1664348399000,
+        "episodes": [
+            {
+                "id": 10,
+                "specialStoryId": 5,
+                "episodeNo": 1,
+                "title": "1st Anniversary Countdown Movie 03",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_1st_countdown",
+                "scenarioId": "1st_countdown_03",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "seq": 1,
+        "title": "1st Anniversary Countdown Movie 04",
+        "assetbundleName": "special-story",
+        "startAt": 1664348400000,
+        "endAt": 1664434799000,
+        "episodes": [
+            {
+                "id": 11,
+                "specialStoryId": 6,
+                "episodeNo": 1,
+                "title": "1st Anniversary Countdown Movie 04",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_1st_countdown",
+                "scenarioId": "1st_countdown_04",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "seq": 1,
+        "title": "1st Anniversary Countdown Movie 05",
+        "assetbundleName": "special-story",
+        "startAt": 1664434800000,
+        "endAt": 1664521199000,
+        "episodes": [
+            {
+                "id": 12,
+                "specialStoryId": 7,
+                "episodeNo": 1,
+                "title": "1st Anniversary Countdown Movie 05",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_1st_countdown",
+                "scenarioId": "1st_countdown_05",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "seq": 1,
+        "title": "1st Anniversary Countdown Movie 06",
+        "assetbundleName": "special-story",
+        "startAt": 1664521200000,
+        "endAt": 1664607599000,
+        "episodes": [
+            {
+                "id": 13,
+                "specialStoryId": 8,
+                "episodeNo": 1,
+                "title": "1st Anniversary Countdown Movie 06",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_1st_countdown",
+                "scenarioId": "1st_countdown_06",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "seq": 1,
+        "title": "The Aku no Taizai Series Introduction Movie",
+        "assetbundleName": "collaboration-akuno-story",
+        "startAt": 1671058800000,
+        "endAt": 1672181999000,
+        "episodes": [
+            {
+                "id": 14,
+                "specialStoryId": 9,
+                "episodeNo": 1,
+                "title": "遷移テスト用ストーリー_コラボのセカイ",
+                "specialStoryEpisodeType": "area",
+                "specialStoryEpisodeTypeId": 14,
+                "assetbundleName": "story_collaboration_akuno",
+                "scenarioId": "collaboration_akuno_op_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "seq": 1,
+        "title": "エイプリルフール2022導入ムービー",
+        "assetbundleName": "aprilfool-story-2022",
+        "startAt": 1680332400000,
+        "endAt": 1680418799000,
+        "episodes": [
+            {
+                "id": 15,
+                "specialStoryId": 10,
+                "episodeNo": 1,
+                "title": "エイプリルフール2022導入ムービー",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_aprilfool_2022",
+                "scenarioId": "aprilfool_2022_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": true,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "seq": 1,
+        "title": "エイプリルフール2022後日談ムービー",
+        "assetbundleName": "aprilfool-story-2022",
+        "startAt": 1680418800000,
+        "endAt": 1680505199000,
+        "episodes": [
+            {
+                "id": 16,
+                "specialStoryId": 11,
+                "episodeNo": 1,
+                "title": "エイプリルフール2022後日談ムービー",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_aprilfool_2022",
+                "scenarioId": "aprilfool_2022_02",
+                "releaseConditionId": 1000001,
+                "isAbleSkip": true,
+                "isActionSetRefresh": true,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    }
+]

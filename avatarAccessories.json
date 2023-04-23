@@ -1,0 +1,268 @@
+[
+    {
+        "id": 1,
+        "seq": 10,
+        "name": "Headphones",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0001"
+    },
+    {
+        "id": 2,
+        "seq": 20,
+        "name": "Cat Ears",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0002"
+    },
+    {
+        "id": 3,
+        "seq": 30,
+        "name": "Ribbon",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0003"
+    },
+    {
+        "id": 4,
+        "seq": 40,
+        "name": "Cap",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0004"
+    },
+    {
+        "id": 5,
+        "seq": 50,
+        "name": "Glow Stick Headband",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0005"
+    },
+    {
+        "id": 6,
+        "seq": 60,
+        "name": "Sunglasses",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0006"
+    },
+    {
+        "id": 7,
+        "seq": 70,
+        "name": "Halo",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0007"
+    },
+    {
+        "id": 8,
+        "seq": 80,
+        "name": "Wreath",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0008"
+    },
+    {
+        "id": 9,
+        "seq": 90,
+        "name": "Leek",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0009"
+    },
+    {
+        "id": 10,
+        "seq": 100,
+        "name": "Wig",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0010"
+    },
+    {
+        "id": 11,
+        "seq": 110,
+        "name": "MEIKO's Coffee",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0011"
+    },
+    {
+        "id": 13,
+        "seq": 130,
+        "name": "Pumpkin Head",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0013"
+    },
+    {
+        "id": 14,
+        "seq": 140,
+        "name": "Reindeer Headband",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0014"
+    },
+    {
+        "id": 15,
+        "seq": 150,
+        "name": "Rice Cakes",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0015"
+    },
+    {
+        "id": 16,
+        "seq": 160,
+        "name": "Crown",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0016"
+    },
+    {
+        "id": 17,
+        "seq": 170,
+        "name": "Balloon ☆ Hat",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0017"
+    },
+    {
+        "id": 18,
+        "seq": 180,
+        "name": "School Cap",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0018"
+    },
+    {
+        "id": 19,
+        "seq": 190,
+        "name": "Lovely Lunch",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0019"
+    },
+    {
+        "id": 20,
+        "seq": 200,
+        "name": "Family Penguin",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0020"
+    },
+    {
+        "id": 21,
+        "seq": 210,
+        "name": "Clock Rabbit Headband",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0021"
+    },
+    {
+        "id": 22,
+        "seq": 220,
+        "name": "Star Festival Ornament",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0022"
+    },
+    {
+        "id": 23,
+        "seq": 230,
+        "name": "Straw Hat",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0023"
+    },
+    {
+        "id": 24,
+        "seq": 240,
+        "name": "Singer Beast",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0024"
+    },
+    {
+        "id": 25,
+        "seq": 250,
+        "name": "Snorkel Mask",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0025"
+    },
+    {
+        "id": 26,
+        "seq": 260,
+        "name": "Masked Idol Mask",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0026"
+    },
+    {
+        "id": 28,
+        "seq": 280,
+        "name": "Moon Rabbit Dango",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0028"
+    },
+    {
+        "id": 29,
+        "seq": 290,
+        "name": "Meteor Headphones",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0029"
+    },
+    {
+        "id": 32,
+        "seq": 320,
+        "name": "Lonely Horn",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0032"
+    },
+    {
+        "id": 34,
+        "seq": 340,
+        "name": "Christmas Tree Hat",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0034"
+    },
+    {
+        "id": 35,
+        "seq": 350,
+        "name": "Camping Tent",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0035"
+    },
+    {
+        "id": 36,
+        "seq": 360,
+        "name": "2023 New Years Glasses",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0036"
+    },
+    {
+        "id": 37,
+        "seq": 370,
+        "name": "Warm Stew",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0037"
+    },
+    {
+        "id": 38,
+        "seq": 380,
+        "name": "Marzipan Miku",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0038"
+    },
+    {
+        "id": 39,
+        "seq": 390,
+        "name": "Riding Goggles",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0039"
+    },
+    {
+        "id": 40,
+        "seq": 400,
+        "name": "Macaron Hat",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0040"
+    },
+    {
+        "id": 41,
+        "seq": 410,
+        "name": "Plaster Statue Mask",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0041"
+    },
+    {
+        "id": 42,
+        "seq": 420,
+        "name": "Cherry Blossom Headband",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0042"
+    },
+    {
+        "id": 43,
+        "seq": 430,
+        "name": "Star Sunglasses",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0043"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "seq": 1,
+        "name": "Bonus Energy Drink (S)",
+        "recoveryValue": 1,
+        "assetBundleName": "dummy",
+        "flavorText": "Restores 1 Bonus Energy."
+    },
+    {
+        "id": 2,
+        "seq": 2,
+        "name": "Bonus Energy Drink (L)",
+        "recoveryValue": 10,
+        "assetBundleName": "dummy",
+        "flavorText": "Restores 10 Bonus Energy."
+    },
+    {
+        "id": 3,
+        "seq": 3,
+        "name": "Valentine's Chocolates",
+        "recoveryValue": 10,
+        "assetBundleName": "dummy",
+        "flavorText": "Restores 10 Bonus Energy."
+    },
+    {
+        "id": 4,
+        "seq": 4,
+        "name": "White Day Marshmallows",
+        "recoveryValue": 10,
+        "assetBundleName": "dummy",
+        "flavorText": "Restores 10 Bonus Energy."
+    },
+    {
+        "id": 5,
+        "seq": 5,
+        "name": "[Limited] Fried Chicken Regular",
+        "recoveryValue": 10,
+        "assetBundleName": "dummy",
+        "flavorText": "Restores 10 Bonus Energy."
+    },
+    {
+        "id": 6,
+        "seq": 6,
+        "name": "Halloween Cookies",
+        "recoveryValue": 10,
+        "assetBundleName": "dummy",
+        "flavorText": "Restores 10 Bonus Energy."
+    },
+    {
+        "id": 7,
+        "seq": 7,
+        "name": "Brioche",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item7",
+        "flavorText": "Restores 10 Bonus Energy."
+    },
+    {
+        "id": 8,
+        "seq": 8,
+        "name": "Christmas Cake",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item8",
+        "flavorText": "Restores 10 Bonus Energy."
+    },
+    {
+        "id": 9,
+        "seq": 9,
+        "name": "Amazake",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item9",
+        "flavorText": "Restores 10 Bonus Energy."
+    }
+]

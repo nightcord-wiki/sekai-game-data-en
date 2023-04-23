@@ -1,0 +1,634 @@
+[
+    {
+        "id": 1,
+        "gachaId": 1,
+        "name": "Release Celebration Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1642374000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 2,
+        "gachaId": 4,
+        "name": "Starry Night Memories Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1642374000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 3,
+        "gachaId": 5,
+        "name": "Ball of the Marionettes Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1643065200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 4,
+        "gachaId": 6,
+        "name": "Gentle★Potato Star Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1643756400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 5,
+        "gachaId": 9,
+        "name": "Ever Energetic♪ Cheer Squad Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1645138800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 6,
+        "gachaId": 12,
+        "name": "MORE MORE SMILE! Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1645830000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 7,
+        "gachaId": 17,
+        "name": "Rookie Partner Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1644447600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 8,
+        "gachaId": 20,
+        "name": "High School Carnival Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1646262000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 9,
+        "gachaId": 23,
+        "name": "Wonder Carol Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1646953200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 10,
+        "gachaId": 28,
+        "name": "SEKAI Thrilling New Year Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1648936800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 11,
+        "gachaId": 39,
+        "name": "A Little Courage Goes a Long Way Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1648936800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 12,
+        "gachaId": 42,
+        "name": "A Rainbow Follows the Rain Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1649282400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 13,
+        "gachaId": 45,
+        "name": "Classical Memories Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1649973600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 14,
+        "gachaId": 48,
+        "name": "Rockin' Parade Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1650664800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 15,
+        "gachaId": 52,
+        "name": "Illuminated Canvas Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1651356000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 16,
+        "gachaId": 56,
+        "name": "Fluffy☆ Dreamland Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1655157600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 17,
+        "gachaId": 60,
+        "name": "Heavenly Happy Doll Festival☆ Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1652652000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 18,
+        "gachaId": 63,
+        "name": "An Angel Spreads Its Wings Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1653343200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 19,
+        "gachaId": 66,
+        "name": "Half Anniversary Colorful Festival Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1657749600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 20,
+        "gachaId": 68,
+        "name": "Cherry Blossom Lane Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1654120800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 21,
+        "gachaId": 72,
+        "name": "Secret Dressing Room Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1654812000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 22,
+        "gachaId": 75,
+        "name": "4=1 Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1655503200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 23,
+        "gachaId": 78,
+        "name": "One With My Crew Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1656194400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 24,
+        "gachaId": 82,
+        "name": "Forest Fairy Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1656799200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 25,
+        "gachaId": 85,
+        "name": "Welcome to the Penguin Cafe♪ Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1657490400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 26,
+        "gachaId": 89,
+        "name": "Romantic Bride Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1658181600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 27,
+        "gachaId": 92,
+        "name": "Welcome♪ Wonderland Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1658872800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 28,
+        "gachaId": 96,
+        "name": "Memories Melody Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1659650400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 29,
+        "gachaId": 98,
+        "name": "Colorful Festival Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1660082400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 30,
+        "gachaId": 99,
+        "name": "Rainbow Harmony Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1660341600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 31,
+        "gachaId": 102,
+        "name": "The Beast Inside Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1661119200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 32,
+        "gachaId": 104,
+        "name": "Summer Night Memories Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1662069600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 33,
+        "gachaId": 107,
+        "name": "Let's Enjoy Summer! Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1662847200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 34,
+        "gachaId": 110,
+        "name": "Lovely Messenger Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1663711200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 35,
+        "gachaId": 112,
+        "name": "Hear My Song! Dreaming Mermaid Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1664575200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 36,
+        "gachaId": 115,
+        "name": "Moonlit Night's Sister Rabbits Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1665352800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 37,
+        "gachaId": 118,
+        "name": "No More Doubts Full Metal Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1666303200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 38,
+        "gachaId": 120,
+        "name": "Forgotten Snow White Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1667340000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 40,
+        "gachaId": 132,
+        "name": "JP Version 1st Anniversary Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1668466800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 41,
+        "gachaId": 134,
+        "name": "Haruka Kiritani Happy Birthday Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1668294000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 42,
+        "gachaId": 136,
+        "name": "Break The Fence! Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1669676400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 44,
+        "gachaId": 141,
+        "name": "Honami Mochizuki Happy Birthday Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1670108400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 45,
+        "gachaId": 142,
+        "name": "Wanderer's Journey Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1670540400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 46,
+        "gachaId": 144,
+        "name": "MEIKO Happy Anniversary Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1670886000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 47,
+        "gachaId": 147,
+        "name": "Kind-hearted Words Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1671404400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 48,
+        "gachaId": 149,
+        "name": "Akito Shinonome Happy Birthday Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1671490800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 49,
+        "gachaId": 150,
+        "name": "Secret Illumination Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1672354800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 50,
+        "gachaId": 153,
+        "name": "Growing Feelings, Words in the Snow Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1673391600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 51,
+        "gachaId": 155,
+        "name": "Shizuku Hinomori Happy Birthday Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1673650800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 52,
+        "gachaId": 157,
+        "name": "Christmas Eve Checkmate Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1674255600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 53,
+        "gachaId": 159,
+        "name": "Memoirs of Wrongdoings Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1674860400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 54,
+        "gachaId": 160,
+        "name": "Embarking on a Winter Railway Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1675206000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 55,
+        "gachaId": 162,
+        "name": "Kagamine Rin Happy Anniversary Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1675465200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 56,
+        "gachaId": 163,
+        "name": "Kagamine Len Happy Anniversary Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1675465200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 58,
+        "gachaId": 165,
+        "name": "2023 New Year Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1676242800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 59,
+        "gachaId": 169,
+        "name": "Shiho Hinomori Happy Birthday Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1676502000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 60,
+        "gachaId": 171,
+        "name": "Popping Mix of Dreams and Reality Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1677020400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 61,
+        "gachaId": 173,
+        "name": "An Overture That Echoes in The Silence Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1677625200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 62,
+        "gachaId": 175,
+        "name": "Mafuyu Asahina Happy Birthday Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1677884400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 63,
+        "gachaId": 176,
+        "name": "Megurine Luka Happy Anniversary Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1678143600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 64,
+        "gachaId": 177,
+        "name": "Secret Tea Time Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1678402800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 65,
+        "gachaId": 181,
+        "name": "Sky Runners! Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1679176800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 66,
+        "gachaId": 183,
+        "name": "Kanade Yoisaki Happy Birthday Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1679090400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 67,
+        "gachaId": 184,
+        "name": "KAITO Happy Anniversary Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1679695200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 68,
+        "gachaId": 185,
+        "name": "Journey with U Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1680040800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 69,
+        "gachaId": 188,
+        "name": "Knights of White Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1681250400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 70,
+        "gachaId": 190,
+        "name": "Kohane Azusawa Happy Birthday Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1681077600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 71,
+        "gachaId": 192,
+        "name": "Casting Magic! Witch Craft Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1682028000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 72,
+        "gachaId": 194,
+        "name": "Airi Momoi Happy Birthday Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1682546400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 73,
+        "gachaId": 195,
+        "name": "Drowning in Blotchy Colors Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1682892000000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 75,
+        "gachaId": 200,
+        "name": "JP 1.5 Year Anniversary Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1683842400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 76,
+        "gachaId": 201,
+        "name": "Pop Up! Picture Book Actors Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1684695600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 77,
+        "gachaId": 202,
+        "name": "Minori Hanasato Happy Birthday Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1684706400000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 78,
+        "gachaId": 203,
+        "name": "Glittering Galactic Stardust Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1685559600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 79,
+        "gachaId": 204,
+        "name": "Ena Shinonome Happy Birthday Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1686175200000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 80,
+        "gachaId": 205,
+        "name": "The Naive Voice That Cries Out to You Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1686423600000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 81,
+        "gachaId": 206,
+        "name": "Saki Tenma Happy Birthday Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1686952800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 83,
+        "gachaId": 208,
+        "name": "[It's Back] Fluffy☆ Dreamland Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1686682800000,
+        "convertResourceBoxId": 1
+    },
+    {
+        "id": 1025,
+        "gachaId": 1025,
+        "name": "[It's Back] Colorful Festival Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1674169200000,
+        "convertResourceBoxId": 1
+    }
+]

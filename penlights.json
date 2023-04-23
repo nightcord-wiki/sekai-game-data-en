@@ -1,0 +1,261 @@
+[
+    {
+        "id": 1,
+        "seq": 1,
+        "name": "Default",
+        "defaultPenlightColorId": 1,
+        "assetbundleName": "penlight_0001"
+    },
+    {
+        "id": 2,
+        "seq": 2,
+        "name": "Leek Glow Stick",
+        "defaultPenlightColorId": 22,
+        "assetbundleName": "penlight_0002"
+    },
+    {
+        "id": 3,
+        "seq": 3,
+        "name": "Star Glow Stick",
+        "defaultPenlightColorId": 3,
+        "assetbundleName": "penlight_0003"
+    },
+    {
+        "id": 4,
+        "seq": 4,
+        "name": "Heart Glow Stick",
+        "defaultPenlightColorId": 8,
+        "assetbundleName": "penlight_0004"
+    },
+    {
+        "id": 5,
+        "seq": 5,
+        "name": "2022 Glow Stick",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0005"
+    },
+    {
+        "id": 6,
+        "seq": 6,
+        "name": "Snowflake Glow Stick",
+        "defaultPenlightColorId": 7,
+        "assetbundleName": "penlight_0006"
+    },
+    {
+        "id": 7,
+        "seq": 7,
+        "name": "Honami's Baton Glow Stick",
+        "defaultPenlightColorId": 1,
+        "assetbundleName": "penlight_0007"
+    },
+    {
+        "id": 8,
+        "seq": 8,
+        "name": "Sparkling Drop Glow Stick",
+        "defaultPenlightColorId": 1,
+        "assetbundleName": "penlight_0008"
+    },
+    {
+        "id": 9,
+        "seq": 9,
+        "name": "F Note Glow Stick",
+        "defaultPenlightColorId": 13,
+        "assetbundleName": "penlight_0009"
+    },
+    {
+        "id": 10,
+        "seq": 10,
+        "name": "Narcissus' Paintbrush",
+        "defaultPenlightColorId": 32,
+        "assetbundleName": "penlight_0010"
+    },
+    {
+        "id": 11,
+        "seq": 11,
+        "name": "Love Fan Glow Stick",
+        "defaultPenlightColorId": 30,
+        "assetbundleName": "penlight_0011"
+    },
+    {
+        "id": 12,
+        "seq": 12,
+        "name": "Lantern Glow Stick",
+        "defaultPenlightColorId": 10,
+        "assetbundleName": "penlight_0012"
+    },
+    {
+        "id": 13,
+        "seq": 13,
+        "name": "Wing Glow Stick",
+        "defaultPenlightColorId": 29,
+        "assetbundleName": "penlight_0013"
+    },
+    {
+        "id": 14,
+        "seq": 14,
+        "name": "Cherry Blossom Light",
+        "defaultPenlightColorId": 25,
+        "assetbundleName": "penlight_0014"
+    },
+    {
+        "id": 15,
+        "seq": 15,
+        "name": "Ghost Glow Stick",
+        "defaultPenlightColorId": 7,
+        "assetbundleName": "penlight_0015"
+    },
+    {
+        "id": 16,
+        "seq": 16,
+        "name": "Show Ticket-style Glow Stick",
+        "defaultPenlightColorId": 28,
+        "assetbundleName": "penlight_0016"
+    },
+    {
+        "id": 17,
+        "seq": 17,
+        "name": "Mic Light of Resolve",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0017"
+    },
+    {
+        "id": 18,
+        "seq": 18,
+        "name": "Teru Teru Glow Stick",
+        "defaultPenlightColorId": 27,
+        "assetbundleName": "penlight_0018"
+    },
+    {
+        "id": 19,
+        "seq": 19,
+        "name": "Carnation Glow Stick",
+        "defaultPenlightColorId": 1,
+        "assetbundleName": "penlight_0019"
+    },
+    {
+        "id": 20,
+        "seq": 20,
+        "name": "Star Keyboard Stick",
+        "defaultPenlightColorId": 3,
+        "assetbundleName": "penlight_0020"
+    },
+    {
+        "id": 21,
+        "seq": 21,
+        "name": "Sunflower Light",
+        "defaultPenlightColorId": 23,
+        "assetbundleName": "penlight_0021"
+    },
+    {
+        "id": 22,
+        "seq": 22,
+        "name": "Mermaid Shell Light",
+        "defaultPenlightColorId": 10,
+        "assetbundleName": "penlight_0022"
+    },
+    {
+        "id": 23,
+        "seq": 23,
+        "name": "Forgotten Apple Light",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0023"
+    },
+    {
+        "id": 24,
+        "seq": 24,
+        "name": "SEKAI Glow Stick",
+        "defaultPenlightColorId": 22,
+        "assetbundleName": "penlight_0024"
+    },
+    {
+        "id": 26,
+        "seq": 26,
+        "name": "Rum Raisin Glow Stick",
+        "defaultPenlightColorId": 1,
+        "assetbundleName": "penlight_0026"
+    },
+    {
+        "id": 27,
+        "seq": 27,
+        "name": "Halloween Bat Glow Stick",
+        "defaultPenlightColorId": 23,
+        "assetbundleName": "penlight_0027"
+    },
+    {
+        "id": 28,
+        "seq": 28,
+        "name": "Astronomical Glow Stick",
+        "defaultPenlightColorId": 24,
+        "assetbundleName": "penlight_0028"
+    },
+    {
+        "id": 29,
+        "seq": 29,
+        "name": "CLOCK Glow Stick",
+        "defaultPenlightColorId": 2,
+        "assetbundleName": "penlight_0029"
+    },
+    {
+        "id": 30,
+        "seq": 30,
+        "name": "Pencil Glow Stick",
+        "defaultPenlightColorId": 22,
+        "assetbundleName": "penlight_0030"
+    },
+    {
+        "id": 32,
+        "seq": 32,
+        "name": "Happy Bell Glow Stick",
+        "defaultPenlightColorId": 3,
+        "assetbundleName": "penlight_0032"
+    },
+    {
+        "id": 33,
+        "seq": 33,
+        "name": "New Years Glow Stick",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0033"
+    },
+    {
+        "id": 34,
+        "seq": 34,
+        "name": "Merry-go-round Glow Stick",
+        "defaultPenlightColorId": 15,
+        "assetbundleName": "penlight_0034"
+    },
+    {
+        "id": 35,
+        "seq": 35,
+        "name": "Lollipop Glow Stick",
+        "defaultPenlightColorId": 8,
+        "assetbundleName": "penlight_0035"
+    },
+    {
+        "id": 36,
+        "seq": 36,
+        "name": "Sunny Day Glow Stick",
+        "defaultPenlightColorId": 24,
+        "assetbundleName": "penlight_0036"
+    },
+    {
+        "id": 37,
+        "seq": 37,
+        "name": "Magical Wand Glow Stick",
+        "defaultPenlightColorId": 25,
+        "assetbundleName": "penlight_0037"
+    },
+    {
+        "id": 38,
+        "seq": 38,
+        "name": "Puzzle Piece Glow Stick",
+        "defaultPenlightColorId": 28,
+        "assetbundleName": "penlight_0038"
+    },
+    {
+        "id": 39,
+        "seq": 39,
+        "name": "Penguin Glow Stick",
+        "defaultPenlightColorId": 27,
+        "assetbundleName": "penlight_0039"
+    }
+]

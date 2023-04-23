@@ -1,0 +1,2562 @@
+[
+    {
+        "id": 101,
+        "seq": 1,
+        "honorMissionType": "clear_live",
+        "requirement": 39,
+        "sentence": "Clear 39 shows.",
+        "rewards": [
+            {
+                "id": 309,
+                "missionType": "honor_mission",
+                "missionId": 101,
+                "seq": 1,
+                "resourceBoxId": 1015
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "seq": 2,
+        "honorMissionType": "clear_live",
+        "requirement": 3939,
+        "sentence": "Clear 3,939 shows.",
+        "rewards": [
+            {
+                "id": 310,
+                "missionType": "honor_mission",
+                "missionId": 102,
+                "seq": 1,
+                "resourceBoxId": 1016
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "seq": 1,
+        "honorMissionType": "player_rank",
+        "requirement": 50,
+        "sentence": "Reach Player Rank 50.",
+        "rewards": [
+            {
+                "id": 311,
+                "missionType": "honor_mission",
+                "missionId": 201,
+                "seq": 1,
+                "resourceBoxId": 1017
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "seq": 2,
+        "honorMissionType": "player_rank",
+        "requirement": 100,
+        "sentence": "Reach Player Rank 100.",
+        "rewards": [
+            {
+                "id": 312,
+                "missionType": "honor_mission",
+                "missionId": 202,
+                "seq": 1,
+                "resourceBoxId": 1018
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "seq": 3,
+        "honorMissionType": "player_rank",
+        "requirement": 200,
+        "sentence": "Reach Player Rank 200.",
+        "rewards": [
+            {
+                "id": 689,
+                "missionType": "honor_mission",
+                "missionId": 203,
+                "seq": 1,
+                "resourceBoxId": 1131
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "seq": 4,
+        "honorMissionType": "player_rank",
+        "requirement": 300,
+        "sentence": "Reach Player Rank 300.",
+        "rewards": [
+            {
+                "id": 1233,
+                "missionType": "honor_mission",
+                "missionId": 204,
+                "seq": 1,
+                "resourceBoxId": 1154
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "seq": 5,
+        "honorMissionType": "player_rank",
+        "requirement": 400,
+        "sentence": "Reach Player Rank 400.",
+        "rewards": [
+            {
+                "id": 2044,
+                "missionType": "honor_mission",
+                "missionId": 205,
+                "seq": 1,
+                "resourceBoxId": 1185
+            }
+        ]
+    },
+    {
+        "id": 301,
+        "seq": 1,
+        "honorMissionType": "login_continued",
+        "requirement": 30,
+        "sentence": "Log in for 30 consecutive days.",
+        "rewards": [
+            {
+                "id": 313,
+                "missionType": "honor_mission",
+                "missionId": 301,
+                "seq": 1,
+                "resourceBoxId": 1019
+            }
+        ]
+    },
+    {
+        "id": 401,
+        "seq": 1,
+        "honorMissionType": "login_total",
+        "requirement": 365,
+        "sentence": "Log in for 365 days in total.",
+        "rewards": [
+            {
+                "id": 314,
+                "missionType": "honor_mission",
+                "missionId": 401,
+                "seq": 1,
+                "resourceBoxId": 1020
+            }
+        ]
+    },
+    {
+        "id": 501,
+        "seq": 1,
+        "honorMissionType": "collect_another_vocal",
+        "requirement": 10,
+        "sentence": "Unlock 10 Cover songs.",
+        "rewards": [
+            {
+                "id": 315,
+                "missionType": "honor_mission",
+                "missionId": 501,
+                "seq": 1,
+                "resourceBoxId": 1021
+            }
+        ]
+    },
+    {
+        "id": 601,
+        "seq": 1,
+        "honorMissionType": "unit_rank_all",
+        "requirement": 20,
+        "sentence": "Increase the Group Rank of all groups to 20.",
+        "rewards": [
+            {
+                "id": 316,
+                "missionType": "honor_mission",
+                "missionId": 601,
+                "seq": 1,
+                "resourceBoxId": 1022
+            }
+        ]
+    },
+    {
+        "id": 701,
+        "seq": 1,
+        "honorMissionType": "area_item_5_level",
+        "requirement": 10,
+        "sentence": "Level up 5 different Decorations to Level 10.",
+        "rewards": [
+            {
+                "id": 317,
+                "missionType": "honor_mission",
+                "missionId": 701,
+                "seq": 1,
+                "resourceBoxId": 1023
+            }
+        ]
+    },
+    {
+        "id": 801,
+        "seq": 1,
+        "honorMissionType": "character_rank_all",
+        "requirement": 5,
+        "sentence": "Increase the Character Rank of all characters to 5.",
+        "rewards": [
+            {
+                "id": 318,
+                "missionType": "honor_mission",
+                "missionId": 801,
+                "seq": 1,
+                "resourceBoxId": 1024
+            }
+        ]
+    },
+    {
+        "id": 802,
+        "seq": 2,
+        "honorMissionType": "character_rank_all",
+        "requirement": 10,
+        "sentence": "Increase the Character Rank of all characters to 10.",
+        "rewards": [
+            {
+                "id": 319,
+                "missionType": "honor_mission",
+                "missionId": 802,
+                "seq": 1,
+                "resourceBoxId": 1025
+            }
+        ]
+    },
+    {
+        "id": 901,
+        "seq": 1,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 5,
+        "sentence": "Clear 5 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 320,
+                "missionType": "honor_mission",
+                "missionId": 901,
+                "seq": 1,
+                "resourceBoxId": 1026
+            }
+        ]
+    },
+    {
+        "id": 902,
+        "seq": 2,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 10,
+        "sentence": "Clear 10 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 321,
+                "missionType": "honor_mission",
+                "missionId": 902,
+                "seq": 1,
+                "resourceBoxId": 1027
+            }
+        ]
+    },
+    {
+        "id": 903,
+        "seq": 3,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 20,
+        "sentence": "Clear 20 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 322,
+                "missionType": "honor_mission",
+                "missionId": 903,
+                "seq": 1,
+                "resourceBoxId": 1028
+            }
+        ]
+    },
+    {
+        "id": 904,
+        "seq": 4,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 30,
+        "sentence": "Clear 30 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 1096,
+                "missionType": "honor_mission",
+                "missionId": 904,
+                "seq": 1,
+                "resourceBoxId": 1147
+            }
+        ]
+    },
+    {
+        "id": 905,
+        "seq": 5,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 40,
+        "sentence": "Clear 40 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 1097,
+                "missionType": "honor_mission",
+                "missionId": 905,
+                "seq": 1,
+                "resourceBoxId": 1148
+            }
+        ]
+    },
+    {
+        "id": 906,
+        "seq": 6,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 50,
+        "sentence": "Clear 50 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 1098,
+                "missionType": "honor_mission",
+                "missionId": 906,
+                "seq": 1,
+                "resourceBoxId": 1149
+            }
+        ]
+    },
+    {
+        "id": 907,
+        "seq": 7,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 60,
+        "sentence": "Clear 60 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 1238,
+                "missionType": "honor_mission",
+                "missionId": 907,
+                "seq": 1,
+                "resourceBoxId": 1159
+            }
+        ]
+    },
+    {
+        "id": 908,
+        "seq": 8,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 70,
+        "sentence": "Clear 70 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 1239,
+                "missionType": "honor_mission",
+                "missionId": 908,
+                "seq": 1,
+                "resourceBoxId": 1160
+            }
+        ]
+    },
+    {
+        "id": 909,
+        "seq": 9,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 80,
+        "sentence": "Clear 80 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 2447,
+                "missionType": "honor_mission",
+                "missionId": 909,
+                "seq": 1,
+                "resourceBoxId": 1198
+            }
+        ]
+    },
+    {
+        "id": 910,
+        "seq": 10,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 90,
+        "sentence": "Clear 90 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 2448,
+                "missionType": "honor_mission",
+                "missionId": 910,
+                "seq": 1,
+                "resourceBoxId": 1199
+            }
+        ]
+    },
+    {
+        "id": 911,
+        "seq": 11,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 100,
+        "sentence": "Clear 100 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 2449,
+                "missionType": "honor_mission",
+                "missionId": 911,
+                "seq": 1,
+                "resourceBoxId": 1200
+            }
+        ]
+    },
+    {
+        "id": 912,
+        "seq": 12,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 110,
+        "sentence": "Clear 110 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 2450,
+                "missionType": "honor_mission",
+                "missionId": 912,
+                "seq": 1,
+                "resourceBoxId": 1201
+            }
+        ]
+    },
+    {
+        "id": 913,
+        "seq": 13,
+        "honorMissionType": "clear_live_difficulty_all",
+        "requirement": 120,
+        "sentence": "Clear 120 songs on all difficulty levels.",
+        "rewards": [
+            {
+                "id": 2451,
+                "missionType": "honor_mission",
+                "missionId": 913,
+                "seq": 1,
+                "resourceBoxId": 1202
+            }
+        ]
+    },
+    {
+        "id": 1004,
+        "seq": 4,
+        "honorMissionType": "master_full_combo",
+        "requirement": 30,
+        "sentence": "Clear 30 songs with a Full Combo on Master difficulty.",
+        "rewards": [
+            {
+                "id": 489,
+                "missionType": "honor_mission",
+                "missionId": 1004,
+                "seq": 1,
+                "resourceBoxId": 1061
+            }
+        ]
+    },
+    {
+        "id": 1005,
+        "seq": 5,
+        "honorMissionType": "master_full_combo",
+        "requirement": 40,
+        "sentence": "Clear 40 songs with a Full Combo on Master difficulty.",
+        "rewards": [
+            {
+                "id": 490,
+                "missionType": "honor_mission",
+                "missionId": 1005,
+                "seq": 1,
+                "resourceBoxId": 1062
+            }
+        ]
+    },
+    {
+        "id": 1006,
+        "seq": 6,
+        "honorMissionType": "master_full_combo",
+        "requirement": 50,
+        "sentence": "Clear 50 songs with a Full Combo on Master difficulty.",
+        "rewards": [
+            {
+                "id": 491,
+                "missionType": "honor_mission",
+                "missionId": 1006,
+                "seq": 1,
+                "resourceBoxId": 1063
+            }
+        ]
+    },
+    {
+        "id": 1007,
+        "seq": 7,
+        "honorMissionType": "master_full_combo",
+        "requirement": 60,
+        "sentence": "Clear 60 songs with a Full Combo on Master difficulty.",
+        "rewards": [
+            {
+                "id": 1234,
+                "missionType": "honor_mission",
+                "missionId": 1007,
+                "seq": 1,
+                "resourceBoxId": 1155
+            }
+        ]
+    },
+    {
+        "id": 1008,
+        "seq": 8,
+        "honorMissionType": "master_full_combo",
+        "requirement": 70,
+        "sentence": "Clear 70 songs with a Full Combo on Master difficulty.",
+        "rewards": [
+            {
+                "id": 1235,
+                "missionType": "honor_mission",
+                "missionId": 1008,
+                "seq": 1,
+                "resourceBoxId": 1156
+            }
+        ]
+    },
+    {
+        "id": 1009,
+        "seq": 9,
+        "honorMissionType": "master_full_combo",
+        "requirement": 80,
+        "sentence": "Clear 80 songs with a Full Combo on Master difficulty.",
+        "rewards": [
+            {
+                "id": 2452,
+                "missionType": "honor_mission",
+                "missionId": 1009,
+                "seq": 1,
+                "resourceBoxId": 1203
+            }
+        ]
+    },
+    {
+        "id": 1010,
+        "seq": 10,
+        "honorMissionType": "master_full_combo",
+        "requirement": 90,
+        "sentence": "Clear 90 songs with a Full Combo on Master difficulty.",
+        "rewards": [
+            {
+                "id": 2453,
+                "missionType": "honor_mission",
+                "missionId": 1010,
+                "seq": 1,
+                "resourceBoxId": 1204
+            }
+        ]
+    },
+    {
+        "id": 1011,
+        "seq": 11,
+        "honorMissionType": "master_full_combo",
+        "requirement": 100,
+        "sentence": "Clear 100 songs with a Full Combo on Master difficulty.",
+        "rewards": [
+            {
+                "id": 2454,
+                "missionType": "honor_mission",
+                "missionId": 1011,
+                "seq": 1,
+                "resourceBoxId": 1205
+            }
+        ]
+    },
+    {
+        "id": 1012,
+        "seq": 12,
+        "honorMissionType": "master_full_combo",
+        "requirement": 110,
+        "sentence": "Clear 110 songs with a Full Combo on Master difficulty.",
+        "rewards": [
+            {
+                "id": 2455,
+                "missionType": "honor_mission",
+                "missionId": 1012,
+                "seq": 1,
+                "resourceBoxId": 1206
+            }
+        ]
+    },
+    {
+        "id": 1013,
+        "seq": 13,
+        "honorMissionType": "master_full_combo",
+        "requirement": 120,
+        "sentence": "Clear 120 songs with a Full Combo on Master difficulty.",
+        "rewards": [
+            {
+                "id": 2456,
+                "missionType": "honor_mission",
+                "missionId": 1013,
+                "seq": 1,
+                "resourceBoxId": 1207
+            }
+        ]
+    },
+    {
+        "id": 1104,
+        "seq": 4,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 30,
+        "sentence": "Clear 30 songs on Master difficulty with All Perfects.",
+        "rewards": [
+            {
+                "id": 492,
+                "missionType": "honor_mission",
+                "missionId": 1104,
+                "seq": 1,
+                "resourceBoxId": 1064
+            }
+        ]
+    },
+    {
+        "id": 1105,
+        "seq": 5,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 40,
+        "sentence": "Clear 40 songs on Master difficulty with All Perfects.",
+        "rewards": [
+            {
+                "id": 493,
+                "missionType": "honor_mission",
+                "missionId": 1105,
+                "seq": 1,
+                "resourceBoxId": 1065
+            }
+        ]
+    },
+    {
+        "id": 1106,
+        "seq": 6,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 50,
+        "sentence": "Clear 50 songs on Master difficulty with All Perfects.",
+        "rewards": [
+            {
+                "id": 494,
+                "missionType": "honor_mission",
+                "missionId": 1106,
+                "seq": 1,
+                "resourceBoxId": 1066
+            }
+        ]
+    },
+    {
+        "id": 1107,
+        "seq": 7,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 60,
+        "sentence": "Clear 60 songs on Master difficulty with All Perfects.",
+        "rewards": [
+            {
+                "id": 1236,
+                "missionType": "honor_mission",
+                "missionId": 1107,
+                "seq": 1,
+                "resourceBoxId": 1157
+            }
+        ]
+    },
+    {
+        "id": 1108,
+        "seq": 8,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 70,
+        "sentence": "Clear 70 songs on Master difficulty with All Perfects.",
+        "rewards": [
+            {
+                "id": 1237,
+                "missionType": "honor_mission",
+                "missionId": 1108,
+                "seq": 1,
+                "resourceBoxId": 1158
+            }
+        ]
+    },
+    {
+        "id": 1109,
+        "seq": 9,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 80,
+        "sentence": "Clear 80 songs on Master difficulty with All Perfects.",
+        "rewards": [
+            {
+                "id": 2457,
+                "missionType": "honor_mission",
+                "missionId": 1109,
+                "seq": 1,
+                "resourceBoxId": 1208
+            }
+        ]
+    },
+    {
+        "id": 1110,
+        "seq": 10,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 90,
+        "sentence": "Clear 90 songs on Master difficulty with All Perfects.",
+        "rewards": [
+            {
+                "id": 2458,
+                "missionType": "honor_mission",
+                "missionId": 1110,
+                "seq": 1,
+                "resourceBoxId": 1209
+            }
+        ]
+    },
+    {
+        "id": 1111,
+        "seq": 11,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 100,
+        "sentence": "Clear 100 songs on Master difficulty with All Perfects.",
+        "rewards": [
+            {
+                "id": 2459,
+                "missionType": "honor_mission",
+                "missionId": 1111,
+                "seq": 1,
+                "resourceBoxId": 1210
+            }
+        ]
+    },
+    {
+        "id": 1112,
+        "seq": 12,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 110,
+        "sentence": "Clear 110 songs on Master difficulty with All Perfects.",
+        "rewards": [
+            {
+                "id": 2460,
+                "missionType": "honor_mission",
+                "missionId": 1112,
+                "seq": 1,
+                "resourceBoxId": 1211
+            }
+        ]
+    },
+    {
+        "id": 1113,
+        "seq": 13,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 120,
+        "sentence": "Clear 120 songs on Master difficulty with All Perfects.",
+        "rewards": [
+            {
+                "id": 2461,
+                "missionType": "honor_mission",
+                "missionId": 1113,
+                "seq": 1,
+                "resourceBoxId": 1212
+            }
+        ]
+    },
+    {
+        "id": 1201,
+        "seq": 1,
+        "honorMissionType": "clear_live_target_life",
+        "requirement": 2000,
+        "sentence": "Clear a show with 2,000 Life.",
+        "rewards": [
+            {
+                "id": 329,
+                "missionType": "honor_mission",
+                "missionId": 1201,
+                "seq": 1,
+                "resourceBoxId": 1035
+            }
+        ]
+    },
+    {
+        "id": 1301,
+        "seq": 1,
+        "honorMissionType": "clear_live_continued",
+        "requirement": 5,
+        "sentence": "Clear a show using five or more continues.",
+        "rewards": [
+            {
+                "id": 330,
+                "missionType": "honor_mission",
+                "missionId": 1301,
+                "seq": 1,
+                "resourceBoxId": 1036
+            }
+        ]
+    },
+    {
+        "id": 1401,
+        "seq": 1,
+        "honorMissionType": "clear_live_combo",
+        "requirement": 1000,
+        "sentence": "Clear a show with a combo of at least 1,000.",
+        "rewards": [
+            {
+                "id": 331,
+                "missionType": "honor_mission",
+                "missionId": 1401,
+                "seq": 1,
+                "resourceBoxId": 1037
+            }
+        ]
+    },
+    {
+        "id": 1501,
+        "seq": 1,
+        "honorMissionType": "collect_coin_total",
+        "requirement": 1000000,
+        "sentence": "Obtain 1,000,000 Coins in total.",
+        "rewards": [
+            {
+                "id": 332,
+                "missionType": "honor_mission",
+                "missionId": 1501,
+                "seq": 1,
+                "resourceBoxId": 1038
+            }
+        ]
+    },
+    {
+        "id": 1601,
+        "seq": 1,
+        "honorMissionType": "clear_multi_live_full_combo_all",
+        "requirement": 1,
+        "sentence": "Clear a Co-op/Cheerful Show with all five participants achieving a Full Combo.",
+        "rewards": [
+            {
+                "id": 333,
+                "missionType": "honor_mission",
+                "missionId": 1601,
+                "seq": 1,
+                "resourceBoxId": 1039
+            }
+        ]
+    },
+    {
+        "id": 1701,
+        "seq": 1,
+        "honorMissionType": "multi_live_select_same_music",
+        "requirement": 1,
+        "sentence": "Clear a Co-op/Cheerful Show where all five participants have selected the same song.",
+        "rewards": [
+            {
+                "id": 334,
+                "missionType": "honor_mission",
+                "missionId": 1701,
+                "seq": 1,
+                "resourceBoxId": 1040
+            }
+        ]
+    },
+    {
+        "id": 1801,
+        "seq": 1,
+        "honorMissionType": "multi_live_same_honor",
+        "requirement": 1,
+        "sentence": "Clear a Co-op/Cheerful Show where all five participants have at least one Title in common.",
+        "rewards": [
+            {
+                "id": 335,
+                "missionType": "honor_mission",
+                "missionId": 1801,
+                "seq": 1,
+                "resourceBoxId": 1041
+            }
+        ]
+    },
+    {
+        "id": 1901,
+        "seq": 1,
+        "honorMissionType": "multi_live_stamp",
+        "requirement": 1000,
+        "sentence": "Use 1,000 Stamps in Co-op/Cheerful Show.",
+        "rewards": [
+            {
+                "id": 336,
+                "missionType": "honor_mission",
+                "missionId": 1901,
+                "seq": 1,
+                "resourceBoxId": 1042
+            }
+        ]
+    },
+    {
+        "id": 2001,
+        "seq": 1,
+        "honorMissionType": "duplicate_card_total",
+        "requirement": 100,
+        "sentence": "Have a total of 100 members in the Green Room.",
+        "rewards": [
+            {
+                "id": 337,
+                "missionType": "honor_mission",
+                "missionId": 2001,
+                "seq": 1,
+                "resourceBoxId": 1043
+            }
+        ]
+    },
+    {
+        "id": 2101,
+        "seq": 1,
+        "honorMissionType": "collect_stamp",
+        "requirement": 30,
+        "sentence": "Collect 30 Stamps.",
+        "rewards": [
+            {
+                "id": 338,
+                "missionType": "honor_mission",
+                "missionId": 2101,
+                "seq": 1,
+                "resourceBoxId": 1044
+            }
+        ]
+    },
+    {
+        "id": 2201,
+        "seq": 1,
+        "honorMissionType": "action_set",
+        "requirement": 500,
+        "sentence": "View 500 Area Conversations.",
+        "rewards": [
+            {
+                "id": 339,
+                "missionType": "honor_mission",
+                "missionId": 2201,
+                "seq": 1,
+                "resourceBoxId": 1045
+            }
+        ]
+    },
+    {
+        "id": 2301,
+        "seq": 1,
+        "honorMissionType": "read_story_no_skip",
+        "requirement": 100,
+        "sentence": "View 100 episodes of either the Main Story or Side Stories without skipping.",
+        "rewards": [
+            {
+                "id": 340,
+                "missionType": "honor_mission",
+                "missionId": 2301,
+                "seq": 1,
+                "resourceBoxId": 1046
+            }
+        ]
+    },
+    {
+        "id": 2401,
+        "seq": 1,
+        "honorMissionType": "clear_live_school_year_1",
+        "requirement": 100,
+        "sentence": "Play 100 shows with five 1st year students.",
+        "rewards": [
+            {
+                "id": 341,
+                "missionType": "honor_mission",
+                "missionId": 2401,
+                "seq": 1,
+                "resourceBoxId": 1047
+            }
+        ]
+    },
+    {
+        "id": 2501,
+        "seq": 1,
+        "honorMissionType": "clear_live_school_year_2",
+        "requirement": 100,
+        "sentence": "Play 100 shows with five 2nd year students.",
+        "rewards": [
+            {
+                "id": 342,
+                "missionType": "honor_mission",
+                "missionId": 2501,
+                "seq": 1,
+                "resourceBoxId": 1048
+            }
+        ]
+    },
+    {
+        "id": 2601,
+        "seq": 1,
+        "honorMissionType": "clear_live_school_miyamasuzaka",
+        "requirement": 100,
+        "sentence": "Play 100 shows with five characters from Miyamasuzaka Girls Academy.",
+        "rewards": [
+            {
+                "id": 343,
+                "missionType": "honor_mission",
+                "missionId": 2601,
+                "seq": 1,
+                "resourceBoxId": 1049
+            }
+        ]
+    },
+    {
+        "id": 2701,
+        "seq": 1,
+        "honorMissionType": "clear_live_school_kamiyama",
+        "requirement": 100,
+        "sentence": "Play 100 shows with five characters from Kamiyama High School.",
+        "rewards": [
+            {
+                "id": 344,
+                "missionType": "honor_mission",
+                "missionId": 2701,
+                "seq": 1,
+                "resourceBoxId": 1050
+            }
+        ]
+    },
+    {
+        "id": 2801,
+        "seq": 1,
+        "honorMissionType": "clear_live_male",
+        "requirement": 100,
+        "sentence": "Play 100 shows with only Tsukasa, Akito, Toya, Rui, Len, and KAITO.",
+        "rewards": [
+            {
+                "id": 345,
+                "missionType": "honor_mission",
+                "missionId": 2801,
+                "seq": 1,
+                "resourceBoxId": 1051
+            }
+        ]
+    },
+    {
+        "id": 2901,
+        "seq": 1,
+        "honorMissionType": "multi_live_mvp",
+        "requirement": 100,
+        "sentence": "Be crowned MVP in a Co-op/Cheerful Show 100 times.",
+        "rewards": [
+            {
+                "id": 346,
+                "missionType": "honor_mission",
+                "missionId": 2901,
+                "seq": 1,
+                "resourceBoxId": 1052
+            }
+        ]
+    },
+    {
+        "id": 3001,
+        "seq": 1,
+        "honorMissionType": "multi_live_super_star",
+        "requirement": 100,
+        "sentence": "Be crowned SUPERSTAR in a Co-op/Cheerful Show 100 times.",
+        "rewards": [
+            {
+                "id": 347,
+                "missionType": "honor_mission",
+                "missionId": 3001,
+                "seq": 1,
+                "resourceBoxId": 1053
+            }
+        ]
+    },
+    {
+        "id": 3101,
+        "seq": 1,
+        "honorMissionType": "collect_costume_3d",
+        "requirement": 50,
+        "sentence": "Obtain 50 Costumes.",
+        "rewards": [
+            {
+                "id": 348,
+                "missionType": "honor_mission",
+                "missionId": 3101,
+                "seq": 1,
+                "resourceBoxId": 1054
+            }
+        ]
+    },
+    {
+        "id": 3401,
+        "seq": 1,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 5000,
+        "sentence": "Get 5,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 495,
+                "missionType": "honor_mission",
+                "missionId": 3401,
+                "seq": 1,
+                "resourceBoxId": 1067
+            }
+        ]
+    },
+    {
+        "id": 3402,
+        "seq": 2,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 10000,
+        "sentence": "Get 10,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 496,
+                "missionType": "honor_mission",
+                "missionId": 3402,
+                "seq": 1,
+                "resourceBoxId": 1068
+            }
+        ]
+    },
+    {
+        "id": 3403,
+        "seq": 3,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 15000,
+        "sentence": "Get 15,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 497,
+                "missionType": "honor_mission",
+                "missionId": 3403,
+                "seq": 1,
+                "resourceBoxId": 1069
+            }
+        ]
+    },
+    {
+        "id": 3404,
+        "seq": 4,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 20000,
+        "sentence": "Get 20,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 498,
+                "missionType": "honor_mission",
+                "missionId": 3404,
+                "seq": 1,
+                "resourceBoxId": 1070
+            }
+        ]
+    },
+    {
+        "id": 3405,
+        "seq": 5,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 25000,
+        "sentence": "Get 25,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 499,
+                "missionType": "honor_mission",
+                "missionId": 3405,
+                "seq": 1,
+                "resourceBoxId": 1071
+            }
+        ]
+    },
+    {
+        "id": 3406,
+        "seq": 6,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 30000,
+        "sentence": "Get 30,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 500,
+                "missionType": "honor_mission",
+                "missionId": 3406,
+                "seq": 1,
+                "resourceBoxId": 1072
+            }
+        ]
+    },
+    {
+        "id": 3407,
+        "seq": 7,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 40000,
+        "sentence": "Get 40,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 501,
+                "missionType": "honor_mission",
+                "missionId": 3407,
+                "seq": 1,
+                "resourceBoxId": 1073
+            }
+        ]
+    },
+    {
+        "id": 3408,
+        "seq": 8,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 50000,
+        "sentence": "Get 50,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 502,
+                "missionType": "honor_mission",
+                "missionId": 3408,
+                "seq": 1,
+                "resourceBoxId": 1074
+            }
+        ]
+    },
+    {
+        "id": 3409,
+        "seq": 9,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 60000,
+        "sentence": "Get 60,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 503,
+                "missionType": "honor_mission",
+                "missionId": 3409,
+                "seq": 1,
+                "resourceBoxId": 1075
+            }
+        ]
+    },
+    {
+        "id": 3410,
+        "seq": 10,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 70000,
+        "sentence": "Get 70,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 504,
+                "missionType": "honor_mission",
+                "missionId": 3410,
+                "seq": 1,
+                "resourceBoxId": 1076
+            }
+        ]
+    },
+    {
+        "id": 3411,
+        "seq": 11,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 120000,
+        "sentence": "Get 120,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 2462,
+                "missionType": "honor_mission",
+                "missionId": 3411,
+                "seq": 1,
+                "resourceBoxId": 1213
+            }
+        ]
+    },
+    {
+        "id": 3412,
+        "seq": 12,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 170000,
+        "sentence": "Get 170,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 2463,
+                "missionType": "honor_mission",
+                "missionId": 3412,
+                "seq": 1,
+                "resourceBoxId": 1214
+            }
+        ]
+    },
+    {
+        "id": 3413,
+        "seq": 13,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 220000,
+        "sentence": "Get 220,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 2464,
+                "missionType": "honor_mission",
+                "missionId": 3413,
+                "seq": 1,
+                "resourceBoxId": 1215
+            }
+        ]
+    },
+    {
+        "id": 3414,
+        "seq": 14,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 270000,
+        "sentence": "Get 270,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 2465,
+                "missionType": "honor_mission",
+                "missionId": 3414,
+                "seq": 1,
+                "resourceBoxId": 1216
+            }
+        ]
+    },
+    {
+        "id": 3415,
+        "seq": 15,
+        "honorMissionType": "light_sound_virtual_live_total_cheer_point",
+        "requirement": 320000,
+        "sentence": "Get 320,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+        "rewards": [
+            {
+                "id": 2466,
+                "missionType": "honor_mission",
+                "missionId": 3415,
+                "seq": 1,
+                "resourceBoxId": 1217
+            }
+        ]
+    },
+    {
+        "id": 3501,
+        "seq": 1,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 5000,
+        "sentence": "Get 5,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 505,
+                "missionType": "honor_mission",
+                "missionId": 3501,
+                "seq": 1,
+                "resourceBoxId": 1077
+            }
+        ]
+    },
+    {
+        "id": 3502,
+        "seq": 2,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 10000,
+        "sentence": "Get 10,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 506,
+                "missionType": "honor_mission",
+                "missionId": 3502,
+                "seq": 1,
+                "resourceBoxId": 1078
+            }
+        ]
+    },
+    {
+        "id": 3503,
+        "seq": 3,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 15000,
+        "sentence": "Get 15,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 507,
+                "missionType": "honor_mission",
+                "missionId": 3503,
+                "seq": 1,
+                "resourceBoxId": 1079
+            }
+        ]
+    },
+    {
+        "id": 3504,
+        "seq": 4,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 20000,
+        "sentence": "Get 20,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 508,
+                "missionType": "honor_mission",
+                "missionId": 3504,
+                "seq": 1,
+                "resourceBoxId": 1080
+            }
+        ]
+    },
+    {
+        "id": 3505,
+        "seq": 5,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 25000,
+        "sentence": "Get 25,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 509,
+                "missionType": "honor_mission",
+                "missionId": 3505,
+                "seq": 1,
+                "resourceBoxId": 1081
+            }
+        ]
+    },
+    {
+        "id": 3506,
+        "seq": 6,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 30000,
+        "sentence": "Get 30,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 510,
+                "missionType": "honor_mission",
+                "missionId": 3506,
+                "seq": 1,
+                "resourceBoxId": 1082
+            }
+        ]
+    },
+    {
+        "id": 3507,
+        "seq": 7,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 40000,
+        "sentence": "Get 40,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 511,
+                "missionType": "honor_mission",
+                "missionId": 3507,
+                "seq": 1,
+                "resourceBoxId": 1083
+            }
+        ]
+    },
+    {
+        "id": 3508,
+        "seq": 8,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 50000,
+        "sentence": "Get 50,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 512,
+                "missionType": "honor_mission",
+                "missionId": 3508,
+                "seq": 1,
+                "resourceBoxId": 1084
+            }
+        ]
+    },
+    {
+        "id": 3509,
+        "seq": 9,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 60000,
+        "sentence": "Get 60,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 513,
+                "missionType": "honor_mission",
+                "missionId": 3509,
+                "seq": 1,
+                "resourceBoxId": 1085
+            }
+        ]
+    },
+    {
+        "id": 3510,
+        "seq": 10,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 70000,
+        "sentence": "Get 70,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 514,
+                "missionType": "honor_mission",
+                "missionId": 3510,
+                "seq": 1,
+                "resourceBoxId": 1086
+            }
+        ]
+    },
+    {
+        "id": 3511,
+        "seq": 11,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 120000,
+        "sentence": "Get 120,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 2467,
+                "missionType": "honor_mission",
+                "missionId": 3511,
+                "seq": 1,
+                "resourceBoxId": 1218
+            }
+        ]
+    },
+    {
+        "id": 3512,
+        "seq": 12,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 170000,
+        "sentence": "Get 170,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 2468,
+                "missionType": "honor_mission",
+                "missionId": 3512,
+                "seq": 1,
+                "resourceBoxId": 1219
+            }
+        ]
+    },
+    {
+        "id": 3513,
+        "seq": 13,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 220000,
+        "sentence": "Get 220,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 2469,
+                "missionType": "honor_mission",
+                "missionId": 3513,
+                "seq": 1,
+                "resourceBoxId": 1220
+            }
+        ]
+    },
+    {
+        "id": 3514,
+        "seq": 14,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 270000,
+        "sentence": "Get 270,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 2470,
+                "missionType": "honor_mission",
+                "missionId": 3514,
+                "seq": 1,
+                "resourceBoxId": 1221
+            }
+        ]
+    },
+    {
+        "id": 3515,
+        "seq": 15,
+        "honorMissionType": "idol_virtual_live_total_cheer_point",
+        "requirement": 320000,
+        "sentence": "Get 320,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+        "rewards": [
+            {
+                "id": 2471,
+                "missionType": "honor_mission",
+                "missionId": 3515,
+                "seq": 1,
+                "resourceBoxId": 1222
+            }
+        ]
+    },
+    {
+        "id": 3601,
+        "seq": 1,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 5000,
+        "sentence": "Get 5,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 515,
+                "missionType": "honor_mission",
+                "missionId": 3601,
+                "seq": 1,
+                "resourceBoxId": 1087
+            }
+        ]
+    },
+    {
+        "id": 3602,
+        "seq": 2,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 10000,
+        "sentence": "Get 10,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 516,
+                "missionType": "honor_mission",
+                "missionId": 3602,
+                "seq": 1,
+                "resourceBoxId": 1088
+            }
+        ]
+    },
+    {
+        "id": 3603,
+        "seq": 3,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 15000,
+        "sentence": "Get 15,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 517,
+                "missionType": "honor_mission",
+                "missionId": 3603,
+                "seq": 1,
+                "resourceBoxId": 1089
+            }
+        ]
+    },
+    {
+        "id": 3604,
+        "seq": 4,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 20000,
+        "sentence": "Get 20,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 518,
+                "missionType": "honor_mission",
+                "missionId": 3604,
+                "seq": 1,
+                "resourceBoxId": 1090
+            }
+        ]
+    },
+    {
+        "id": 3605,
+        "seq": 5,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 25000,
+        "sentence": "Get 25,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 519,
+                "missionType": "honor_mission",
+                "missionId": 3605,
+                "seq": 1,
+                "resourceBoxId": 1091
+            }
+        ]
+    },
+    {
+        "id": 3606,
+        "seq": 6,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 30000,
+        "sentence": "Get 30,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 520,
+                "missionType": "honor_mission",
+                "missionId": 3606,
+                "seq": 1,
+                "resourceBoxId": 1092
+            }
+        ]
+    },
+    {
+        "id": 3607,
+        "seq": 7,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 40000,
+        "sentence": "Get 40,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 521,
+                "missionType": "honor_mission",
+                "missionId": 3607,
+                "seq": 1,
+                "resourceBoxId": 1093
+            }
+        ]
+    },
+    {
+        "id": 3608,
+        "seq": 8,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 50000,
+        "sentence": "Get 50,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 522,
+                "missionType": "honor_mission",
+                "missionId": 3608,
+                "seq": 1,
+                "resourceBoxId": 1094
+            }
+        ]
+    },
+    {
+        "id": 3609,
+        "seq": 9,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 60000,
+        "sentence": "Get 60,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 523,
+                "missionType": "honor_mission",
+                "missionId": 3609,
+                "seq": 1,
+                "resourceBoxId": 1095
+            }
+        ]
+    },
+    {
+        "id": 3610,
+        "seq": 10,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 70000,
+        "sentence": "Get 70,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 524,
+                "missionType": "honor_mission",
+                "missionId": 3610,
+                "seq": 1,
+                "resourceBoxId": 1096
+            }
+        ]
+    },
+    {
+        "id": 3611,
+        "seq": 11,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 120000,
+        "sentence": "Get 120,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 2472,
+                "missionType": "honor_mission",
+                "missionId": 3611,
+                "seq": 1,
+                "resourceBoxId": 1223
+            }
+        ]
+    },
+    {
+        "id": 3612,
+        "seq": 12,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 170000,
+        "sentence": "Get 170,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 2473,
+                "missionType": "honor_mission",
+                "missionId": 3612,
+                "seq": 1,
+                "resourceBoxId": 1224
+            }
+        ]
+    },
+    {
+        "id": 3613,
+        "seq": 13,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 220000,
+        "sentence": "Get 220,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 2474,
+                "missionType": "honor_mission",
+                "missionId": 3613,
+                "seq": 1,
+                "resourceBoxId": 1225
+            }
+        ]
+    },
+    {
+        "id": 3614,
+        "seq": 14,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 270000,
+        "sentence": "Get 270,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 2475,
+                "missionType": "honor_mission",
+                "missionId": 3614,
+                "seq": 1,
+                "resourceBoxId": 1226
+            }
+        ]
+    },
+    {
+        "id": 3615,
+        "seq": 15,
+        "honorMissionType": "street_virtual_live_total_cheer_point",
+        "requirement": 320000,
+        "sentence": "Get 320,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+        "rewards": [
+            {
+                "id": 2476,
+                "missionType": "honor_mission",
+                "missionId": 3615,
+                "seq": 1,
+                "resourceBoxId": 1227
+            }
+        ]
+    },
+    {
+        "id": 3701,
+        "seq": 1,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 5000,
+        "sentence": "Get 5,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 525,
+                "missionType": "honor_mission",
+                "missionId": 3701,
+                "seq": 1,
+                "resourceBoxId": 1097
+            }
+        ]
+    },
+    {
+        "id": 3702,
+        "seq": 2,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 10000,
+        "sentence": "Get 10,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 526,
+                "missionType": "honor_mission",
+                "missionId": 3702,
+                "seq": 1,
+                "resourceBoxId": 1098
+            }
+        ]
+    },
+    {
+        "id": 3703,
+        "seq": 3,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 15000,
+        "sentence": "Get 15,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 527,
+                "missionType": "honor_mission",
+                "missionId": 3703,
+                "seq": 1,
+                "resourceBoxId": 1099
+            }
+        ]
+    },
+    {
+        "id": 3704,
+        "seq": 4,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 20000,
+        "sentence": "Get 20,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 528,
+                "missionType": "honor_mission",
+                "missionId": 3704,
+                "seq": 1,
+                "resourceBoxId": 1100
+            }
+        ]
+    },
+    {
+        "id": 3705,
+        "seq": 5,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 25000,
+        "sentence": "Get 25,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 529,
+                "missionType": "honor_mission",
+                "missionId": 3705,
+                "seq": 1,
+                "resourceBoxId": 1101
+            }
+        ]
+    },
+    {
+        "id": 3706,
+        "seq": 6,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 30000,
+        "sentence": "Get 30,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 530,
+                "missionType": "honor_mission",
+                "missionId": 3706,
+                "seq": 1,
+                "resourceBoxId": 1102
+            }
+        ]
+    },
+    {
+        "id": 3707,
+        "seq": 7,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 40000,
+        "sentence": "Get 40,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 531,
+                "missionType": "honor_mission",
+                "missionId": 3707,
+                "seq": 1,
+                "resourceBoxId": 1103
+            }
+        ]
+    },
+    {
+        "id": 3708,
+        "seq": 8,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 50000,
+        "sentence": "Get 50,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 532,
+                "missionType": "honor_mission",
+                "missionId": 3708,
+                "seq": 1,
+                "resourceBoxId": 1104
+            }
+        ]
+    },
+    {
+        "id": 3709,
+        "seq": 9,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 60000,
+        "sentence": "Get 60,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 533,
+                "missionType": "honor_mission",
+                "missionId": 3709,
+                "seq": 1,
+                "resourceBoxId": 1105
+            }
+        ]
+    },
+    {
+        "id": 3710,
+        "seq": 10,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 70000,
+        "sentence": "Get 70,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 534,
+                "missionType": "honor_mission",
+                "missionId": 3710,
+                "seq": 1,
+                "resourceBoxId": 1106
+            }
+        ]
+    },
+    {
+        "id": 3711,
+        "seq": 11,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 120000,
+        "sentence": "Get 120,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 2477,
+                "missionType": "honor_mission",
+                "missionId": 3711,
+                "seq": 1,
+                "resourceBoxId": 1228
+            }
+        ]
+    },
+    {
+        "id": 3712,
+        "seq": 12,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 170000,
+        "sentence": "Get 170,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 2478,
+                "missionType": "honor_mission",
+                "missionId": 3712,
+                "seq": 1,
+                "resourceBoxId": 1229
+            }
+        ]
+    },
+    {
+        "id": 3713,
+        "seq": 13,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 220000,
+        "sentence": "Get 220,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 2479,
+                "missionType": "honor_mission",
+                "missionId": 3713,
+                "seq": 1,
+                "resourceBoxId": 1230
+            }
+        ]
+    },
+    {
+        "id": 3714,
+        "seq": 14,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 270000,
+        "sentence": "Get 270,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 2480,
+                "missionType": "honor_mission",
+                "missionId": 3714,
+                "seq": 1,
+                "resourceBoxId": 1231
+            }
+        ]
+    },
+    {
+        "id": 3715,
+        "seq": 15,
+        "honorMissionType": "theme_park_virtual_live_total_cheer_point",
+        "requirement": 320000,
+        "sentence": "Get 320,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+        "rewards": [
+            {
+                "id": 2481,
+                "missionType": "honor_mission",
+                "missionId": 3715,
+                "seq": 1,
+                "resourceBoxId": 1232
+            }
+        ]
+    },
+    {
+        "id": 3801,
+        "seq": 1,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 5000,
+        "sentence": "Get 5,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 535,
+                "missionType": "honor_mission",
+                "missionId": 3801,
+                "seq": 1,
+                "resourceBoxId": 1107
+            }
+        ]
+    },
+    {
+        "id": 3802,
+        "seq": 2,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 10000,
+        "sentence": "Get 10,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 536,
+                "missionType": "honor_mission",
+                "missionId": 3802,
+                "seq": 1,
+                "resourceBoxId": 1108
+            }
+        ]
+    },
+    {
+        "id": 3803,
+        "seq": 3,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 15000,
+        "sentence": "Get 15,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 537,
+                "missionType": "honor_mission",
+                "missionId": 3803,
+                "seq": 1,
+                "resourceBoxId": 1109
+            }
+        ]
+    },
+    {
+        "id": 3804,
+        "seq": 4,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 20000,
+        "sentence": "Get 20,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 538,
+                "missionType": "honor_mission",
+                "missionId": 3804,
+                "seq": 1,
+                "resourceBoxId": 1110
+            }
+        ]
+    },
+    {
+        "id": 3805,
+        "seq": 5,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 25000,
+        "sentence": "Get 25,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 539,
+                "missionType": "honor_mission",
+                "missionId": 3805,
+                "seq": 1,
+                "resourceBoxId": 1111
+            }
+        ]
+    },
+    {
+        "id": 3806,
+        "seq": 6,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 30000,
+        "sentence": "Get 30,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 540,
+                "missionType": "honor_mission",
+                "missionId": 3806,
+                "seq": 1,
+                "resourceBoxId": 1112
+            }
+        ]
+    },
+    {
+        "id": 3807,
+        "seq": 7,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 40000,
+        "sentence": "Get 40,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 541,
+                "missionType": "honor_mission",
+                "missionId": 3807,
+                "seq": 1,
+                "resourceBoxId": 1113
+            }
+        ]
+    },
+    {
+        "id": 3808,
+        "seq": 8,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 50000,
+        "sentence": "Get 50,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 542,
+                "missionType": "honor_mission",
+                "missionId": 3808,
+                "seq": 1,
+                "resourceBoxId": 1114
+            }
+        ]
+    },
+    {
+        "id": 3809,
+        "seq": 9,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 60000,
+        "sentence": "Get 60,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 543,
+                "missionType": "honor_mission",
+                "missionId": 3809,
+                "seq": 1,
+                "resourceBoxId": 1115
+            }
+        ]
+    },
+    {
+        "id": 3810,
+        "seq": 10,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 70000,
+        "sentence": "Get 70,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 544,
+                "missionType": "honor_mission",
+                "missionId": 3810,
+                "seq": 1,
+                "resourceBoxId": 1116
+            }
+        ]
+    },
+    {
+        "id": 3811,
+        "seq": 11,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 120000,
+        "sentence": "Get 120,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 2482,
+                "missionType": "honor_mission",
+                "missionId": 3811,
+                "seq": 1,
+                "resourceBoxId": 1233
+            }
+        ]
+    },
+    {
+        "id": 3812,
+        "seq": 12,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 170000,
+        "sentence": "Get 170,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 2483,
+                "missionType": "honor_mission",
+                "missionId": 3812,
+                "seq": 1,
+                "resourceBoxId": 1234
+            }
+        ]
+    },
+    {
+        "id": 3813,
+        "seq": 13,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 220000,
+        "sentence": "Get 220,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 2484,
+                "missionType": "honor_mission",
+                "missionId": 3813,
+                "seq": 1,
+                "resourceBoxId": 1235
+            }
+        ]
+    },
+    {
+        "id": 3814,
+        "seq": 14,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 270000,
+        "sentence": "Get 270,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 2485,
+                "missionType": "honor_mission",
+                "missionId": 3814,
+                "seq": 1,
+                "resourceBoxId": 1236
+            }
+        ]
+    },
+    {
+        "id": 3815,
+        "seq": 15,
+        "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
+        "requirement": 320000,
+        "sentence": "Get 320,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+        "rewards": [
+            {
+                "id": 2486,
+                "missionType": "honor_mission",
+                "missionId": 3815,
+                "seq": 1,
+                "resourceBoxId": 1237
+            }
+        ]
+    },
+    {
+        "id": 3850,
+        "seq": 11,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 120000,
+        "sentence": "Get 120,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 2487,
+                "missionType": "honor_mission",
+                "missionId": 3850,
+                "seq": 1,
+                "resourceBoxId": 1238
+            }
+        ]
+    },
+    {
+        "id": 3851,
+        "seq": 12,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 170000,
+        "sentence": "Get 170,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 2488,
+                "missionType": "honor_mission",
+                "missionId": 3851,
+                "seq": 1,
+                "resourceBoxId": 1239
+            }
+        ]
+    },
+    {
+        "id": 3852,
+        "seq": 13,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 220000,
+        "sentence": "Get 220,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 2489,
+                "missionType": "honor_mission",
+                "missionId": 3852,
+                "seq": 1,
+                "resourceBoxId": 1240
+            }
+        ]
+    },
+    {
+        "id": 3853,
+        "seq": 14,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 270000,
+        "sentence": "Get 270,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 2490,
+                "missionType": "honor_mission",
+                "missionId": 3853,
+                "seq": 1,
+                "resourceBoxId": 1241
+            }
+        ]
+    },
+    {
+        "id": 3854,
+        "seq": 15,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 320000,
+        "sentence": "Get 320,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 2491,
+                "missionType": "honor_mission",
+                "missionId": 3854,
+                "seq": 1,
+                "resourceBoxId": 1242
+            }
+        ]
+    },
+    {
+        "id": 3901,
+        "seq": 1,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 5000,
+        "sentence": "Get 5,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 545,
+                "missionType": "honor_mission",
+                "missionId": 3901,
+                "seq": 1,
+                "resourceBoxId": 1117
+            }
+        ]
+    },
+    {
+        "id": 3902,
+        "seq": 2,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 10000,
+        "sentence": "Get 10,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 546,
+                "missionType": "honor_mission",
+                "missionId": 3902,
+                "seq": 1,
+                "resourceBoxId": 1118
+            }
+        ]
+    },
+    {
+        "id": 3903,
+        "seq": 3,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 15000,
+        "sentence": "Get 15,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 547,
+                "missionType": "honor_mission",
+                "missionId": 3903,
+                "seq": 1,
+                "resourceBoxId": 1119
+            }
+        ]
+    },
+    {
+        "id": 3904,
+        "seq": 4,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 20000,
+        "sentence": "Get 20,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 548,
+                "missionType": "honor_mission",
+                "missionId": 3904,
+                "seq": 1,
+                "resourceBoxId": 1120
+            }
+        ]
+    },
+    {
+        "id": 3905,
+        "seq": 5,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 25000,
+        "sentence": "Get 25,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 549,
+                "missionType": "honor_mission",
+                "missionId": 3905,
+                "seq": 1,
+                "resourceBoxId": 1121
+            }
+        ]
+    },
+    {
+        "id": 3906,
+        "seq": 6,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 30000,
+        "sentence": "Get 30,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 550,
+                "missionType": "honor_mission",
+                "missionId": 3906,
+                "seq": 1,
+                "resourceBoxId": 1122
+            }
+        ]
+    },
+    {
+        "id": 3907,
+        "seq": 7,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 40000,
+        "sentence": "Get 40,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 551,
+                "missionType": "honor_mission",
+                "missionId": 3907,
+                "seq": 1,
+                "resourceBoxId": 1123
+            }
+        ]
+    },
+    {
+        "id": 3908,
+        "seq": 8,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 50000,
+        "sentence": "Get 50,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 552,
+                "missionType": "honor_mission",
+                "missionId": 3908,
+                "seq": 1,
+                "resourceBoxId": 1124
+            }
+        ]
+    },
+    {
+        "id": 3909,
+        "seq": 9,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 60000,
+        "sentence": "Get 60,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 553,
+                "missionType": "honor_mission",
+                "missionId": 3909,
+                "seq": 1,
+                "resourceBoxId": 1125
+            }
+        ]
+    },
+    {
+        "id": 3910,
+        "seq": 10,
+        "honorMissionType": "piapro_virtual_live_total_cheer_point",
+        "requirement": 70000,
+        "sentence": "Get 70,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+        "rewards": [
+            {
+                "id": 554,
+                "missionType": "honor_mission",
+                "missionId": 3910,
+                "seq": 1,
+                "resourceBoxId": 1126
+            }
+        ]
+    },
+    {
+        "id": 3911,
+        "seq": 1,
+        "honorMissionType": "send_friend_request",
+        "requirement": 1,
+        "sentence": "Send a Friend Request.",
+        "rewards": [
+            {
+                "id": 959,
+                "missionType": "honor_mission",
+                "missionId": 3911,
+                "seq": 1,
+                "resourceBoxId": 1140
+            }
+        ]
+    },
+    {
+        "id": 3912,
+        "seq": 1,
+        "honorMissionType": "make_friend",
+        "requirement": 100,
+        "sentence": "Add 100 players to your Friends List.",
+        "rewards": [
+            {
+                "id": 960,
+                "missionType": "honor_mission",
+                "missionId": 3912,
+                "seq": 1,
+                "resourceBoxId": 1141
+            }
+        ]
+    },
+    {
+        "id": 3913,
+        "seq": 1,
+        "honorMissionType": "clear_multi_live_all_friend",
+        "requirement": 1,
+        "sentence": "Play a Co-op/Cheerful Show with five friends.",
+        "rewards": [
+            {
+                "id": 961,
+                "missionType": "honor_mission",
+                "missionId": 3913,
+                "seq": 1,
+                "resourceBoxId": 1142
+            }
+        ]
+    }
+]

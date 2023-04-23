@@ -1,0 +1,967 @@
+[
+    {
+        "id": 1,
+        "name": "Ichika Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 2,
+        "name": "Saki Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 3,
+        "name": "Honami Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 4,
+        "name": "Shiho Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 5,
+        "name": "Minori Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 6,
+        "name": "Haruka Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 7,
+        "name": "Airi Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 8,
+        "name": "Shizuku Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 9,
+        "name": "Kohane Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 10,
+        "name": "An Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 11,
+        "name": "Akito Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 12,
+        "name": "Toya Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 13,
+        "name": "Tsukasa Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 14,
+        "name": "Emu Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 15,
+        "name": "Nene Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 16,
+        "name": "Rui Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 17,
+        "name": "Kanade Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 18,
+        "name": "Mafuyu Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 19,
+        "name": "Ena Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 20,
+        "name": "Mizuki Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 21,
+        "name": "Miku Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 22,
+        "name": "Rin Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 23,
+        "name": "Len Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 24,
+        "name": "Luka Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 25,
+        "name": "MEIKO Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 26,
+        "name": "KAITO Fan",
+        "honorType": "character"
+    },
+    {
+        "id": 27,
+        "name": "39!",
+        "honorType": "achievement"
+    },
+    {
+        "id": 28,
+        "name": "3939!",
+        "honorType": "achievement"
+    },
+    {
+        "id": 29,
+        "name": "Real Deal",
+        "honorType": "achievement"
+    },
+    {
+        "id": 30,
+        "name": "Pro",
+        "honorType": "achievement"
+    },
+    {
+        "id": 31,
+        "name": "Regular",
+        "honorType": "achievement"
+    },
+    {
+        "id": 32,
+        "name": "Old Skool",
+        "honorType": "achievement"
+    },
+    {
+        "id": 33,
+        "name": "Cover Artist",
+        "honorType": "achievement"
+    },
+    {
+        "id": 34,
+        "name": "Fan of All",
+        "honorType": "achievement"
+    },
+    {
+        "id": 35,
+        "name": "Item Collector",
+        "honorType": "achievement"
+    },
+    {
+        "id": 36,
+        "name": "I Love Them All!",
+        "honorType": "achievement"
+    },
+    {
+        "id": 37,
+        "name": "Perfectionist",
+        "honorType": "achievement"
+    },
+    {
+        "id": 38,
+        "name": "Mad Skillz",
+        "honorType": "achievement"
+    },
+    {
+        "id": 39,
+        "name": "Madder Skillz",
+        "honorType": "achievement"
+    },
+    {
+        "id": 40,
+        "name": "Safety First",
+        "honorType": "achievement"
+    },
+    {
+        "id": 41,
+        "name": "Never Give Up!",
+        "honorType": "achievement"
+    },
+    {
+        "id": 42,
+        "name": "Carpal Tunnel",
+        "honorType": "achievement"
+    },
+    {
+        "id": 43,
+        "name": "Millionaire",
+        "honorType": "achievement"
+    },
+    {
+        "id": 44,
+        "name": "Full Combo 4 All!",
+        "honorType": "achievement"
+    },
+    {
+        "id": 45,
+        "name": "Synchronized",
+        "honorType": "achievement"
+    },
+    {
+        "id": 46,
+        "name": "Doppelgänger",
+        "honorType": "achievement"
+    },
+    {
+        "id": 47,
+        "name": "Say Hello",
+        "honorType": "achievement"
+    },
+    {
+        "id": 49,
+        "name": "Hello & Goodbye",
+        "honorType": "achievement"
+    },
+    {
+        "id": 50,
+        "name": "Stamp Collector",
+        "honorType": "achievement"
+    },
+    {
+        "id": 51,
+        "name": "In The Know",
+        "honorType": "achievement"
+    },
+    {
+        "id": 52,
+        "name": "Read It All",
+        "honorType": "achievement"
+    },
+    {
+        "id": 53,
+        "name": "1st Year Senior High Student",
+        "honorType": "achievement"
+    },
+    {
+        "id": 54,
+        "name": "2nd Year Senior High Student",
+        "honorType": "achievement"
+    },
+    {
+        "id": 55,
+        "name": "Miya Girls' Academy Student",
+        "honorType": "achievement"
+    },
+    {
+        "id": 56,
+        "name": "Kamiyama Student",
+        "honorType": "achievement"
+    },
+    {
+        "id": 57,
+        "name": "Boy Band",
+        "honorType": "achievement"
+    },
+    {
+        "id": 58,
+        "name": "MVP",
+        "honorType": "achievement"
+    },
+    {
+        "id": 59,
+        "name": "SUPERSTAR",
+        "honorType": "achievement"
+    },
+    {
+        "id": 60,
+        "name": "Trendsetter",
+        "honorType": "achievement"
+    },
+    {
+        "id": 71,
+        "name": "First Star After the Rain",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0182"
+    },
+    {
+        "id": 72,
+        "name": "L/N Fan Club",
+        "honorType": "achievement"
+    },
+    {
+        "id": 73,
+        "name": "MMJ Fan Club",
+        "honorType": "achievement"
+    },
+    {
+        "id": 74,
+        "name": "VBS Fan Club",
+        "honorType": "achievement"
+    },
+    {
+        "id": 75,
+        "name": "WXS Fan Club",
+        "honorType": "achievement"
+    },
+    {
+        "id": 76,
+        "name": "N25 Fan Club",
+        "honorType": "achievement"
+    },
+    {
+        "id": 77,
+        "name": "VIRTUAL SINGER Fan Club",
+        "honorType": "achievement"
+    },
+    {
+        "id": 78,
+        "name": "Happy Birthday Ichika Aug.11,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 79,
+        "name": "Happy Birthday Saki May 9,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 80,
+        "name": "Happy Birthday Honami Oct.27,2021",
+        "honorType": "event"
+    },
+    {
+        "id": 81,
+        "name": "Happy Birthday Shiho Jan.8,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 82,
+        "name": "Happy Birthday Minori Apr.14,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 83,
+        "name": "Happy Birthday Haruka Oct.05,2021",
+        "honorType": "event"
+    },
+    {
+        "id": 84,
+        "name": "Happy Birthday Airi Mar.19,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 85,
+        "name": "Happy Birthday Shizuku Dec.6,2021",
+        "honorType": "event"
+    },
+    {
+        "id": 86,
+        "name": "Happy Birthday Kohane Mar.2,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 87,
+        "name": "Happy Birthday An Jul.26,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 88,
+        "name": "Happy Birthday Akito Nov.12,2021",
+        "honorType": "event"
+    },
+    {
+        "id": 89,
+        "name": "Happy Birthday Toya May 25,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 90,
+        "name": "Happy Birthday Tsukasa May 17,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 91,
+        "name": "Happy Birthday Emu Sep.9,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 92,
+        "name": "Happy Birthday Nene Jul.20,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 93,
+        "name": "Happy Birthday Rui Jun.24,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 94,
+        "name": "Happy Birthday Kanade Feb.10,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 95,
+        "name": "Happy Birthday Mafuyu Jan.27,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 96,
+        "name": "Happy Birthday Ena Apr.30,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 97,
+        "name": "Happy Birthday Mizuki Aug.27,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 98,
+        "name": "Happy Anniversary Miku Aug.31,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 99,
+        "name": "Happy Anniversary Rin Dec.27,2021",
+        "honorType": "event"
+    },
+    {
+        "id": 100,
+        "name": "Happy Anniversary Len Dec.27,2021",
+        "honorType": "event"
+    },
+    {
+        "id": 101,
+        "name": "Happy Anniversary Luka Jan.30,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 102,
+        "name": "Happy Anniversary MEIKO Nov.5,2021",
+        "honorType": "event"
+    },
+    {
+        "id": 103,
+        "name": "Happy Anniversary KAITO Feb.17,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 104,
+        "name": "Imprisoned Marionette",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0256"
+    },
+    {
+        "id": 105,
+        "name": "It's On! Wonder Halloween!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0280"
+    },
+    {
+        "id": 106,
+        "name": "Halloween 2021",
+        "honorType": "event"
+    },
+    {
+        "id": 107,
+        "name": "Run! Sports Festival! Committee Rush",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0305"
+    },
+    {
+        "id": 108,
+        "name": "Time to RE:START!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0329"
+    },
+    {
+        "id": 110,
+        "name": "Platinum",
+        "honorType": "achievement"
+    },
+    {
+        "id": 111,
+        "name": "Singing in Sync",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0358"
+    },
+    {
+        "id": 112,
+        "name": "KAMIYAMA HIGH FESTIVAL!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0382"
+    },
+    {
+        "id": 113,
+        "name": "On This Holy Night, I Sing",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0406"
+    },
+    {
+        "id": 114,
+        "name": "Christmas 2021",
+        "honorType": "event"
+    },
+    {
+        "id": 115,
+        "name": "RAGE HATSUNE MIKU: COLORFUL STAGE! 2020 Winter Powered by AQUOS",
+        "honorType": "event"
+    },
+    {
+        "id": 116,
+        "name": "New Year's Countdown Show 2022",
+        "honorType": "event"
+    },
+    {
+        "id": 117,
+        "name": "SEKAI Happy New Year!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0436"
+    },
+    {
+        "id": 118,
+        "name": "Don't Let Doubts Hold You Back",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0460"
+    },
+    {
+        "id": 119,
+        "name": "My Color!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0484"
+    },
+    {
+        "id": 120,
+        "name": "Nocturne Interlude",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0508"
+    },
+    {
+        "id": 121,
+        "name": "Looking for Friends",
+        "honorType": "achievement"
+    },
+    {
+        "id": 122,
+        "name": "Can One Have 100 Friends?",
+        "honorType": "achievement"
+    },
+    {
+        "id": 123,
+        "name": "Best Friends",
+        "honorType": "achievement"
+    },
+    {
+        "id": 124,
+        "name": "Valentine's Day 2022",
+        "honorType": "event"
+    },
+    {
+        "id": 125,
+        "name": "Musical Twilight Parade",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0536"
+    },
+    {
+        "id": 126,
+        "name": "Insatiable Pale Color",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0560"
+    },
+    {
+        "id": 127,
+        "name": "Smile of a Dreamer",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0584"
+    },
+    {
+        "id": 128,
+        "name": "White Day 2022",
+        "honorType": "event"
+    },
+    {
+        "id": 129,
+        "name": "Doll Festival at the Tenma's",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0609"
+    },
+    {
+        "id": 130,
+        "name": "Hear Me! Hopeful Show♪",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0633"
+    },
+    {
+        "id": 131,
+        "name": "Singing Among the Cherry Blossoms",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0657"
+    },
+    {
+        "id": 132,
+        "name": "Secret Distance",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0681"
+    },
+    {
+        "id": 133,
+        "name": "Resonating with you",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0705"
+    },
+    {
+        "id": 134,
+        "name": "Diamond",
+        "honorType": "achievement"
+    },
+    {
+        "id": 135,
+        "name": "STRAY BAD DOG",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0730"
+    },
+    {
+        "id": 136,
+        "name": "What's on your mind? Exciting Picnic!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0754"
+    },
+    {
+        "id": 137,
+        "name": "You deserve it! Break Time!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0778"
+    },
+    {
+        "id": 138,
+        "name": "An Ode for the Pure of Heart",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0802"
+    },
+    {
+        "id": 139,
+        "name": "Wonder Magical Showtime!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0826"
+    },
+    {
+        "id": 140,
+        "name": "Carnation Recollection",
+        "honorType": "event"
+    },
+    {
+        "id": 141,
+        "name": "Star Festival 2022",
+        "honorType": "event"
+    },
+    {
+        "id": 142,
+        "name": "Unnamed Harmony",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_unnamed"
+    },
+    {
+        "id": 143,
+        "name": "Awakening Beat",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_awakening"
+    },
+    {
+        "id": 144,
+        "name": "The Sounds of a Summer Festival!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_natsumatsuri"
+    },
+    {
+        "id": 145,
+        "name": "The BEST Summer Ever!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_summer"
+    },
+    {
+        "id": 146,
+        "name": "Happy Lovely Everyday!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_everyday"
+    },
+    {
+        "id": 147,
+        "name": "Mermaid Admiration",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_mermaid"
+    },
+    {
+        "id": 148,
+        "name": "The Moon Rabbit & Us",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_moonrabbit"
+    },
+    {
+        "id": 149,
+        "name": "A Bright Future!!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_future"
+    },
+    {
+        "id": 150,
+        "name": "Mirage of Light",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_mirage"
+    },
+    {
+        "id": 152,
+        "name": "Scramble Fan Festival!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_scramble"
+    },
+    {
+        "id": 154,
+        "name": "Happy Birthday Saki May 9,2023",
+        "honorType": "event"
+    },
+    {
+        "id": 155,
+        "name": "Happy Birthday Honami Oct.27,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 156,
+        "name": "Happy Birthday Shiho Jan.8,2023",
+        "honorType": "event"
+    },
+    {
+        "id": 157,
+        "name": "Happy Birthday Minori Apr.14,2023",
+        "honorType": "event"
+    },
+    {
+        "id": 158,
+        "name": "Happy Birthday Haruka Oct.05,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 159,
+        "name": "Happy Birthday Airi Mar.19,2023",
+        "honorType": "event"
+    },
+    {
+        "id": 160,
+        "name": "Happy Birthday Shizuku Dec.6,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 161,
+        "name": "Happy Birthday Kohane Mar.2,2023",
+        "honorType": "event"
+    },
+    {
+        "id": 163,
+        "name": "Happy Birthday Akito Nov.12,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 169,
+        "name": "Happy Birthday Kanade Feb.10,2023",
+        "honorType": "event"
+    },
+    {
+        "id": 170,
+        "name": "Happy Birthday Mafuyu Jan.27,2023",
+        "honorType": "event"
+    },
+    {
+        "id": 171,
+        "name": "Happy Birthday Ena Apr.30,2023",
+        "honorType": "event"
+    },
+    {
+        "id": 174,
+        "name": "Happy Anniversary Rin Dec.27,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 175,
+        "name": "Happy Anniversary Len Dec.27,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 176,
+        "name": "Happy Anniversary Luka Jan.30,2023",
+        "honorType": "event"
+    },
+    {
+        "id": 177,
+        "name": "Happy Anniversary MEIKO Nov.5,2022",
+        "honorType": "event"
+    },
+    {
+        "id": 178,
+        "name": "Happy Anniversary KAITO Feb.17,2023",
+        "honorType": "event"
+    },
+    {
+        "id": 181,
+        "name": "Ruby",
+        "honorType": "achievement"
+    },
+    {
+        "id": 182,
+        "name": "Halloween 2022",
+        "honorType": "event"
+    },
+    {
+        "id": 183,
+        "name": "Bout for Beside You",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_besideyou"
+    },
+    {
+        "id": 185,
+        "name": "What lies behind. What lies ahead.",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_ashiato"
+    },
+    {
+        "id": 186,
+        "name": "Putting Feelings Into Words",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_stage"
+    },
+    {
+        "id": 187,
+        "name": "Time to hang out♪",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_buddy"
+    },
+    {
+        "id": 188,
+        "name": "The Warmth of Intersecting Melodies",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_melody"
+    },
+    {
+        "id": 189,
+        "name": "MORE MORE Making Christmas",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_makingxmas"
+    },
+    {
+        "id": 190,
+        "name": "Same Dreams, Same Colors",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_camp"
+    },
+    {
+        "id": 191,
+        "name": "Christmas 2022",
+        "honorType": "event"
+    },
+    {
+        "id": 192,
+        "name": "Countdown 2023",
+        "honorType": "event"
+    },
+    {
+        "id": 193,
+        "name": "The Tomorrow We Hope For",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_prayer"
+    },
+    {
+        "id": 194,
+        "name": "Popping in My Heart!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_nikkori"
+    },
+    {
+        "id": 195,
+        "name": "Someday, From the Depths of Despair",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_tricolo"
+    },
+    {
+        "id": 196,
+        "name": "Secret Operation Valentine's Day",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_valentine"
+    },
+    {
+        "id": 197,
+        "name": "The Legend Still Vivid",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_legend"
+    },
+    {
+        "id": 198,
+        "name": "Valentine's Day 2023",
+        "honorType": "event"
+    },
+    {
+        "id": 199,
+        "name": "That day, the Sky was Far Away",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_peaky"
+    },
+    {
+        "id": 200,
+        "name": "A Gentleman Thief's Thrilling White Day?!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_whiteday"
+    },
+    {
+        "id": 201,
+        "name": "Cast a Spell on You",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_castspell"
+    },
+    {
+        "id": 202,
+        "name": "White Day 2023",
+        "honorType": "event"
+    },
+    {
+        "id": 203,
+        "name": "On This Blank Canvas, I Paint",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_canvas"
+    },
+    {
+        "id": 205,
+        "name": "Connected Through SEKAI's Cherry Blossoms",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_sakura"
+    },
+    {
+        "id": 206,
+        "name": "On the Stage of Dazzling Light",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_star"
+    },
+    {
+        "id": 207,
+        "name": "Live with Memories",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_memories"
+    },
+    {
+        "id": 208,
+        "name": "Tied By Painful Hope",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_painful"
+    }
+]
