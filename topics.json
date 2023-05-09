@@ -5952,6 +5952,132 @@
         "releaseConditionId": 105607
     },
     {
+        "id": 105701,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000464,
+        "releaseConditionId": 105701
+    },
+    {
+        "id": 105702,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000465,
+        "releaseConditionId": 105702
+    },
+    {
+        "id": 105703,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000466,
+        "releaseConditionId": 105703
+    },
+    {
+        "id": 105704,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000467,
+        "releaseConditionId": 105704
+    },
+    {
+        "id": 105705,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000468,
+        "releaseConditionId": 105705
+    },
+    {
+        "id": 105706,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000469,
+        "releaseConditionId": 105706
+    },
+    {
+        "id": 105707,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000470,
+        "releaseConditionId": 105707
+    },
+    {
+        "id": 105801,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000472,
+        "releaseConditionId": 105801
+    },
+    {
+        "id": 105802,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000473,
+        "releaseConditionId": 105802
+    },
+    {
+        "id": 105803,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000474,
+        "releaseConditionId": 105803
+    },
+    {
+        "id": 105804,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000475,
+        "releaseConditionId": 105804
+    },
+    {
+        "id": 105805,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000476,
+        "releaseConditionId": 105805
+    },
+    {
+        "id": 105806,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000477,
+        "releaseConditionId": 105806
+    },
+    {
+        "id": 105807,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000478,
+        "releaseConditionId": 105807
+    },
+    {
+        "id": 105901,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000480,
+        "releaseConditionId": 105901
+    },
+    {
+        "id": 105902,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000481,
+        "releaseConditionId": 105902
+    },
+    {
+        "id": 105903,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000482,
+        "releaseConditionId": 105903
+    },
+    {
+        "id": 105904,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000483,
+        "releaseConditionId": 105904
+    },
+    {
+        "id": 105905,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000484,
+        "releaseConditionId": 105905
+    },
+    {
+        "id": 105906,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000485,
+        "releaseConditionId": 105906
+    },
+    {
+        "id": 105907,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1000486,
+        "releaseConditionId": 105907
+    },
+    {
         "id": 110001,
         "topicType": "inherit_complete",
         "topicTypeId": 1,

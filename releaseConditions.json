@@ -3980,6 +3980,125 @@
         "releaseConditionTypeLevel": 60
     },
     {
+        "id": 30428,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 428,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30429,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 429,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30430,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 430,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30431,
+        "sentence": "View Part 1 and reach Level 50 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 431,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 30432,
+        "sentence": "View Part 1 and reach Level 30 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 432,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 30433,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 433,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30434,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 434,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30435,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 435,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30436,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 436,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30437,
+        "sentence": "View Part 1 and reach Level 50 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 437,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 30438,
+        "sentence": "View Part 1 and reach Level 30 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 438,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 30439,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 439,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30440,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 440,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30441,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 441,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30442,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 442,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30443,
+        "sentence": "View Part 1 and reach Level 50 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 443,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 30444,
+        "sentence": "View Part 1 and reach Level 30 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 444,
+        "releaseConditionTypeLevel": 30
+    },
+    {
         "id": 40001,
         "sentence": "Clear on EXPERT with a max of 7 or fewer GOOD or lower taps.",
         "releaseConditionType": "music_difficulty_better_play",
@@ -11342,6 +11461,279 @@
         "releaseConditionTypeLevel": 5
     },
     {
+        "id": 61490,
+        "sentence": "Obtain Brilliance At Twilight Rui Kamishiro.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 428,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61491,
+        "sentence": "Reach Mastery Rank 1 with Brilliance At Twilight Rui Kamishiro to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 428,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61492,
+        "sentence": "Reach Mastery Rank 3 with Brilliance At Twilight Rui Kamishiro to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 428,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61493,
+        "sentence": "Reach Mastery Rank 5 with Brilliance At Twilight Rui Kamishiro to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 428,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61500,
+        "sentence": "Obtain Smell You Later! Mizuki Akiyama.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 429,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61501,
+        "sentence": "Reach Mastery Rank 1 with Smell You Later! Mizuki Akiyama to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 429,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61502,
+        "sentence": "Reach Mastery Rank 3 with Smell You Later! Mizuki Akiyama to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 429,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61503,
+        "sentence": "Reach Mastery Rank 5 with Smell You Later! Mizuki Akiyama to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 429,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61510,
+        "sentence": "Obtain What Do Kappas Like? Megurine Luka.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 430,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61511,
+        "sentence": "Reach Mastery Rank 1 with What Do Kappas Like? Megurine Luka to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 430,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61512,
+        "sentence": "Reach Mastery Rank 3 with What Do Kappas Like? Megurine Luka to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 430,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61513,
+        "sentence": "Reach Mastery Rank 5 with What Do Kappas Like? Megurine Luka to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 430,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61520,
+        "sentence": "Obtain Newfound Enthusiasm Akito Shinonome.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 434,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61521,
+        "sentence": "Reach Mastery Rank 1 with Newfound Enthusiasm Akito Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 434,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61522,
+        "sentence": "Reach Mastery Rank 3 with Newfound Enthusiasm Akito Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 434,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61523,
+        "sentence": "Reach Mastery Rank 5 with Newfound Enthusiasm Akito Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 434,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61530,
+        "sentence": "Obtain I Got Praised♪ Kohane Azusawa.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 435,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61531,
+        "sentence": "Reach Mastery Rank 1 with I Got Praised♪ Kohane Azusawa to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 435,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61532,
+        "sentence": "Reach Mastery Rank 3 with I Got Praised♪ Kohane Azusawa to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 435,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61533,
+        "sentence": "Reach Mastery Rank 5 with I Got Praised♪ Kohane Azusawa to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 435,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61540,
+        "sentence": "Obtain Delicious Pancakes For Everyone! KAITO.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 436,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61541,
+        "sentence": "Reach Mastery Rank 1 with Delicious Pancakes For Everyone! KAITO to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 436,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61542,
+        "sentence": "Reach Mastery Rank 3 with Delicious Pancakes For Everyone! KAITO to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 436,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61543,
+        "sentence": "Reach Mastery Rank 5 with Delicious Pancakes For Everyone! KAITO to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 436,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61550,
+        "sentence": "Obtain Dressed In Pure White An Shiraishi.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 440,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61551,
+        "sentence": "Reach Mastery Rank 1 with Dressed In Pure White An Shiraishi to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 440,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61552,
+        "sentence": "Reach Mastery Rank 2 with Dressed In Pure White An Shiraishi to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 440,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 61553,
+        "sentence": "Reach Mastery Rank 3 with Dressed In Pure White An Shiraishi to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 440,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61554,
+        "sentence": "Reach Mastery Rank 5 with Dressed In Pure White An Shiraishi to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 440,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61560,
+        "sentence": "Obtain Keeping You From Falling Shizuku Hinomori.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 441,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61561,
+        "sentence": "Reach Mastery Rank 1 with Keeping You From Falling Shizuku Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 441,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61562,
+        "sentence": "Reach Mastery Rank 2 with Keeping You From Falling Shizuku Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 441,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 61563,
+        "sentence": "Reach Mastery Rank 3 with Keeping You From Falling Shizuku Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 441,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61564,
+        "sentence": "Reach Mastery Rank 5 with Keeping You From Falling Shizuku Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 441,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61570,
+        "sentence": "Obtain For All Your Hard Work MEIKO.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 442,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61571,
+        "sentence": "Reach Mastery Rank 1 with For All Your Hard Work MEIKO to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 442,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61572,
+        "sentence": "Reach Mastery Rank 2 with For All Your Hard Work MEIKO to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 442,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 61573,
+        "sentence": "Reach Mastery Rank 3 with For All Your Hard Work MEIKO to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 442,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61574,
+        "sentence": "Reach Mastery Rank 5 with For All Your Hard Work MEIKO to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 442,
+        "releaseConditionTypeLevel": 5
+    },
+    {
         "id": 70001,
         "sentence": "Reach Character Rank 1 with Ichika Hoshino to unlock an extra member slot.",
         "releaseConditionType": "character_rank",
@@ -15250,6 +15642,171 @@
         "sentence": "View Tied By Painful Hope - Episode 8.",
         "releaseConditionType": "event_story",
         "releaseConditionTypeId": 1000462
+    },
+    {
+        "id": 105701,
+        "sentence": "Earn 6,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 58,
+        "releaseConditionTypeQuantity": 6000
+    },
+    {
+        "id": 105702,
+        "sentence": "Earn 13,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 58,
+        "releaseConditionTypeQuantity": 13000
+    },
+    {
+        "id": 105703,
+        "sentence": "Earn 30,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 58,
+        "releaseConditionTypeQuantity": 30000
+    },
+    {
+        "id": 105704,
+        "sentence": "Earn 60,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 58,
+        "releaseConditionTypeQuantity": 60000
+    },
+    {
+        "id": 105705,
+        "sentence": "Earn 90,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 58,
+        "releaseConditionTypeQuantity": 90000
+    },
+    {
+        "id": 105706,
+        "sentence": "Earn 120,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 58,
+        "releaseConditionTypeQuantity": 120000
+    },
+    {
+        "id": 105707,
+        "sentence": "Earn 150,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 58,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 105708,
+        "sentence": "View The Climax! Kamiyama Cheer Squad! - Episode 8.",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1000470
+    },
+    {
+        "id": 105801,
+        "sentence": "Earn 6,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 59,
+        "releaseConditionTypeQuantity": 6000
+    },
+    {
+        "id": 105802,
+        "sentence": "Earn 13,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 59,
+        "releaseConditionTypeQuantity": 13000
+    },
+    {
+        "id": 105803,
+        "sentence": "Earn 30,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 59,
+        "releaseConditionTypeQuantity": 30000
+    },
+    {
+        "id": 105804,
+        "sentence": "Earn 60,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 59,
+        "releaseConditionTypeQuantity": 60000
+    },
+    {
+        "id": 105805,
+        "sentence": "Earn 90,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 59,
+        "releaseConditionTypeQuantity": 90000
+    },
+    {
+        "id": 105806,
+        "sentence": "Earn 120,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 59,
+        "releaseConditionTypeQuantity": 120000
+    },
+    {
+        "id": 105807,
+        "sentence": "Earn 150,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 59,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 105808,
+        "sentence": "View THE POWER OF UNITY - Episode 8.",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1000478
+    },
+    {
+        "id": 105901,
+        "sentence": "Earn 6,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 60,
+        "releaseConditionTypeQuantity": 6000
+    },
+    {
+        "id": 105902,
+        "sentence": "Earn 13,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 60,
+        "releaseConditionTypeQuantity": 13000
+    },
+    {
+        "id": 105903,
+        "sentence": "Earn 30,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 60,
+        "releaseConditionTypeQuantity": 30000
+    },
+    {
+        "id": 105904,
+        "sentence": "Earn 60,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 60,
+        "releaseConditionTypeQuantity": 60000
+    },
+    {
+        "id": 105905,
+        "sentence": "Earn 90,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 60,
+        "releaseConditionTypeQuantity": 90000
+    },
+    {
+        "id": 105906,
+        "sentence": "Earn 120,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 60,
+        "releaseConditionTypeQuantity": 120000
+    },
+    {
+        "id": 105907,
+        "sentence": "Earn 150,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 60,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 105908,
+        "sentence": "View Wishing to the Blue Sky for Your Happiness! - Episode 8.",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1000486
     },
     {
         "id": 800001,
