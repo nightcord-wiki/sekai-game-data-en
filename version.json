@@ -1,10 +1,10 @@
 {
     "systemProfile": "production",
-    "appVersion": "2.0.0",
-    "multiPlayVersion": "miku",
-    "dataVersion": "1.8.3.0",
-    "assetVersion": "1.8.3.0",
-    "appHash": "bfdc790e-7cd9-493a-b189-725aa3dbf059",
-    "assetHash": "2d76ec32-2d6f-4e56-a24a-da96f591bbd2",
+    "appVersion": "2.1.1",
+    "multiPlayVersion": "rin",
+    "dataVersion": "1.9.1.0",
+    "assetVersion": "1.9.0.10",
+    "appHash": "1d2ba2c0-f9f2-4677-a33d-92df2f27352f",
+    "assetHash": "a7402e96-f519-4086-afba-1d37a8a6eb31",
     "appVersionStatus": "available"
 }

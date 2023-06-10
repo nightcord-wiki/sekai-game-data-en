@@ -6,13 +6,13 @@
     },
     {
         "id": 2,
-        "sentence": "Finish viewing Story 1 (Temp).",
+        "sentence": "ストーリー1を読了（仮）",
         "releaseConditionType": "user_rank",
         "releaseConditionTypeLevel": 1
     },
     {
         "id": 3,
-        "sentence": "Purchase 1 song from the Song Shop (Temp).",
+        "sentence": "楽曲ショップ1で購入する（仮）",
         "releaseConditionType": "unit_rank",
         "releaseConditionTypeLevel": 1
     },
@@ -4096,6 +4096,132 @@
         "sentence": "View Part 1 and reach Level 30 to unlock.",
         "releaseConditionType": "card_level",
         "releaseConditionTypeId": 444,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 30445,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 445,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30446,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 446,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30447,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 447,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30448,
+        "sentence": "View Part 1 and reach Level 50 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 448,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 30449,
+        "sentence": "View Part 1 and reach Level 30 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 449,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 30450,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 450,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30451,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 451,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30452,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 452,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30453,
+        "sentence": "View Part 1 and reach Level 50 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 453,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 30454,
+        "sentence": "View Part 1 and reach Level 30 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 454,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 30455,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 455,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30456,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 456,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30457,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 457,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30458,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 458,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30459,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 459,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30460,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 460,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30461,
+        "sentence": "View Part 1 and reach Level 50 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 461,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 30462,
+        "sentence": "View Part 1 and reach Level 30 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 462,
         "releaseConditionTypeLevel": 30
     },
     {
@@ -11734,6 +11860,349 @@
         "releaseConditionTypeLevel": 5
     },
     {
+        "id": 61580,
+        "sentence": "Obtain In The Warmth Of Glowing Dusk Mafuyu Asahina.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 445,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61581,
+        "sentence": "Reach Mastery Rank 1 with In The Warmth Of Glowing Dusk Mafuyu Asahina to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 445,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61582,
+        "sentence": "Reach Mastery Rank 3 with In The Warmth Of Glowing Dusk Mafuyu Asahina to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 445,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61583,
+        "sentence": "Reach Mastery Rank 5 with In The Warmth Of Glowing Dusk Mafuyu Asahina to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 445,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61590,
+        "sentence": "Obtain Don't Be Scared Mizuki Akiyama.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 446,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61591,
+        "sentence": "Reach Mastery Rank 1 with Don't Be Scared Mizuki Akiyama to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 446,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61592,
+        "sentence": "Reach Mastery Rank 3 with Don't Be Scared Mizuki Akiyama to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 446,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61593,
+        "sentence": "Reach Mastery Rank 5 with Don't Be Scared Mizuki Akiyama to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 446,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61600,
+        "sentence": "Obtain Shyly Greeting While Hiding Kagamine Len.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 447,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61601,
+        "sentence": "Reach Mastery Rank 1 with Shyly Greeting While Hiding Kagamine Len to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 447,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61602,
+        "sentence": "Reach Mastery Rank 3 with Shyly Greeting While Hiding Kagamine Len to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 447,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61603,
+        "sentence": "Reach Mastery Rank 5 with Shyly Greeting While Hiding Kagamine Len to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 447,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61610,
+        "sentence": "Obtain Thank You For Playing With Us Nene Kusanagi.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 450,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61611,
+        "sentence": "Reach Mastery Rank 1 with Thank You For Playing With Us Nene Kusanagi to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 450,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61612,
+        "sentence": "Reach Mastery Rank 3 with Thank You For Playing With Us Nene Kusanagi to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 450,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61613,
+        "sentence": "Reach Mastery Rank 5 with Thank You For Playing With Us Nene Kusanagi to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 450,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61620,
+        "sentence": "Obtain A Persistent Game Of Tag Tsukasa Tenma.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 451,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61621,
+        "sentence": "Reach Mastery Rank 1 with A Persistent Game Of Tag Tsukasa Tenma to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 451,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61622,
+        "sentence": "Reach Mastery Rank 3 with A Persistent Game Of Tag Tsukasa Tenma to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 451,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61623,
+        "sentence": "Reach Mastery Rank 5 with A Persistent Game Of Tag Tsukasa Tenma to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 451,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61630,
+        "sentence": "Obtain Fishing Before The Storm Emu Otori.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 452,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61631,
+        "sentence": "Reach Mastery Rank 1 with Fishing Before The Storm Emu Otori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 452,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61632,
+        "sentence": "Reach Mastery Rank 3 with Fishing Before The Storm Emu Otori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 452,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61633,
+        "sentence": "Reach Mastery Rank 5 with Fishing Before The Storm Emu Otori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 452,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61640,
+        "sentence": "Obtain The Courage I've Mustered Honami Mochizuki.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 456,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61641,
+        "sentence": "Reach Mastery Rank 1 with The Courage I've Mustered Honami Mochizuki to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 456,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61642,
+        "sentence": "Reach Mastery Rank 2 with The Courage I've Mustered Honami Mochizuki to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 456,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 61643,
+        "sentence": "Reach Mastery Rank 3 with The Courage I've Mustered Honami Mochizuki to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 456,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61644,
+        "sentence": "Reach Mastery Rank 5 with The Courage I've Mustered Honami Mochizuki to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 456,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61650,
+        "sentence": "Obtain The Right Path For Me Shiho Hinomori.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 457,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61651,
+        "sentence": "Reach Mastery Rank 1 with The Right Path For Me Shiho Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 457,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61652,
+        "sentence": "Reach Mastery Rank 2 with The Right Path For Me Shiho Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 457,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 61653,
+        "sentence": "Reach Mastery Rank 3 with The Right Path For Me Shiho Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 457,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61654,
+        "sentence": "Reach Mastery Rank 5 with The Right Path For Me Shiho Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 457,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61660,
+        "sentence": "Obtain With This Pitch...! Kanade Yoisaki.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 458,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61661,
+        "sentence": "Reach Mastery Rank 1 with With This Pitch...! Kanade Yoisaki to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 458,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61662,
+        "sentence": "Reach Mastery Rank 2 with With This Pitch...! Kanade Yoisaki to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 458,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 61663,
+        "sentence": "Reach Mastery Rank 3 with With This Pitch...! Kanade Yoisaki to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 458,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61664,
+        "sentence": "Reach Mastery Rank 5 with With This Pitch...! Kanade Yoisaki to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 458,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61670,
+        "sentence": "Obtain Falling With Honor Minori Hanasato.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 459,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61671,
+        "sentence": "Reach Mastery Rank 1 with Falling With Honor Minori Hanasato to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 459,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61672,
+        "sentence": "Reach Mastery Rank 2 with Falling With Honor Minori Hanasato to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 459,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 61673,
+        "sentence": "Reach Mastery Rank 3 with Falling With Honor Minori Hanasato to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 459,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61674,
+        "sentence": "Reach Mastery Rank 5 with Falling With Honor Minori Hanasato to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 459,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 61680,
+        "sentence": "Obtain This Claw's Too Weak! Ena Shinonome.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 460,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 61681,
+        "sentence": "Reach Mastery Rank 1 with This Claw's Too Weak! Ena Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 460,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 61682,
+        "sentence": "Reach Mastery Rank 2 with This Claw's Too Weak! Ena Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 460,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 61683,
+        "sentence": "Reach Mastery Rank 3 with This Claw's Too Weak! Ena Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 460,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 61684,
+        "sentence": "Reach Mastery Rank 5 with This Claw's Too Weak! Ena Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 460,
+        "releaseConditionTypeLevel": 5
+    },
+    {
         "id": 70001,
         "sentence": "Reach Character Rank 1 with Ichika Hoshino to unlock an extra member slot.",
         "releaseConditionType": "character_rank",
@@ -15809,6 +16278,171 @@
         "releaseConditionTypeId": 1000486
     },
     {
+        "id": 106001,
+        "sentence": "Earn 6,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 61,
+        "releaseConditionTypeQuantity": 6000
+    },
+    {
+        "id": 106002,
+        "sentence": "Earn 13,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 61,
+        "releaseConditionTypeQuantity": 13000
+    },
+    {
+        "id": 106003,
+        "sentence": "Earn 30,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 61,
+        "releaseConditionTypeQuantity": 30000
+    },
+    {
+        "id": 106004,
+        "sentence": "Earn 60,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 61,
+        "releaseConditionTypeQuantity": 60000
+    },
+    {
+        "id": 106005,
+        "sentence": "Earn 90,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 61,
+        "releaseConditionTypeQuantity": 90000
+    },
+    {
+        "id": 106006,
+        "sentence": "Earn 120,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 61,
+        "releaseConditionTypeQuantity": 120000
+    },
+    {
+        "id": 106007,
+        "sentence": "Earn 150,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 61,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 106008,
+        "sentence": "View What Lies Beyond Guiding a Lost Child - Episode 8.",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1000494
+    },
+    {
+        "id": 106101,
+        "sentence": "Earn 6,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 62,
+        "releaseConditionTypeQuantity": 6000
+    },
+    {
+        "id": 106102,
+        "sentence": "Earn 13,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 62,
+        "releaseConditionTypeQuantity": 13000
+    },
+    {
+        "id": 106103,
+        "sentence": "Earn 30,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 62,
+        "releaseConditionTypeQuantity": 30000
+    },
+    {
+        "id": 106104,
+        "sentence": "Earn 60,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 62,
+        "releaseConditionTypeQuantity": 60000
+    },
+    {
+        "id": 106105,
+        "sentence": "Earn 90,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 62,
+        "releaseConditionTypeQuantity": 90000
+    },
+    {
+        "id": 106106,
+        "sentence": "Earn 120,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 62,
+        "releaseConditionTypeQuantity": 120000
+    },
+    {
+        "id": 106107,
+        "sentence": "Earn 150,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 62,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 106108,
+        "sentence": "View Desperate Times?! Island Panic! - Episode 8.",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1000502
+    },
+    {
+        "id": 106201,
+        "sentence": "Earn 6,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 63,
+        "releaseConditionTypeQuantity": 6000
+    },
+    {
+        "id": 106202,
+        "sentence": "Earn 13,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 63,
+        "releaseConditionTypeQuantity": 13000
+    },
+    {
+        "id": 106203,
+        "sentence": "Earn 30,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 63,
+        "releaseConditionTypeQuantity": 30000
+    },
+    {
+        "id": 106204,
+        "sentence": "Earn 60,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 63,
+        "releaseConditionTypeQuantity": 60000
+    },
+    {
+        "id": 106205,
+        "sentence": "Earn 90,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 63,
+        "releaseConditionTypeQuantity": 90000
+    },
+    {
+        "id": 106206,
+        "sentence": "Earn 120,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 63,
+        "releaseConditionTypeQuantity": 120000
+    },
+    {
+        "id": 106207,
+        "sentence": "Earn 150,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 63,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 106208,
+        "sentence": "View Let's Enjoy Together! SpoJoy Park - Episode 8.",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1000510
+    },
+    {
         "id": 800001,
         "sentence": "Join Virtual Show",
         "releaseConditionType": "virtual_live_participation",
@@ -16343,6 +16977,76 @@
         "releaseConditionTypeLevel": 36
     },
     {
+        "id": 1010501,
+        "sentence": "Increase Ichika Hoshino & Minori Hanasato's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10105,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1010502,
+        "sentence": "Increase Ichika Hoshino & Minori Hanasato's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10105,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1010601,
+        "sentence": "Increase Ichika Hoshino & Haruka Kiritani's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10106,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1010602,
+        "sentence": "Increase Ichika Hoshino & Haruka Kiritani's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10106,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1010801,
+        "sentence": "Increase Ichika Hoshino & Shizuku Hinomori's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10108,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1010802,
+        "sentence": "Increase Ichika Hoshino & Shizuku Hinomori's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10108,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1011301,
+        "sentence": "Increase Ichika Hoshino & Tsukasa Tenma's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10113,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1011302,
+        "sentence": "Increase Ichika Hoshino & Tsukasa Tenma's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10113,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1011801,
+        "sentence": "Increase Ichika Hoshino & Mafuyu Asahina's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10118,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1011802,
+        "sentence": "Increase Ichika Hoshino & Mafuyu Asahina's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10118,
+        "releaseConditionTypeLevel": 36
+    },
+    {
         "id": 1012101,
         "sentence": "Increase Ichika Hoshino & Hatsune Miku's Trust Rank to 16.",
         "releaseConditionType": "bonds_rank",
@@ -16396,6 +17100,62 @@
         "sentence": "Increase Saki Tenma & Shiho Hinomori's Trust Rank to 36.",
         "releaseConditionType": "bonds_rank",
         "releaseConditionTypeId": 10204,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1020501,
+        "sentence": "Increase Saki Tenma & Minori Hanasato's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10205,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1020502,
+        "sentence": "Increase Saki Tenma & Minori Hanasato's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10205,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1020601,
+        "sentence": "Increase Saki Tenma & Haruka Kiritani's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10206,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1020602,
+        "sentence": "Increase Saki Tenma & Haruka Kiritani's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10206,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1020801,
+        "sentence": "Increase Saki Tenma & Shizuku Hinomori's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10208,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1020802,
+        "sentence": "Increase Saki Tenma & Shizuku Hinomori's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10208,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1021201,
+        "sentence": "Increase Saki Tenma & Toya Aoyagi's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10212,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1021202,
+        "sentence": "Increase Saki Tenma & Toya Aoyagi's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10212,
         "releaseConditionTypeLevel": 36
     },
     {
@@ -16455,6 +17215,62 @@
         "releaseConditionTypeLevel": 36
     },
     {
+        "id": 1030801,
+        "sentence": "Increase Honami Mochizuki & Shizuku Hinomori's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10308,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1030802,
+        "sentence": "Increase Honami Mochizuki & Shizuku Hinomori's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10308,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1031301,
+        "sentence": "Increase Honami Mochizuki & Tsukasa Tenma's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10313,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1031302,
+        "sentence": "Increase Honami Mochizuki & Tsukasa Tenma's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10313,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1031401,
+        "sentence": "Increase Honami Mochizuki & Emu Otori's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10314,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1031402,
+        "sentence": "Increase Honami Mochizuki & Emu Otori's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10314,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1031701,
+        "sentence": "Increase Honami Mochizuki & Kanade Yoisaki's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10317,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1031702,
+        "sentence": "Increase Honami Mochizuki & Kanade Yoisaki's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10317,
+        "releaseConditionTypeLevel": 36
+    },
+    {
         "id": 1032101,
         "sentence": "Increase Honami Mochizuki & Hatsune Miku's Trust Rank to 16.",
         "releaseConditionType": "bonds_rank",
@@ -16483,6 +17299,20 @@
         "releaseConditionTypeLevel": 36
     },
     {
+        "id": 1040501,
+        "sentence": "Increase Shiho Hinomori & Minori Hanasato's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10405,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1040502,
+        "sentence": "Increase Shiho Hinomori & Minori Hanasato's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10405,
+        "releaseConditionTypeLevel": 36
+    },
+    {
         "id": 1040801,
         "sentence": "Increase Shiho Hinomori & Shizuku Hinomori's Trust Rank to 16.",
         "releaseConditionType": "bonds_rank",
@@ -16494,6 +17324,34 @@
         "sentence": "Increase Shiho Hinomori & Shizuku Hinomori's Trust Rank to 36.",
         "releaseConditionType": "bonds_rank",
         "releaseConditionTypeId": 10408,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1040901,
+        "sentence": "Increase Shiho Hinomori & Kohane Azusawa's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10409,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1040902,
+        "sentence": "Increase Shiho Hinomori & Kohane Azusawa's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10409,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1041301,
+        "sentence": "Increase Shiho Hinomori & Tsukasa Tenma's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10413,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1041302,
+        "sentence": "Increase Shiho Hinomori & Tsukasa Tenma's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10413,
         "releaseConditionTypeLevel": 36
     },
     {
@@ -16567,6 +17425,20 @@
         "releaseConditionTypeLevel": 36
     },
     {
+        "id": 1050901,
+        "sentence": "Increase Minori Hanasato & Kohane Azusawa's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10509,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1050902,
+        "sentence": "Increase Minori Hanasato & Kohane Azusawa's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10509,
+        "releaseConditionTypeLevel": 36
+    },
+    {
         "id": 1052101,
         "sentence": "Increase Minori Hanasato & Hatsune Miku's Trust Rank to 16.",
         "releaseConditionType": "bonds_rank",
@@ -16623,6 +17495,20 @@
         "releaseConditionTypeLevel": 36
     },
     {
+        "id": 1061001,
+        "sentence": "Increase Haruka Kiritani & An Shiraishi's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10610,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1061002,
+        "sentence": "Increase Haruka Kiritani & An Shiraishi's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10610,
+        "releaseConditionTypeLevel": 36
+    },
+    {
         "id": 1062101,
         "sentence": "Increase Haruka Kiritani & Hatsune Miku's Trust Rank to 16.",
         "releaseConditionType": "bonds_rank",
@@ -16665,6 +17551,20 @@
         "releaseConditionTypeLevel": 36
     },
     {
+        "id": 1071901,
+        "sentence": "Increase Airi Momoi & Ena Shinonome's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10719,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1071902,
+        "sentence": "Increase Airi Momoi & Ena Shinonome's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10719,
+        "releaseConditionTypeLevel": 36
+    },
+    {
         "id": 1072101,
         "sentence": "Increase Airi Momoi & Hatsune Miku's Trust Rank to 16.",
         "releaseConditionType": "bonds_rank",
@@ -16690,6 +17590,34 @@
         "sentence": "Increase Airi Momoi & Kagamine Rin's Trust Rank to 36.",
         "releaseConditionType": "bonds_rank",
         "releaseConditionTypeId": 10722,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1081301,
+        "sentence": "Increase Shizuku Hinomori & Tsukasa Tenma's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10813,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1081302,
+        "sentence": "Increase Shizuku Hinomori & Tsukasa Tenma's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10813,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1081801,
+        "sentence": "Increase Shizuku Hinomori & Mafuyu Asahina's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10818,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1081802,
+        "sentence": "Increase Shizuku Hinomori & Mafuyu Asahina's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10818,
         "releaseConditionTypeLevel": 36
     },
     {
@@ -16833,6 +17761,20 @@
         "releaseConditionTypeLevel": 36
     },
     {
+        "id": 1102001,
+        "sentence": "Increase An Shiraishi & Mizuki Akiyama's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11020,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1102002,
+        "sentence": "Increase An Shiraishi & Mizuki Akiyama's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11020,
+        "releaseConditionTypeLevel": 36
+    },
+    {
         "id": 1102101,
         "sentence": "Increase An Shiraishi & Hatsune Miku's Trust Rank to 16.",
         "releaseConditionType": "bonds_rank",
@@ -16942,6 +17884,20 @@
         "sentence": "Increase Akito Shinonome & MEIKO's Trust Rank to 36.",
         "releaseConditionType": "bonds_rank",
         "releaseConditionTypeId": 11125,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1121301,
+        "sentence": "Increase Toya Aoyagi & Tsukasa Tenma's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11213,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1121302,
+        "sentence": "Increase Toya Aoyagi & Tsukasa Tenma's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11213,
         "releaseConditionTypeLevel": 36
     },
     {
@@ -17152,6 +18108,20 @@
         "sentence": "Increase Nene Kusanagi & KAITO's Trust Rank to 36.",
         "releaseConditionType": "bonds_rank",
         "releaseConditionTypeId": 11526,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1162001,
+        "sentence": "Increase Rui Kamishiro & Mizuki Akiyama's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11620,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1162002,
+        "sentence": "Increase Rui Kamishiro & Mizuki Akiyama's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11620,
         "releaseConditionTypeLevel": 36
     },
     {

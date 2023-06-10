@@ -302,27 +302,27 @@
     },
     {
         "id": 72,
-        "name": "L/N Fan Club",
+        "name": "Leo/need Fan Club",
         "honorType": "achievement"
     },
     {
         "id": 73,
-        "name": "MMJ Fan Club",
+        "name": "MORE MORE JUMP! Fan Club",
         "honorType": "achievement"
     },
     {
         "id": 74,
-        "name": "VBS Fan Club",
+        "name": "Vivid BAD SQUAD Fan Club",
         "honorType": "achievement"
     },
     {
         "id": 75,
-        "name": "WXS Fan Club",
+        "name": "Wonderlands×Showtime Fan Club",
         "honorType": "achievement"
     },
     {
         "id": 76,
-        "name": "N25 Fan Club",
+        "name": "Nightcord at 25:00 Fan Club",
         "honorType": "achievement"
     },
     {
@@ -785,6 +785,11 @@
         "honorType": "event"
     },
     {
+        "id": 168,
+        "name": "Happy Birthday Rui Jun.24,2023",
+        "honorType": "event"
+    },
+    {
         "id": 169,
         "name": "Happy Birthday Kanade Feb.10,2023",
         "honorType": "event"
@@ -991,5 +996,28 @@
         "name": "Wishing to the Blue Sky for Your Happiness!",
         "honorType": "event",
         "backgroundAssetbundleName": "honor_bg_event_happiness"
+    },
+    {
+        "id": 213,
+        "name": "What Lies Beyond Guiding a Lost Child",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_maigo"
+    },
+    {
+        "id": 214,
+        "name": "Desperate Times?! Island Panic!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_island"
+    },
+    {
+        "id": 215,
+        "name": "Let's Enjoy Together! SpoJoy Park",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_sports"
+    },
+    {
+        "id": 216,
+        "name": "Star Festival 2023",
+        "honorType": "event"
     }
 ]
