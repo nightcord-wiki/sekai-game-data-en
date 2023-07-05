@@ -1653,6 +1653,27 @@
         "assetName": "23len_night"
     },
     {
+        "id": 253,
+        "characterType": "game_character",
+        "characterId": 10,
+        "unit": "street",
+        "assetName": "sub_anchild"
+    },
+    {
+        "id": 254,
+        "characterType": "mob",
+        "characterId": 109,
+        "unit": "none",
+        "assetName": "sub_saku"
+    },
+    {
+        "id": 272,
+        "characterType": "mob",
+        "characterId": 118,
+        "unit": "none",
+        "assetName": "sub_mizukisister"
+    },
+    {
         "id": 900000,
         "characterType": "mob",
         "characterId": 900000,

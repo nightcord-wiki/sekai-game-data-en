@@ -18550,6 +18550,22 @@
         ]
     },
     {
+        "id": 1125,
+        "seq": 14200,
+        "groupId": 162,
+        "honorRarity": "low",
+        "name": "Happy Birthday An Jul.26,2023",
+        "assetbundleName": "honor_1125",
+        "levels": [
+            {
+                "honorId": 1125,
+                "level": 1,
+                "bonus": 0,
+                "description": "Join An's Birthday Show 2023."
+            }
+        ]
+    },
+    {
         "id": 1126,
         "seq": 14300,
         "groupId": 163,
@@ -18594,6 +18610,22 @@
                 "level": 1,
                 "bonus": 0,
                 "description": "Join Tsukasa's Birthday Show 2023."
+            }
+        ]
+    },
+    {
+        "id": 1130,
+        "seq": 14700,
+        "groupId": 167,
+        "honorRarity": "low",
+        "name": "Happy Birthday Nene Jul.20,2023",
+        "assetbundleName": "honor_1130",
+        "levels": [
+            {
+                "honorId": 1130,
+                "level": 1,
+                "bonus": 0,
+                "description": "Join Nene's Birthday Show 2023."
             }
         ]
     },
@@ -29826,6 +29858,1231 @@
                 "level": 1,
                 "bonus": 0,
                 "description": "Join the Star Festival Show 2023."
+            }
+        ]
+    },
+    {
+        "id": 1870,
+        "seq": 300001,
+        "groupId": 217,
+        "honorRarity": "highest",
+        "name": "Mastery Rank",
+        "assetbundleName": "common/tier_25",
+        "honorTypeId": 25,
+        "levels": [
+            {
+                "honorId": 1870,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Master in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1871,
+        "seq": 300002,
+        "groupId": 217,
+        "honorRarity": "high",
+        "name": "Diamond Class 4",
+        "assetbundleName": "common/tier_24",
+        "honorTypeId": 24,
+        "levels": [
+            {
+                "honorId": 1871,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Diamond Class 4 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1872,
+        "seq": 300003,
+        "groupId": 217,
+        "honorRarity": "high",
+        "name": "Diamond Class 3",
+        "assetbundleName": "common/tier_23",
+        "honorTypeId": 23,
+        "levels": [
+            {
+                "honorId": 1872,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Diamond Class 3 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1873,
+        "seq": 300004,
+        "groupId": 217,
+        "honorRarity": "high",
+        "name": "Diamond Class 2",
+        "assetbundleName": "common/tier_22",
+        "honorTypeId": 22,
+        "levels": [
+            {
+                "honorId": 1873,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Diamond Class 2 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1874,
+        "seq": 300005,
+        "groupId": 217,
+        "honorRarity": "high",
+        "name": "Diamond Class 1",
+        "assetbundleName": "common/tier_21",
+        "honorTypeId": 21,
+        "levels": [
+            {
+                "honorId": 1874,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Diamond Class 1 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1875,
+        "seq": 300006,
+        "groupId": 217,
+        "honorRarity": "middle",
+        "name": "Platinum Class 4",
+        "assetbundleName": "common/tier_20",
+        "honorTypeId": 20,
+        "levels": [
+            {
+                "honorId": 1875,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Platinum Class 4 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1876,
+        "seq": 300007,
+        "groupId": 217,
+        "honorRarity": "middle",
+        "name": "Platinum Class 3",
+        "assetbundleName": "common/tier_19",
+        "honorTypeId": 19,
+        "levels": [
+            {
+                "honorId": 1876,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Platinum Class 3 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1877,
+        "seq": 300008,
+        "groupId": 217,
+        "honorRarity": "middle",
+        "name": "Platinum Class 2",
+        "assetbundleName": "common/tier_18",
+        "honorTypeId": 18,
+        "levels": [
+            {
+                "honorId": 1877,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Platinum Class 2 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1878,
+        "seq": 300009,
+        "groupId": 217,
+        "honorRarity": "middle",
+        "name": "Platinum Class 1",
+        "assetbundleName": "common/tier_17",
+        "honorTypeId": 17,
+        "levels": [
+            {
+                "honorId": 1878,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Platinum Class 1 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1879,
+        "seq": 300010,
+        "groupId": 217,
+        "honorRarity": "middle",
+        "name": "Gold Class 4",
+        "assetbundleName": "common/tier_16",
+        "honorTypeId": 16,
+        "levels": [
+            {
+                "honorId": 1879,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Gold Rank Class 4 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1880,
+        "seq": 300011,
+        "groupId": 217,
+        "honorRarity": "middle",
+        "name": "Gold Class 3",
+        "assetbundleName": "common/tier_15",
+        "honorTypeId": 15,
+        "levels": [
+            {
+                "honorId": 1880,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Gold Rank Class 3 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1881,
+        "seq": 300012,
+        "groupId": 217,
+        "honorRarity": "middle",
+        "name": "Gold Class 2",
+        "assetbundleName": "common/tier_14",
+        "honorTypeId": 14,
+        "levels": [
+            {
+                "honorId": 1881,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Gold Rank Class 2 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1882,
+        "seq": 300013,
+        "groupId": 217,
+        "honorRarity": "middle",
+        "name": "Gold Class 1",
+        "assetbundleName": "common/tier_13",
+        "honorTypeId": 13,
+        "levels": [
+            {
+                "honorId": 1882,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Gold Rank Class 1 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1883,
+        "seq": 300014,
+        "groupId": 217,
+        "honorRarity": "low",
+        "name": "Silver Class 4",
+        "assetbundleName": "common/tier_12",
+        "honorTypeId": 12,
+        "levels": [
+            {
+                "honorId": 1883,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Silver Class 4 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1884,
+        "seq": 300015,
+        "groupId": 217,
+        "honorRarity": "low",
+        "name": "Silver Class 3",
+        "assetbundleName": "common/tier_11",
+        "honorTypeId": 11,
+        "levels": [
+            {
+                "honorId": 1884,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Silver Class 3 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1885,
+        "seq": 300016,
+        "groupId": 217,
+        "honorRarity": "low",
+        "name": "Silver Class 2",
+        "assetbundleName": "common/tier_10",
+        "honorTypeId": 10,
+        "levels": [
+            {
+                "honorId": 1885,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Silver Class 2 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1886,
+        "seq": 300017,
+        "groupId": 217,
+        "honorRarity": "low",
+        "name": "Silver Class 1",
+        "assetbundleName": "common/tier_09",
+        "honorTypeId": 9,
+        "levels": [
+            {
+                "honorId": 1886,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Silver Class 1 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1887,
+        "seq": 300018,
+        "groupId": 217,
+        "honorRarity": "low",
+        "name": "Bronze Class 4",
+        "assetbundleName": "common/tier_08",
+        "honorTypeId": 8,
+        "levels": [
+            {
+                "honorId": 1887,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Bronze Class 4 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1888,
+        "seq": 300019,
+        "groupId": 217,
+        "honorRarity": "low",
+        "name": "Bronze Class 3",
+        "assetbundleName": "common/tier_07",
+        "honorTypeId": 7,
+        "levels": [
+            {
+                "honorId": 1888,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Bronze Class 3 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1889,
+        "seq": 300020,
+        "groupId": 217,
+        "honorRarity": "low",
+        "name": "Bronze Class 2",
+        "assetbundleName": "common/tier_06",
+        "honorTypeId": 6,
+        "levels": [
+            {
+                "honorId": 1889,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Bronze Class 2 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1890,
+        "seq": 300021,
+        "groupId": 217,
+        "honorRarity": "low",
+        "name": "Bronze Class 1",
+        "assetbundleName": "common/tier_05",
+        "honorTypeId": 5,
+        "levels": [
+            {
+                "honorId": 1890,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Bronze Class 1 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1891,
+        "seq": 300022,
+        "groupId": 217,
+        "honorRarity": "low",
+        "name": "Beginner Class 4",
+        "assetbundleName": "common/tier_04",
+        "honorTypeId": 4,
+        "levels": [
+            {
+                "honorId": 1891,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Beginner Class 4 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1892,
+        "seq": 300023,
+        "groupId": 217,
+        "honorRarity": "low",
+        "name": "Beginner Class 3",
+        "assetbundleName": "common/tier_03",
+        "honorTypeId": 3,
+        "levels": [
+            {
+                "honorId": 1892,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Beginner Class 3 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1893,
+        "seq": 300024,
+        "groupId": 217,
+        "honorRarity": "low",
+        "name": "Beginner Class 2",
+        "assetbundleName": "common/tier_02",
+        "honorTypeId": 2,
+        "levels": [
+            {
+                "honorId": 1893,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Beginner Class 2 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1894,
+        "seq": 300025,
+        "groupId": 217,
+        "honorRarity": "low",
+        "name": "Beginner Class 1",
+        "assetbundleName": "common/tier_01",
+        "honorTypeId": 1,
+        "levels": [
+            {
+                "honorId": 1894,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Beginner Class 1 in Ranked Matches Summer 2023."
+            }
+        ]
+    },
+    {
+        "id": 1895,
+        "seq": 121801,
+        "groupId": 218,
+        "honorRarity": "highest",
+        "name": "1st",
+        "assetbundleName": "honor_top_000001",
+        "levels": [
+            {
+                "honorId": 1895,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 1st in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1896,
+        "seq": 121802,
+        "groupId": 218,
+        "honorRarity": "highest",
+        "name": "2nd",
+        "assetbundleName": "honor_top_000002",
+        "levels": [
+            {
+                "honorId": 1896,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 2nd in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1897,
+        "seq": 121803,
+        "groupId": 218,
+        "honorRarity": "highest",
+        "name": "3rd",
+        "assetbundleName": "honor_top_000003",
+        "levels": [
+            {
+                "honorId": 1897,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 3rd in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1898,
+        "seq": 121804,
+        "groupId": 218,
+        "honorRarity": "highest",
+        "name": "Top 10",
+        "assetbundleName": "honor_top_000010",
+        "levels": [
+            {
+                "honorId": 1898,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 10 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1899,
+        "seq": 121805,
+        "groupId": 218,
+        "honorRarity": "high",
+        "name": "Top 20",
+        "assetbundleName": "honor_top_000020",
+        "levels": [
+            {
+                "honorId": 1899,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 20 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1900,
+        "seq": 121806,
+        "groupId": 218,
+        "honorRarity": "high",
+        "name": "Top 30",
+        "assetbundleName": "honor_top_000030",
+        "levels": [
+            {
+                "honorId": 1900,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 30 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1901,
+        "seq": 121807,
+        "groupId": 218,
+        "honorRarity": "high",
+        "name": "Top 40",
+        "assetbundleName": "honor_top_000040",
+        "levels": [
+            {
+                "honorId": 1901,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 40 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1902,
+        "seq": 121808,
+        "groupId": 218,
+        "honorRarity": "high",
+        "name": "Top 50",
+        "assetbundleName": "honor_top_000050",
+        "levels": [
+            {
+                "honorId": 1902,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 50 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1903,
+        "seq": 121809,
+        "groupId": 218,
+        "honorRarity": "high",
+        "name": "Top 100",
+        "assetbundleName": "honor_top_000100",
+        "levels": [
+            {
+                "honorId": 1903,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 100 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1904,
+        "seq": 121810,
+        "groupId": 218,
+        "honorRarity": "high",
+        "name": "Top 200",
+        "assetbundleName": "honor_top_000200",
+        "levels": [
+            {
+                "honorId": 1904,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 200 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1905,
+        "seq": 121811,
+        "groupId": 218,
+        "honorRarity": "high",
+        "name": "Top 300",
+        "assetbundleName": "honor_top_000300",
+        "levels": [
+            {
+                "honorId": 1905,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 300 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1906,
+        "seq": 121812,
+        "groupId": 218,
+        "honorRarity": "high",
+        "name": "Top 400",
+        "assetbundleName": "honor_top_000400",
+        "levels": [
+            {
+                "honorId": 1906,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 400 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1907,
+        "seq": 121813,
+        "groupId": 218,
+        "honorRarity": "high",
+        "name": "Top 500",
+        "assetbundleName": "honor_top_000500",
+        "levels": [
+            {
+                "honorId": 1907,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 500 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1908,
+        "seq": 121814,
+        "groupId": 218,
+        "honorRarity": "high",
+        "name": "Top 1,000",
+        "assetbundleName": "honor_top_001000",
+        "levels": [
+            {
+                "honorId": 1908,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 1,000 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1909,
+        "seq": 121815,
+        "groupId": 218,
+        "honorRarity": "middle",
+        "name": "Top 2,000",
+        "assetbundleName": "honor_top_002000",
+        "levels": [
+            {
+                "honorId": 1909,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 2,000 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1910,
+        "seq": 121816,
+        "groupId": 218,
+        "honorRarity": "middle",
+        "name": "Top 3,000",
+        "assetbundleName": "honor_top_003000",
+        "levels": [
+            {
+                "honorId": 1910,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 3,000 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1911,
+        "seq": 121817,
+        "groupId": 218,
+        "honorRarity": "middle",
+        "name": "Top 4,000",
+        "assetbundleName": "honor_top_004000",
+        "levels": [
+            {
+                "honorId": 1911,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 4,000 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1912,
+        "seq": 121818,
+        "groupId": 218,
+        "honorRarity": "middle",
+        "name": "Top 5,000",
+        "assetbundleName": "honor_top_005000",
+        "levels": [
+            {
+                "honorId": 1912,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 5,000 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1913,
+        "seq": 121819,
+        "groupId": 218,
+        "honorRarity": "middle",
+        "name": "Top 10,000",
+        "assetbundleName": "honor_top_010000",
+        "levels": [
+            {
+                "honorId": 1913,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 10,000 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1914,
+        "seq": 121820,
+        "groupId": 218,
+        "honorRarity": "low",
+        "name": "Top 20,000",
+        "assetbundleName": "honor_top_020000",
+        "levels": [
+            {
+                "honorId": 1914,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 20,000 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1915,
+        "seq": 121821,
+        "groupId": 218,
+        "honorRarity": "low",
+        "name": "Top 30,000",
+        "assetbundleName": "honor_top_030000",
+        "levels": [
+            {
+                "honorId": 1915,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 30,000 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1916,
+        "seq": 121822,
+        "groupId": 218,
+        "honorRarity": "low",
+        "name": "Top 40,000",
+        "assetbundleName": "honor_top_040000",
+        "levels": [
+            {
+                "honorId": 1916,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 40,000 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1917,
+        "seq": 121823,
+        "groupId": 218,
+        "honorRarity": "low",
+        "name": "Top 50,000",
+        "assetbundleName": "honor_top_050000",
+        "levels": [
+            {
+                "honorId": 1917,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 50,000 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1918,
+        "seq": 121824,
+        "groupId": 218,
+        "honorRarity": "low",
+        "name": "Top 100,000",
+        "assetbundleName": "honor_top_100000",
+        "levels": [
+            {
+                "honorId": 1918,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 100,000 in the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1919,
+        "seq": 121825,
+        "groupId": 218,
+        "honorRarity": "low",
+        "name": "Memorial",
+        "assetbundleName": "honor_memorial",
+        "levels": [
+            {
+                "honorId": 1919,
+                "level": 1,
+                "bonus": 0,
+                "description": "View all story episodes for the event: The Vivid Old Tale."
+            }
+        ]
+    },
+    {
+        "id": 1920,
+        "seq": 121901,
+        "groupId": 219,
+        "honorRarity": "highest",
+        "name": "1st",
+        "assetbundleName": "honor_top_000001",
+        "levels": [
+            {
+                "honorId": 1920,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 1st in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1921,
+        "seq": 121902,
+        "groupId": 219,
+        "honorRarity": "highest",
+        "name": "2nd",
+        "assetbundleName": "honor_top_000002",
+        "levels": [
+            {
+                "honorId": 1921,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 2nd in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1922,
+        "seq": 121903,
+        "groupId": 219,
+        "honorRarity": "highest",
+        "name": "3rd",
+        "assetbundleName": "honor_top_000003",
+        "levels": [
+            {
+                "honorId": 1922,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 3rd in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1923,
+        "seq": 121904,
+        "groupId": 219,
+        "honorRarity": "highest",
+        "name": "Top 10",
+        "assetbundleName": "honor_top_000010",
+        "levels": [
+            {
+                "honorId": 1923,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 10 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1924,
+        "seq": 121905,
+        "groupId": 219,
+        "honorRarity": "high",
+        "name": "Top 20",
+        "assetbundleName": "honor_top_000020",
+        "levels": [
+            {
+                "honorId": 1924,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 20 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1925,
+        "seq": 121906,
+        "groupId": 219,
+        "honorRarity": "high",
+        "name": "Top 30",
+        "assetbundleName": "honor_top_000030",
+        "levels": [
+            {
+                "honorId": 1925,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 30 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1926,
+        "seq": 121907,
+        "groupId": 219,
+        "honorRarity": "high",
+        "name": "Top 40",
+        "assetbundleName": "honor_top_000040",
+        "levels": [
+            {
+                "honorId": 1926,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 40 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1927,
+        "seq": 121908,
+        "groupId": 219,
+        "honorRarity": "high",
+        "name": "Top 50",
+        "assetbundleName": "honor_top_000050",
+        "levels": [
+            {
+                "honorId": 1927,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 50 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1928,
+        "seq": 121909,
+        "groupId": 219,
+        "honorRarity": "high",
+        "name": "Top 100",
+        "assetbundleName": "honor_top_000100",
+        "levels": [
+            {
+                "honorId": 1928,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 100 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1929,
+        "seq": 121910,
+        "groupId": 219,
+        "honorRarity": "high",
+        "name": "Top 200",
+        "assetbundleName": "honor_top_000200",
+        "levels": [
+            {
+                "honorId": 1929,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 200 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1930,
+        "seq": 121911,
+        "groupId": 219,
+        "honorRarity": "high",
+        "name": "Top 300",
+        "assetbundleName": "honor_top_000300",
+        "levels": [
+            {
+                "honorId": 1930,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 300 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1931,
+        "seq": 121912,
+        "groupId": 219,
+        "honorRarity": "high",
+        "name": "Top 400",
+        "assetbundleName": "honor_top_000400",
+        "levels": [
+            {
+                "honorId": 1931,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 400 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1932,
+        "seq": 121913,
+        "groupId": 219,
+        "honorRarity": "high",
+        "name": "Top 500",
+        "assetbundleName": "honor_top_000500",
+        "levels": [
+            {
+                "honorId": 1932,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 500 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1933,
+        "seq": 121914,
+        "groupId": 219,
+        "honorRarity": "high",
+        "name": "Top 1,000",
+        "assetbundleName": "honor_top_001000",
+        "levels": [
+            {
+                "honorId": 1933,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 1,000 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1934,
+        "seq": 121915,
+        "groupId": 219,
+        "honorRarity": "middle",
+        "name": "Top 2,000",
+        "assetbundleName": "honor_top_002000",
+        "levels": [
+            {
+                "honorId": 1934,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 2,000 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1935,
+        "seq": 121916,
+        "groupId": 219,
+        "honorRarity": "middle",
+        "name": "Top 3,000",
+        "assetbundleName": "honor_top_003000",
+        "levels": [
+            {
+                "honorId": 1935,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 3,000 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1936,
+        "seq": 121917,
+        "groupId": 219,
+        "honorRarity": "middle",
+        "name": "Top 4,000",
+        "assetbundleName": "honor_top_004000",
+        "levels": [
+            {
+                "honorId": 1936,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 4,000 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1937,
+        "seq": 121918,
+        "groupId": 219,
+        "honorRarity": "middle",
+        "name": "Top 5,000",
+        "assetbundleName": "honor_top_005000",
+        "levels": [
+            {
+                "honorId": 1937,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 5,000 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1938,
+        "seq": 121919,
+        "groupId": 219,
+        "honorRarity": "middle",
+        "name": "Top 10,000",
+        "assetbundleName": "honor_top_010000",
+        "levels": [
+            {
+                "honorId": 1938,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 10,000 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1939,
+        "seq": 121920,
+        "groupId": 219,
+        "honorRarity": "low",
+        "name": "Top 20,000",
+        "assetbundleName": "honor_top_020000",
+        "levels": [
+            {
+                "honorId": 1939,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 20,000 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1940,
+        "seq": 121921,
+        "groupId": 219,
+        "honorRarity": "low",
+        "name": "Top 30,000",
+        "assetbundleName": "honor_top_030000",
+        "levels": [
+            {
+                "honorId": 1940,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 30,000 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1941,
+        "seq": 121922,
+        "groupId": 219,
+        "honorRarity": "low",
+        "name": "Top 40,000",
+        "assetbundleName": "honor_top_040000",
+        "levels": [
+            {
+                "honorId": 1941,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 40,000 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1942,
+        "seq": 121923,
+        "groupId": 219,
+        "honorRarity": "low",
+        "name": "Top 50,000",
+        "assetbundleName": "honor_top_050000",
+        "levels": [
+            {
+                "honorId": 1942,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 50,000 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1943,
+        "seq": 121924,
+        "groupId": 219,
+        "honorRarity": "low",
+        "name": "Top 100,000",
+        "assetbundleName": "honor_top_100000",
+        "levels": [
+            {
+                "honorId": 1943,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 100,000 in the event: No seek No find."
+            }
+        ]
+    },
+    {
+        "id": 1944,
+        "seq": 121925,
+        "groupId": 219,
+        "honorRarity": "low",
+        "name": "Memorial",
+        "assetbundleName": "honor_memorial",
+        "levels": [
+            {
+                "honorId": 1944,
+                "level": 1,
+                "bonus": 0,
+                "description": "View all story episodes for the event: No seek No find."
             }
         ]
     }

@@ -662,7 +662,8 @@
     {
         "id": 140,
         "name": "Carnation Recollection",
-        "honorType": "event"
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_0850"
     },
     {
         "id": 141,
@@ -770,6 +771,11 @@
         "honorType": "event"
     },
     {
+        "id": 162,
+        "name": "Happy Birthday An Jul.26,2023",
+        "honorType": "event"
+    },
+    {
         "id": 163,
         "name": "Happy Birthday Akito Nov.12,2022",
         "honorType": "event"
@@ -782,6 +788,11 @@
     {
         "id": 165,
         "name": "Happy Birthday Tsukasa May 17,2023",
+        "honorType": "event"
+    },
+    {
+        "id": 167,
+        "name": "Happy Birthday Nene Jul.20,2023",
         "honorType": "event"
     },
     {
@@ -1019,5 +1030,23 @@
         "id": 216,
         "name": "Star Festival 2023",
         "honorType": "event"
+    },
+    {
+        "id": 217,
+        "name": "Ranked Matches Summer 2023",
+        "honorType": "rank_match",
+        "backgroundAssetbundleName": "season_2022_summer"
+    },
+    {
+        "id": 218,
+        "name": "The Vivid Old Tale",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_tale"
+    },
+    {
+        "id": 219,
+        "name": "No seek No find",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_noseek"
     }
 ]
