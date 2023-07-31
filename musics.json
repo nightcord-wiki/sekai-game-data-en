@@ -7,6 +7,7 @@
             "mv"
         ],
         "title": "Tell Your World",
+        "pronunciation": "tellyourworld",
         "lyricist": "kz",
         "composer": "kz",
         "arranger": "kz",
@@ -26,6 +27,7 @@
             "mv"
         ],
         "title": "ROKI",
+        "pronunciation": "roki",
         "lyricist": "mikitoP",
         "composer": "mikitoP",
         "arranger": "mikitoP",
@@ -45,6 +47,7 @@
             "mv"
         ],
         "title": "Teo",
+        "pronunciation": "teo",
         "lyricist": "Sakurai",
         "composer": "Omoi",
         "arranger": "Omoi",
@@ -64,6 +67,7 @@
             "mv_2d"
         ],
         "title": "HIBANA -Reloaded-",
+        "pronunciation": "hibana-reloaded-",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "Rockwell",
@@ -84,6 +88,7 @@
             "mv_2d"
         ],
         "title": "Time Machine",
+        "pronunciation": "timemachine",
         "lyricist": "164",
         "composer": "40mP",
         "arranger": "1640mP",
@@ -104,6 +109,7 @@
             "mv_2d"
         ],
         "title": "Happy Synthesizer",
+        "pronunciation": "happysynthesizer",
         "lyricist": "EasyPop",
         "composer": "EasyPop",
         "arranger": "-",
@@ -124,6 +130,7 @@
             "mv_2d"
         ],
         "title": "Viva Happy",
+        "pronunciation": "vivahappy",
         "lyricist": "Mitchie M",
         "composer": "Mitchie M",
         "arranger": "Mitchie M",
@@ -143,6 +150,7 @@
             "mv_2d"
         ],
         "title": "Nostalogic",
+        "pronunciation": "nostalogic",
         "lyricist": "yuukiss",
         "composer": "yuukiss",
         "arranger": "-",
@@ -162,6 +170,7 @@
             "mv"
         ],
         "title": "drop pop candy",
+        "pronunciation": "droppopcandy",
         "lyricist": "Reol",
         "composer": "Giga",
         "arranger": "Giga",
@@ -181,6 +190,7 @@
             "original"
         ],
         "title": "Night Sky Patrol of Tomorrow",
+        "pronunciation": "nightskypatroloftomorrow",
         "lyricist": "Orangestar",
         "composer": "Orangestar",
         "arranger": "Rockwell",
@@ -200,6 +210,7 @@
             "mv"
         ],
         "title": "Charles",
+        "pronunciation": "charles",
         "lyricist": "balloon",
         "composer": "balloon",
         "arranger": "balloon",
@@ -219,6 +230,7 @@
             "original"
         ],
         "title": "Law-evading Rock",
+        "pronunciation": "law-evadingrock",
         "lyricist": "Neru",
         "composer": "Neru",
         "arranger": "-",
@@ -238,6 +250,7 @@
             "mv_2d"
         ],
         "title": "Hated by Life",
+        "pronunciation": "hatedbylife",
         "lyricist": "Iori Kanzaki",
         "composer": "Iori Kanzaki",
         "arranger": "Iori Kanzaki",
@@ -257,6 +270,7 @@
             "mv"
         ],
         "title": "BRING IT ON",
+        "pronunciation": "bringiton",
         "lyricist": "Reol",
         "composer": "Giga",
         "arranger": "Giga",
@@ -276,6 +290,7 @@
             "mv_2d"
         ],
         "title": "Just Be Friends",
+        "pronunciation": "justbefriends",
         "lyricist": "Dixie Flatline",
         "composer": "Dixie Flatline",
         "arranger": "-",
@@ -295,6 +310,7 @@
             "mv_2d"
         ],
         "title": "Doctor=Funk Beat",
+        "pronunciation": "doctor=funkbeat",
         "lyricist": "nyanyannya (DAITENSAI P)",
         "composer": "nyanyannya (DAITENSAI P)",
         "arranger": "nyanyannya (DAITENSAI P)",
@@ -315,6 +331,7 @@
             "mv_2d"
         ],
         "title": "Miracle Paint",
+        "pronunciation": "miraclepaint",
         "lyricist": "OSTER project",
         "composer": "OSTER project",
         "arranger": "OSTER project",
@@ -334,6 +351,7 @@
             "mv"
         ],
         "title": "BURIKI NO DANCE",
+        "pronunciation": "burikinodance",
         "lyricist": "Hinata Electric Works",
         "composer": "Hinata Electric Works",
         "arranger": "Hinata Electric Works",
@@ -353,6 +371,7 @@
             "mv"
         ],
         "title": "Sweet Magic",
+        "pronunciation": "sweetmagic",
         "lyricist": "Junky",
         "composer": "Junky",
         "arranger": "-",
@@ -372,6 +391,7 @@
             "image"
         ],
         "title": "NEXT NEST",
+        "pronunciation": "nextnest",
         "lyricist": "TENKOMORI",
         "composer": "TENKOMORI",
         "arranger": "-",
@@ -391,6 +411,7 @@
             "original"
         ],
         "title": "Hand in Hand",
+        "pronunciation": "handinhand",
         "lyricist": "kz",
         "composer": "kz",
         "arranger": "kz",
@@ -410,6 +431,7 @@
             "original"
         ],
         "title": "39Music!",
+        "pronunciation": "39music!",
         "lyricist": "mikitoP",
         "composer": "mikitoP",
         "arranger": "-",
@@ -429,6 +451,7 @@
             "original"
         ],
         "title": "Greenlights Serenade",
+        "pronunciation": "greenlightsserenade",
         "lyricist": "Sakurai",
         "composer": "Omoi",
         "arranger": "Omoi",
@@ -448,6 +471,7 @@
             "image"
         ],
         "title": "Melt",
+        "pronunciation": "melt",
         "lyricist": "ryo",
         "composer": "ryo",
         "arranger": "ryo",
@@ -467,6 +491,7 @@
             "image"
         ],
         "title": "The World is Mine",
+        "pronunciation": "theworldismine",
         "lyricist": "ryo",
         "composer": "ryo",
         "arranger": "ryo",
@@ -486,6 +511,7 @@
             "image"
         ],
         "title": "THE END OF HATSUNE MIKU",
+        "pronunciation": "theendofhatsunemiku",
         "lyricist": "cosMo@Bousou-P",
         "composer": "cosMo@Bousou-P",
         "arranger": "-",
@@ -505,6 +531,7 @@
             "original"
         ],
         "title": "Blessing",
+        "pronunciation": "blessing",
         "lyricist": "halyosy",
         "composer": "halyosy",
         "arranger": "-",
@@ -524,6 +551,7 @@
             "mv"
         ],
         "title": "The World Hasn't Even Started Yet",
+        "pronunciation": "theworldhasn'tevenstartedyet",
         "lyricist": "PinocchioP",
         "composer": "PinocchioP",
         "arranger": "PinocchioP",
@@ -543,6 +571,7 @@
             "mv"
         ],
         "title": "Becoming Potatoes",
+        "pronunciation": "becomingpotatoes",
         "lyricist": "Neru",
         "composer": "Neru",
         "arranger": "Neru",
@@ -562,6 +591,7 @@
             "mv"
         ],
         "title": "Ready Steady",
+        "pronunciation": "readysteady",
         "lyricist": "q*Left",
         "composer": "Giga",
         "arranger": "Giga",
@@ -581,6 +611,7 @@
             "mv"
         ],
         "title": "Forward",
+        "pronunciation": "forward",
         "lyricist": "R Sound Design",
         "composer": "R Sound Design",
         "arranger": "R Sound Design",
@@ -600,6 +631,7 @@
             "mv"
         ],
         "title": "Newly Edgy Idols",
+        "pronunciation": "newlyedgyidols",
         "lyricist": "Mitchie M",
         "composer": "Mitchie M",
         "arranger": "Mitchie M",
@@ -619,6 +651,7 @@
             "mv"
         ],
         "title": "Composing the Future",
+        "pronunciation": "composingthefuture",
         "lyricist": "mafumafu",
         "composer": "mafumafu",
         "arranger": "mafumafu",
@@ -638,6 +671,7 @@
             "mv_2d"
         ],
         "title": "Cellphone Love Story",
+        "pronunciation": "cellphonelovestory",
         "lyricist": "mafumafu",
         "composer": "mafumafu",
         "arranger": "mafumafu",
@@ -658,6 +692,7 @@
             "mv_2d"
         ],
         "title": "Jack Pot Sad Girl",
+        "pronunciation": "jackpotsadgirl",
         "lyricist": "syudou",
         "composer": "syudou",
         "arranger": "syudou",
@@ -677,6 +712,7 @@
             "mv"
         ],
         "title": "needLe",
+        "pronunciation": "needLe",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "Rockwell",
@@ -696,6 +732,7 @@
             "mv"
         ],
         "title": "Stella",
+        "pronunciation": "stella",
         "lyricist": "JIN",
         "composer": "JIN",
         "arranger": "-",
@@ -715,6 +752,7 @@
             "image"
         ],
         "title": "Hello/How Are You?",
+        "pronunciation": "hello/howareyou?",
         "lyricist": "Nanou",
         "composer": "Nanou",
         "arranger": "-",
@@ -735,6 +773,7 @@
             "mv_2d"
         ],
         "title": "Jishoumushoku",
+        "pronunciation": "jishoumushoku",
         "lyricist": "Sasanomaly",
         "composer": "Sasanomaly",
         "arranger": "-",
@@ -754,6 +793,7 @@
             "mv"
         ],
         "title": "Dance Robot Dance",
+        "pronunciation": "dancerobotdance",
         "lyricist": "NayutalieN",
         "composer": "NayutalieN",
         "arranger": "NayutalieN",
@@ -774,6 +814,7 @@
             "mv_2d"
         ],
         "title": "Fragile",
+        "pronunciation": "fragile",
         "lyricist": "nulut",
         "composer": "nulut",
         "arranger": "nulut",
@@ -793,6 +834,7 @@
             "mv"
         ],
         "title": "Melty Land Nightmare",
+        "pronunciation": "meltylandnightmare",
         "lyricist": "HarumakiGohan",
         "composer": "HarumakiGohan",
         "arranger": "HarumakiGohan",
@@ -812,6 +854,7 @@
             "mv"
         ],
         "title": "Patchwork Staccato",
+        "pronunciation": "patchworkstaccato",
         "lyricist": "Toa",
         "composer": "Toa",
         "arranger": "Toa",
@@ -831,6 +874,7 @@
             "original"
         ],
         "title": "Bless Your Breath",
+        "pronunciation": "blessyourbreath",
         "lyricist": "WADATAKEAKI",
         "composer": "WADATAKEAKI",
         "arranger": "WADATAKEAKI",
@@ -850,6 +894,7 @@
             "mv"
         ],
         "title": "Near",
+        "pronunciation": "near",
         "lyricist": "Natsushiro Takaaki",
         "composer": "Natsushiro Takaaki",
         "arranger": "Watanabe Takuya",
@@ -869,6 +914,7 @@
             "mv"
         ],
         "title": "Hitorinbo Envy",
+        "pronunciation": "hitorinboenvy",
         "lyricist": "koyori",
         "composer": "koyori",
         "arranger": "koyori",
@@ -888,6 +934,7 @@
             "mv"
         ],
         "title": "Tale of the Deep-sea Lily",
+        "pronunciation": "taleofthedeep-sealily",
         "lyricist": "n-buna",
         "composer": "n-buna",
         "arranger": "n-buna",
@@ -907,6 +954,7 @@
             "mv"
         ],
         "title": "SEKAI",
+        "pronunciation": "sekai",
         "lyricist": "DECO*27",
         "composer": "Shota Horie(kemu)",
         "arranger": "Rockwell",
@@ -926,6 +974,7 @@
             "mv"
         ],
         "title": "Wah Wah World",
+        "pronunciation": "wahwahworld",
         "lyricist": "Mitchie M",
         "composer": "Mitchie M/Giga",
         "arranger": "Giga",
@@ -945,6 +994,7 @@
             "original"
         ],
         "title": "Your Adventure Log Has Vanished!",
+        "pronunciation": "youradventureloghasvanished!",
         "lyricist": "Jizasu-P",
         "composer": "Jizasu-P",
         "arranger": "Wonderful★Opportunity!",
@@ -964,6 +1014,7 @@
             "original"
         ],
         "title": "Yobanashi Deceive",
+        "pronunciation": "yobanashideceive",
         "lyricist": "JIN",
         "composer": "JIN",
         "arranger": "JIN",
@@ -983,6 +1034,7 @@
             "image"
         ],
         "title": "alive",
+        "pronunciation": "alive",
         "lyricist": "LUPO Ichinose",
         "composer": "LUPO Ichinose",
         "arranger": "-",
@@ -1002,6 +1054,7 @@
             "image"
         ],
         "title": "Gimme×Gimme",
+        "pronunciation": "gimme×gimme",
         "lyricist": "q*Left",
         "composer": "Hachioji P/Giga",
         "arranger": "Hachioji P/Giga",
@@ -1021,6 +1074,7 @@
             "image"
         ],
         "title": "junky nighttown orchestra",
+        "pronunciation": "junkynighttownorchestra",
         "lyricist": "Three",
         "composer": "Three",
         "arranger": "-",
@@ -1040,6 +1094,7 @@
             "image"
         ],
         "title": "Leia - Remind",
+        "pronunciation": "leia-remind",
         "lyricist": "Yuyoyuppe",
         "composer": "Yuyoyuppe",
         "arranger": "Yuyoyuppe",
@@ -1059,6 +1114,7 @@
             "image"
         ],
         "title": "on the rocks",
+        "pronunciation": "ontherocks",
         "lyricist": "OSTER project",
         "composer": "OSTER project",
         "arranger": "OSTER project",
@@ -1079,6 +1135,7 @@
             "mv_2d"
         ],
         "title": "Love Trial",
+        "pronunciation": "lovetrial",
         "lyricist": "40mP",
         "composer": "40mP",
         "arranger": "40mP",
@@ -1099,6 +1156,7 @@
             "mv_2d"
         ],
         "title": "Chururira Chururira Daddadda!",
+        "pronunciation": "chururirachururiradaddadda!",
         "lyricist": "WADATAKEAKI / KurageP",
         "composer": "WADATAKEAKI / KurageP",
         "arranger": "WADATAKEAKI / KurageP",
@@ -1118,6 +1176,7 @@
             "mv"
         ],
         "title": "Color of Drops",
+        "pronunciation": "colorofdrops",
         "lyricist": "40mP",
         "composer": "40mP",
         "arranger": "40mP",
@@ -1137,6 +1196,7 @@
             "mv"
         ],
         "title": "Close to gray",
+        "pronunciation": "closetogray",
         "lyricist": "Three",
         "composer": "Three",
         "arranger": "Three",
@@ -1156,6 +1216,7 @@
             "original"
         ],
         "title": "Dramaturgy",
+        "pronunciation": "dramaturgy",
         "lyricist": "Eve",
         "composer": "Eve",
         "arranger": "Numa",
@@ -1176,6 +1237,7 @@
             "mv_2d"
         ],
         "title": "Otome Dissection",
+        "pronunciation": "otomedissection",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "emon(Tes.) & Rockwell",
@@ -1195,6 +1257,7 @@
             "image"
         ],
         "title": "Aoku Kakero!",
+        "pronunciation": "aokukakero",
         "lyricist": "marasy",
         "composer": "marasy",
         "arranger": "-",
@@ -1214,6 +1277,7 @@
             "image"
         ],
         "title": "Totemoitai Itagaritai",
+        "pronunciation": "totemoitaiitagaritai",
         "lyricist": "EZFG",
         "composer": "EZFG",
         "arranger": "EZFG",
@@ -1233,6 +1297,7 @@
             "mv"
         ],
         "title": "Ifuudoudou",
+        "pronunciation": "ifuudoudou",
         "lyricist": "Umetora",
         "composer": "Umetora",
         "arranger": "Umetora",
@@ -1252,6 +1317,7 @@
             "image"
         ],
         "title": "from Y to Y",
+        "pronunciation": "fromytoy",
         "lyricist": "Jimmythumb P",
         "composer": "Jimmythumb P",
         "arranger": "-",
@@ -1271,6 +1337,7 @@
             "mv_2d"
         ],
         "title": "Awaiting Clear Skies",
+        "pronunciation": "awaitingclearskies",
         "lyricist": "Orangestar",
         "composer": "Orangestar",
         "arranger": "Orangestar",
@@ -1284,12 +1351,13 @@
     },
     {
         "id": 98,
-        "seq": 1214701,
+        "seq": 1214001,
         "releaseConditionId": 5,
         "categories": [
             "mv"
         ],
         "title": "Lost One's Weeping",
+        "pronunciation": "lostone'sweeping",
         "lyricist": "Neru",
         "composer": "Neru",
         "arranger": "-",
@@ -1309,6 +1377,7 @@
             "mv_2d"
         ],
         "title": "MORE! JUMP! MORE!",
+        "pronunciation": "more!jump!more!",
         "lyricist": "NayutalieN",
         "composer": "NayutalieN",
         "arranger": "NayutalieN",
@@ -1328,6 +1397,7 @@
             "mv_2d"
         ],
         "title": "ECHO",
+        "pronunciation": "echo",
         "lyricist": "CRUSHER P/CIRCUS P",
         "composer": "CRUSHER P/CIRCUS P",
         "arranger": "-",
@@ -1347,6 +1417,7 @@
             "mv_2d"
         ],
         "title": "RAD DOGS",
+        "pronunciation": "raddogs",
         "lyricist": "q*Left",
         "composer": "Hachioji P",
         "arranger": "Hachioji P",
@@ -1366,6 +1437,7 @@
             "image"
         ],
         "title": "Ghost City Tokyo",
+        "pronunciation": "ghostcitytokyo",
         "lyricist": "Ayase",
         "composer": "Ayase",
         "arranger": "Ayase",
@@ -1385,6 +1457,7 @@
             "mv_2d"
         ],
         "title": "NIJIIRO STORIES",
+        "pronunciation": "nijiirostories",
         "lyricist": "OSTER project",
         "composer": "OSTER project",
         "arranger": "OSTER project",
@@ -1398,12 +1471,13 @@
     },
     {
         "id": 104,
-        "seq": 1520701,
+        "seq": 1520001,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Cendrillon 10th Anniversary",
+        "pronunciation": "cendrillon10thanniversary",
         "lyricist": "orange",
         "composer": "Dios/signalP",
         "arranger": "Dios/signalP",
@@ -1423,6 +1497,7 @@
             "mv_2d"
         ],
         "title": "once upon a dream",
+        "pronunciation": "onceuponadream",
         "lyricist": "YASUHIRO",
         "composer": "YASUHIRO",
         "arranger": "YASUHIRO",
@@ -1442,6 +1517,7 @@
             "mv"
         ],
         "title": "As You Like It",
+        "pronunciation": "asyoulikeit",
         "lyricist": "Eve",
         "composer": "Eve",
         "arranger": "Numa",
@@ -1461,6 +1537,7 @@
             "image"
         ],
         "title": "Milk Crown on Sonechka",
+        "pronunciation": "milkcrownonsonechka",
         "lyricist": "YUZY",
         "composer": "YUZY",
         "arranger": "YUZY",
@@ -1480,6 +1557,7 @@
             "original"
         ],
         "title": "Because You're Here",
+        "pronunciation": "becauseyou'rehere",
         "lyricist": "PinocchioP",
         "composer": "PinocchioP",
         "arranger": "PinocchioP",
@@ -1499,6 +1577,7 @@
             "original"
         ],
         "title": "Hibikase",
+        "pronunciation": "hibikase",
         "lyricist": "Reol",
         "composer": "Giga",
         "arranger": "Giga",
@@ -1518,6 +1597,7 @@
             "image"
         ],
         "title": "Senbonzakura",
+        "pronunciation": "senbonzakura",
         "lyricist": "Kurousa",
         "composer": "Kurousa",
         "arranger": "Kurousa",
@@ -1531,12 +1611,13 @@
     },
     {
         "id": 111,
-        "seq": 1614001,
+        "seq": 1613301,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "Cutlery",
+        "pronunciation": "cutlery",
         "lyricist": "Ukisan",
         "composer": "Ukisan",
         "arranger": "Ukisan",
@@ -1556,6 +1637,7 @@
             "mv"
         ],
         "title": "Angel's Clover",
+        "pronunciation": "angel'sclover",
         "lyricist": "DIVELA",
         "composer": "DIVELA",
         "arranger": "DIVELA",
@@ -1575,6 +1657,7 @@
             "image"
         ],
         "title": "Rollin Girl",
+        "pronunciation": "rollingirl",
         "lyricist": "wowaka",
         "composer": "wowaka",
         "arranger": "wowaka",
@@ -1594,6 +1677,7 @@
             "image"
         ],
         "title": "Ura-Omote Lovers",
+        "pronunciation": "ura-omotelovers",
         "lyricist": "wowaka",
         "composer": "wowaka",
         "arranger": "wowaka",
@@ -1613,6 +1697,7 @@
             "image"
         ],
         "title": "Unknown Mother-Goose",
+        "pronunciation": "unknownmother-goose",
         "lyricist": "wowaka",
         "composer": "wowaka",
         "arranger": "wowaka",
@@ -1632,6 +1717,7 @@
             "mv"
         ],
         "title": "IDSMILE",
+        "pronunciation": "idsmile",
         "lyricist": "Toa",
         "composer": "Toa",
         "arranger": "Toa",
@@ -1651,6 +1737,7 @@
             "image"
         ],
         "title": "ODDS&ENDS",
+        "pronunciation": "odds&ends",
         "lyricist": "ryo",
         "composer": "ryo",
         "arranger": "ryo",
@@ -1670,6 +1757,7 @@
             "original"
         ],
         "title": "*Hello, Planet",
+        "pronunciation": "*hello,planet",
         "lyricist": "sasakure.UK",
         "composer": "sasakure.UK",
         "arranger": "sasakure.UK",
@@ -1689,6 +1777,7 @@
             "image"
         ],
         "title": "World’s End Dancehall",
+        "pronunciation": "world'senddancehall",
         "lyricist": "wowaka",
         "composer": "wowaka",
         "arranger": "wowaka",
@@ -1708,6 +1797,7 @@
             "mv"
         ],
         "title": "Do not go",
+        "pronunciation": "donotgo",
         "lyricist": "sohta",
         "composer": "sohta",
         "arranger": "-",
@@ -1727,6 +1817,7 @@
             "mv"
         ],
         "title": "Romeo & Cinderella",
+        "pronunciation": "romeo&cinderella",
         "lyricist": "doriko",
         "composer": "doriko",
         "arranger": "doriko",
@@ -1746,6 +1837,7 @@
             "mv_2d"
         ],
         "title": "Positive☆Dance Time",
+        "pronunciation": "positive☆dancetime",
         "lyricist": "kinoshita",
         "composer": "kinoshita",
         "arranger": "kinoshita",
@@ -1765,6 +1857,7 @@
             "original"
         ],
         "title": "dreamin chuchu",
+        "pronunciation": "dreaminchuchu",
         "lyricist": "emon(Tes.)",
         "composer": "emon(Tes.)",
         "arranger": "emon(Tes.)",
@@ -1784,6 +1877,7 @@
             "image"
         ],
         "title": "Mikumiku Ni Shiteageru [Shiteyanyo]",
+        "pronunciation": "mikumikunishiteageru[shiteyanyo]",
         "lyricist": "ika_mo",
         "composer": "ika_mo",
         "arranger": "ika_mo",
@@ -1803,6 +1897,7 @@
             "mv_2d"
         ],
         "title": "Bocca della Verità",
+        "pronunciation": "boccadellaverità",
         "lyricist": "Hiiragi Kirai",
         "composer": "Hiiragi Kirai",
         "arranger": "Hiiragi Kirai",
@@ -1823,6 +1918,7 @@
             "mv_2d"
         ],
         "title": "Cinema",
+        "pronunciation": "cinema",
         "lyricist": "Ayase",
         "composer": "Ayase",
         "arranger": "Ayase",
@@ -1842,6 +1938,7 @@
             "mv"
         ],
         "title": "Tondemo-Wonderz",
+        "pronunciation": "tondemo-wonderz",
         "lyricist": "sasakure.UK",
         "composer": "sasakure.UK",
         "arranger": "sasakure.UK（Key Yuki Kishida(UKRampage)）",
@@ -1861,6 +1958,7 @@
             "image"
         ],
         "title": "Brand New Day",
+        "pronunciation": "brandnewday",
         "lyricist": "irucaice",
         "composer": "irucaice",
         "arranger": "irucaice",
@@ -1880,6 +1978,7 @@
             "mv"
         ],
         "title": "Bitter Choco Decoration",
+        "pronunciation": "bitterchocodecoration",
         "lyricist": "syudou",
         "composer": "syudou",
         "arranger": "syudou",
@@ -1899,6 +1998,7 @@
             "mv"
         ],
         "title": "From Tokyo",
+        "pronunciation": "fromtokyo",
         "lyricist": "Natsushiro Takaaki",
         "composer": "Natsushiro Takaaki・Watanabe Takuya",
         "arranger": "Watanabe Takuya",
@@ -1918,6 +2018,7 @@
             "image"
         ],
         "title": "The Intense Voice of Hatsune Miku",
+        "pronunciation": "theintensevoiceofhatsunemiku",
         "lyricist": "GAiA",
         "composer": "cosMo@Bousou-P",
         "arranger": "cosMo@Bousou-P",
@@ -1937,6 +2038,7 @@
             "mv_2d"
         ],
         "title": "「１」",
+        "pronunciation": "[1]",
         "lyricist": "164",
         "composer": "164",
         "arranger": "164",
@@ -1950,12 +2052,13 @@
     },
     {
         "id": 133,
-        "seq": 1115901,
+        "seq": 1115201,
         "releaseConditionId": 5,
         "categories": [
             "mv"
         ],
         "title": "Devil's Manner",
+        "pronunciation": "devil'smanner",
         "lyricist": "Tatsuya Kitani",
         "composer": "Tatsuya Kitani",
         "arranger": "-",
@@ -1969,12 +2072,13 @@
     },
     {
         "id": 134,
-        "seq": 1515501,
+        "seq": 1514801,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "Telecaster b boy",
+        "pronunciation": "telecasterbboy",
         "lyricist": "Three",
         "composer": "Three",
         "arranger": "Three",
@@ -1994,6 +2098,7 @@
             "mv_2d"
         ],
         "title": "Six Trillion Years and Overnight Story",
+        "pronunciation": "sixtrillionyearsandovernightstory",
         "lyricist": "kemu",
         "composer": "kemu",
         "arranger": "kemu",
@@ -2007,12 +2112,13 @@
     },
     {
         "id": 136,
-        "seq": 1413002,
+        "seq": 1412702,
         "releaseConditionId": 5,
         "categories": [
             "mv"
         ],
         "title": "Children Record",
+        "pronunciation": "childrenrecord",
         "lyricist": "JIN",
         "composer": "JIN",
         "arranger": "JIN",
@@ -2032,6 +2138,7 @@
             "image"
         ],
         "title": "Singing of a flower",
+        "pronunciation": "singingofaflower",
         "lyricist": "shino",
         "composer": "shino",
         "arranger": "shino",
@@ -2051,6 +2158,7 @@
             "mv_2d"
         ],
         "title": "KING",
+        "pronunciation": "king",
         "lyricist": "Kanaria",
         "composer": "Kanaria",
         "arranger": "-",
@@ -2070,6 +2178,7 @@
             "image"
         ],
         "title": "Into The Night",
+        "pronunciation": "intothenight",
         "lyricist": "Ayase",
         "composer": "Ayase",
         "arranger": "Ayase",
@@ -2083,12 +2192,13 @@
     },
     {
         "id": 140,
-        "seq": 1312701,
+        "seq": 1312501,
         "releaseConditionId": 10,
         "categories": [
             "mv"
         ],
         "title": "icedrop",
+        "pronunciation": "icedrop",
         "lyricist": "aqu3ra",
         "composer": "aqu3ra",
         "arranger": "aqu3ra",
@@ -2102,12 +2212,13 @@
     },
     {
         "id": 141,
-        "seq": 1114401,
+        "seq": 1113701,
         "releaseConditionId": 10,
         "categories": [
             "mv"
         ],
         "title": "Gunjo Sanka",
+        "pronunciation": "gunjosanka",
         "lyricist": "Eve",
         "composer": "Eve",
         "arranger": "Numa",
@@ -2121,12 +2232,13 @@
     },
     {
         "id": 142,
-        "seq": 1614201,
+        "seq": 1613501,
         "releaseConditionId": 10,
         "categories": [
             "mv"
         ],
         "title": "Reborn",
+        "pronunciation": "reborn",
         "lyricist": "Picon",
         "composer": "Picon",
         "arranger": "Picon",
@@ -2147,6 +2259,7 @@
             "mv_2d"
         ],
         "title": "Traffic jam",
+        "pronunciation": "trafficjam",
         "lyricist": "NILFRUITS",
         "composer": "NILFRUITS",
         "arranger": "NILFRUITS",
@@ -2166,6 +2279,7 @@
             "mv_2d"
         ],
         "title": "Love material",
+        "pronunciation": "lovematerial",
         "lyricist": "Junky",
         "composer": "Junky",
         "arranger": "Junky",
@@ -2179,12 +2293,13 @@
     },
     {
         "id": 145,
-        "seq": 1615101,
+        "seq": 1614401,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Venom",
+        "pronunciation": "venom",
         "lyricist": "Kairiki Bear",
         "composer": "Kairiki Bear",
         "arranger": "-",
@@ -2198,12 +2313,13 @@
     },
     {
         "id": 146,
-        "seq": 1525701,
+        "seq": 1525001,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Remote Control",
+        "pronunciation": "remotecontrol",
         "lyricist": "Jizasu-P",
         "composer": "Jizasu-P",
         "arranger": "Wonderful★Opportunity!",
@@ -2217,12 +2333,13 @@
     },
     {
         "id": 147,
-        "seq": 1318601,
+        "seq": 1317901,
         "releaseConditionId": 5,
         "categories": [
             "mv"
         ],
         "title": "Karakuri Pierrot",
+        "pronunciation": "karakuripierrot",
         "lyricist": "40mP",
         "composer": "40mP",
         "arranger": "40mP",
@@ -2236,13 +2353,14 @@
     },
     {
         "id": 148,
-        "seq": 1216701,
+        "seq": 1216001,
         "releaseConditionId": 5,
         "categories": [
             "mv",
             "mv_2d"
         ],
         "title": "ray",
+        "pronunciation": "ray",
         "lyricist": "MOTOO FUJIWARA",
         "composer": "MOTOO FUJIWARA",
         "arranger": "-",
@@ -2262,6 +2380,7 @@
             "mv_2d"
         ],
         "title": "Kanadetomosusora",
+        "pronunciation": "kanadetomosusora",
         "lyricist": "Sasanomaly",
         "composer": "Sasanomaly",
         "arranger": "Sasanomaly",
@@ -2275,12 +2394,13 @@
     },
     {
         "id": 150,
-        "seq": 1115701,
+        "seq": 1115001,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "TOKIO FUNKA",
+        "pronunciation": "tokiofunka",
         "lyricist": "takamatt",
         "composer": "takamatt",
         "arranger": "takamatt",
@@ -2300,6 +2420,7 @@
             "image"
         ],
         "title": "The Bubble Future",
+        "pronunciation": "thebubblefuture",
         "lyricist": "kaga(Negi Shower P)",
         "composer": "kaga(Negi Shower P)",
         "arranger": "kaga(Negi Shower P)",
@@ -2313,12 +2434,13 @@
     },
     {
         "id": 152,
-        "seq": 1116101,
+        "seq": 1115401,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "I want to be your heart",
+        "pronunciation": "iwanttobeyourheart",
         "lyricist": "Yurry Canon",
         "composer": "Yurry Canon",
         "arranger": "Yurry Canon",
@@ -2338,6 +2460,7 @@
             "mv"
         ],
         "title": "Miku",
+        "pronunciation": "miku",
         "lyricist": "Peter B, Ary W, Josh K, David M, & Stella M",
         "composer": "Anamanaguchi",
         "arranger": "Anamanaguchi",
@@ -2357,6 +2480,7 @@
             "mv_2d"
         ],
         "title": "Chikyuu Saigo no Kokuhaku wo",
+        "pronunciation": "chikyuusaigonokokuhakuwo",
         "lyricist": "kemu",
         "composer": "kemu",
         "arranger": "kemu",
@@ -2370,12 +2494,13 @@
     },
     {
         "id": 155,
-        "seq": 1221801,
+        "seq": 1221101,
         "releaseConditionId": 5,
         "categories": [
             "mv_2d"
         ],
         "title": "Heartbeat #0822",
+        "pronunciation": "heartbeat#0822",
         "lyricist": "papiyon",
         "composer": "papiyon",
         "arranger": "papiyon",
@@ -2395,6 +2520,7 @@
             "mv_2d"
         ],
         "title": "Beat Eater",
+        "pronunciation": "beateater",
         "lyricist": "Police Piccadilly",
         "composer": "Police Piccadilly",
         "arranger": "Police Piccadilly",
@@ -2408,12 +2534,13 @@
     },
     {
         "id": 157,
-        "seq": 1116301,
+        "seq": 1115601,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Marshmary",
+        "pronunciation": "marshmary",
         "lyricist": "MIMI",
         "composer": "MIMI",
         "arranger": "MIMI",
@@ -2427,13 +2554,14 @@
     },
     {
         "id": 158,
-        "seq": 1122901,
+        "seq": 1122201,
         "releaseConditionId": 5,
         "categories": [
             "original",
             "mv_2d"
         ],
         "title": "Literary nonsense",
+        "pronunciation": "literarynonsense",
         "lyricist": "Eve",
         "composer": "Eve",
         "arranger": "Numa",
@@ -2447,12 +2575,13 @@
     },
     {
         "id": 159,
-        "seq": 2118201,
+        "seq": 2117501,
         "releaseConditionId": 10,
         "categories": [
             "mv"
         ],
         "title": "STAGE OF SEKAI",
+        "pronunciation": "stageofsekai",
         "lyricist": "Harihara Tsubasa (Harry P)",
         "composer": "Harihara Tsubasa (Harry P)",
         "arranger": "Tanahashi EDDY Teruaki",
@@ -2466,12 +2595,13 @@
     },
     {
         "id": 160,
-        "seq": 2117201,
+        "seq": 2116501,
         "releaseConditionId": 10,
         "categories": [
             "mv"
         ],
         "title": "Showtime Ruler",
+        "pronunciation": "showtimeruler",
         "lyricist": "Karasuya Sabou",
         "composer": "Karasuya Sabou",
         "arranger": "Karasuya Sabou",
@@ -2485,12 +2615,13 @@
     },
     {
         "id": 161,
-        "seq": 2113501,
+        "seq": 2112901,
         "releaseConditionId": 5,
         "categories": [
             "mv_2d"
         ],
         "title": "magic number",
+        "pronunciation": "magicnumber",
         "lyricist": "Kent Ito",
         "composer": "Kent Ito",
         "arranger": "OSTER project",
@@ -2504,12 +2635,13 @@
     },
     {
         "id": 162,
-        "seq": 2121201,
+        "seq": 2120501,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "End Mark ni Kibou to Namida wo soete",
+        "pronunciation": "endmarknikiboutonamidawosoete",
         "lyricist": "-",
         "composer": "cosMo@Bousou-P",
         "arranger": "cosMo@Bousou-P",
@@ -2524,12 +2656,13 @@
     },
     {
         "id": 163,
-        "seq": 2121301,
+        "seq": 2120601,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "the EmpErroR",
+        "pronunciation": "theemperror",
         "lyricist": "-",
         "composer": "sasakure.UK",
         "arranger": "sasakure.UK",
@@ -2544,12 +2677,13 @@
     },
     {
         "id": 164,
-        "seq": 2121401,
+        "seq": 2120701,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Don't Fight The Music",
+        "pronunciation": "don'tfightthemusic",
         "lyricist": "-",
         "composer": "Chroma",
         "arranger": "Chroma",
@@ -2570,6 +2704,7 @@
             "image"
         ],
         "title": "Soudatta!!",
+        "pronunciation": "soudatta!!",
         "lyricist": "Takenoko boy",
         "composer": "Takenoko boy",
         "arranger": "Takenoko boy",
@@ -2583,12 +2718,13 @@
     },
     {
         "id": 166,
-        "seq": 2512801,
+        "seq": 2512601,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
         ],
         "title": "Glory Steady Go!",
+        "pronunciation": "glorysteadygo!",
         "lyricist": "kinoshita",
         "composer": "kinoshita",
         "arranger": "kinoshita",
@@ -2602,12 +2738,13 @@
     },
     {
         "id": 167,
-        "seq": 1118001,
+        "seq": 1117301,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Alter Ego",
+        "pronunciation": "alterego",
         "lyricist": "Misumi",
         "composer": "Misumi",
         "arranger": "Misumi",
@@ -2621,12 +2758,13 @@
     },
     {
         "id": 168,
-        "seq": 1124601,
+        "seq": 1123901,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "DarlingDance",
+        "pronunciation": "darlingdance",
         "lyricist": "Kairiki Bear",
         "composer": "Kairiki Bear",
         "arranger": "-",
@@ -2640,12 +2778,13 @@
     },
     {
         "id": 169,
-        "seq": 1120801,
+        "seq": 1120101,
         "releaseConditionId": 5,
         "categories": [
             "mv"
         ],
         "title": "Shoujo Rei",
+        "pronunciation": "shoujorei",
         "lyricist": "mikitoP",
         "composer": "mikitoP",
         "arranger": "-",
@@ -2659,12 +2798,13 @@
     },
     {
         "id": 170,
-        "seq": 1120601,
+        "seq": 1119901,
         "releaseConditionId": 5,
         "categories": [
             "mv"
         ],
         "title": "villain",
+        "pronunciation": "villain",
         "lyricist": "teniwoha",
         "composer": "teniwoha",
         "arranger": "teniwoha",
@@ -2678,12 +2818,13 @@
     },
     {
         "id": 171,
-        "seq": 1212501,
+        "seq": 1212401,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Kagerou Daze",
+        "pronunciation": "kageroudaze",
         "lyricist": "JIN",
         "composer": "JIN",
         "arranger": "JIN",
@@ -2697,12 +2838,13 @@
     },
     {
         "id": 172,
-        "seq": 2117501,
+        "seq": 2116801,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "Happy Halloween",
+        "pronunciation": "happyhalloween",
         "lyricist": "Junky",
         "composer": "Junky",
         "arranger": "Junky",
@@ -2716,12 +2858,13 @@
     },
     {
         "id": 173,
-        "seq": 2213701,
+        "seq": 2213001,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
         ],
         "title": "Pulse of the Meteor",
+        "pronunciation": "pulseofthemeteor",
         "lyricist": "*Luna",
         "composer": "*Luna",
         "arranger": "*Luna",
@@ -2735,12 +2878,13 @@
     },
     {
         "id": 174,
-        "seq": 2123401,
+        "seq": 2122701,
         "releaseConditionId": 5,
         "categories": [
             "mv"
         ],
         "title": "1,2, FanClub",
+        "pronunciation": "1,2,fanclub",
         "lyricist": "mikitoP",
         "composer": "mikitoP",
         "arranger": "mikitoP",
@@ -2754,12 +2898,13 @@
     },
     {
         "id": 175,
-        "seq": 2115301,
+        "seq": 2114601,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Haikei Doppelganger",
+        "pronunciation": "haikeidoppelganger",
         "lyricist": "kemu",
         "composer": "kemu",
         "arranger": "kemu",
@@ -2773,12 +2918,13 @@
     },
     {
         "id": 176,
-        "seq": 2114901,
+        "seq": 2114201,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "MACHINEGUN POEM DOLL",
+        "pronunciation": "machinegunpoemdoll",
         "lyricist": "cosMo@Bousou-P",
         "composer": "cosMo@Bousou-P",
         "arranger": "cosMo@Bousou-P",
@@ -2792,12 +2938,13 @@
     },
     {
         "id": 177,
-        "seq": 2116501,
+        "seq": 2115801,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Butterfly on Your Right Shoulder",
+        "pronunciation": "butterflyonyourrightshoulder",
         "lyricist": "Yura Mizuno",
         "composer": "noripy",
         "arranger": "noripy",
@@ -2811,12 +2958,13 @@
     },
     {
         "id": 178,
-        "seq": 2121601,
+        "seq": 2120901,
         "releaseConditionId": 10,
         "categories": [
             "mv"
         ],
         "title": "Theme of Niccori Survey Team",
+        "pronunciation": "themeofniccorisurveyteam",
         "lyricist": "Jizasu-P",
         "composer": "Jizasu-P",
         "arranger": "Wonderful★Opportunity!",
@@ -2830,12 +2978,13 @@
     },
     {
         "id": 179,
-        "seq": 2114501,
+        "seq": 2113801,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Roshin Yuukai (meltdown)",
+        "pronunciation": "roshinyuukai(meltdown)",
         "lyricist": "kuma (alfred)",
         "composer": "iroha (sasaki)",
         "arranger": "-",
@@ -2849,13 +2998,14 @@
     },
     {
         "id": 180,
-        "seq": 2420401,
+        "seq": 2419701,
         "releaseConditionId": 10,
         "categories": [
             "mv",
             "mv_2d"
         ],
         "title": "Mirai",
+        "pronunciation": "mirai",
         "lyricist": "Ukisan",
         "composer": "Ukisan",
         "arranger": "Ukisan",
@@ -2869,12 +3019,13 @@
     },
     {
         "id": 181,
-        "seq": 1622401,
+        "seq": 1621701,
         "releaseConditionId": 5,
         "categories": [
             "mv"
         ],
         "title": "Love Me, Love Me, Love Me",
+        "pronunciation": "loveme,loveme,loveme",
         "lyricist": "Kikuo",
         "composer": "Kikuo",
         "arranger": "Kikuo",
@@ -2888,12 +3039,13 @@
     },
     {
         "id": 182,
-        "seq": 2422601,
+        "seq": 2421901,
         "releaseConditionId": 10,
         "categories": [
             "mv"
         ],
         "title": "Flyer!",
+        "pronunciation": "flyer!",
         "lyricist": "Chinozo",
         "composer": "Chinozo",
         "arranger": "Chinozo",
@@ -2907,12 +3059,13 @@
     },
     {
         "id": 183,
-        "seq": 1520201,
+        "seq": 1519501,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "fixer",
+        "pronunciation": "fixer",
         "lyricist": "nulut",
         "composer": "nulut",
         "arranger": "nulut",
@@ -2926,12 +3079,13 @@
     },
     {
         "id": 184,
-        "seq": 1216801,
+        "seq": 1216101,
         "releaseConditionId": 5,
         "categories": [
             "mv_2d"
         ],
         "title": "Hello,world!",
+        "pronunciation": "hello,world!",
         "lyricist": "MOTOO FUJIWARA",
         "composer": "MOTOO FUJIWARA",
         "arranger": "-",
@@ -2945,12 +3099,13 @@
     },
     {
         "id": 185,
-        "seq": 1117001,
+        "seq": 1116301,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Sick of House!",
+        "pronunciation": "sickofhouse",
         "lyricist": "OZON",
         "composer": "OZON",
         "arranger": "OZON",
@@ -2964,12 +3119,13 @@
     },
     {
         "id": 186,
-        "seq": 1117801,
+        "seq": 1117101,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "Hatsune Creation Myth",
+        "pronunciation": "hatsunecreationmyth",
         "lyricist": "cosMo@Bousou-P",
         "composer": "cosMo@Bousou-P",
         "arranger": "cosMo@Bousou-P",
@@ -2983,12 +3139,13 @@
     },
     {
         "id": 187,
-        "seq": 2617301,
+        "seq": 2616601,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
         ],
         "title": "Lower one's eyes",
+        "pronunciation": "lowerone'seyes",
         "lyricist": "nulut",
         "composer": "nulut",
         "arranger": "nulut",
@@ -3002,13 +3159,14 @@
     },
     {
         "id": 188,
-        "seq": 1323001,
+        "seq": 1322301,
         "releaseConditionId": 5,
         "categories": [
             "original",
             "mv_2d"
         ],
         "title": "Heart Forecast",
+        "pronunciation": "heartforecast",
         "lyricist": "Eve",
         "composer": "Eve",
         "arranger": "TAKU INOUE, Numa",
@@ -3022,12 +3180,13 @@
     },
     {
         "id": 189,
-        "seq": 2623901,
+        "seq": 2623201,
         "releaseConditionId": 10,
         "categories": [
             "mv"
         ],
         "title": "Nomad",
+        "pronunciation": "nomad",
         "lyricist": "balloon",
         "composer": "balloon",
         "arranger": "balloon",
@@ -3041,12 +3200,13 @@
     },
     {
         "id": 190,
-        "seq": 1119401,
+        "seq": 1118701,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "The Daughter of Evil",
+        "pronunciation": "thedaughterofevil",
         "lyricist": "mothy",
         "composer": "mothy",
         "arranger": "mothy",
@@ -3060,12 +3220,13 @@
     },
     {
         "id": 191,
-        "seq": 1119501,
+        "seq": 1118801,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "The Servant of Evil",
+        "pronunciation": "theservantofevil",
         "lyricist": "mothy",
         "composer": "mothy",
         "arranger": "mothy",
@@ -3079,12 +3240,13 @@
     },
     {
         "id": 192,
-        "seq": 2119601,
+        "seq": 2118901,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Waltz of the Deceased",
+        "pronunciation": "waltzofthedeceased",
         "lyricist": "mothy",
         "composer": "mothy",
         "arranger": "mothy",
@@ -3098,12 +3260,13 @@
     },
     {
         "id": 193,
-        "seq": 2319201,
+        "seq": 2318501,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
         ],
         "title": "Worldwide Wander",
+        "pronunciation": "worldwidewander",
         "lyricist": "TOKOTOKO",
         "composer": "TOKOTOKO",
         "arranger": "TOKOTOKO",
@@ -3123,6 +3286,7 @@
             "original"
         ],
         "title": "DSCF",
+        "pronunciation": "dscf",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "emon(Tes.)",
@@ -3142,6 +3306,7 @@
             "mv"
         ],
         "title": "PaⅢ.SENSATION",
+        "pronunciation": "paⅢ.sensation",
         "lyricist": "Gyuniku",
         "composer": "Yunosuke",
         "arranger": "Yunosuke",
@@ -3161,6 +3326,7 @@
             "mv"
         ],
         "title": "Made to Order",
+        "pronunciation": "madetoorder",
         "lyricist": "Tota Kasamura (LIVE LAB.)",
         "composer": "Tota Kasamura (LIVE LAB.)",
         "arranger": "Yuichi Murata (LIVE LAB.)",
@@ -3174,12 +3340,13 @@
     },
     {
         "id": 197,
-        "seq": 1119801,
+        "seq": 1119101,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Last Score",
+        "pronunciation": "lastscore",
         "lyricist": "SekikomiGohan",
         "composer": "SekikomiGohan",
         "arranger": "SekikomiGohan",
@@ -3199,6 +3366,7 @@
             "image"
         ],
         "title": "Goodbye Declaration",
+        "pronunciation": "goodbyedeclaration",
         "lyricist": "Chinozo",
         "composer": "Chinozo",
         "arranger": "Chinozo",
@@ -3212,12 +3380,13 @@
     },
     {
         "id": 199,
-        "seq": 1220501,
+        "seq": 1219801,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Ghost Rule",
+        "pronunciation": "ghostrule",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "Naoki Itai(MUSIC FOR MUSIC)",
@@ -3231,12 +3400,13 @@
     },
     {
         "id": 200,
-        "seq": 1420901,
+        "seq": 1420201,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Airhead",
+        "pronunciation": "airhead",
         "lyricist": "Picon",
         "composer": "Picon",
         "arranger": "Picon",
@@ -3250,12 +3420,13 @@
     },
     {
         "id": 201,
-        "seq": 1525901,
+        "seq": 1525201,
         "releaseConditionId": 5,
         "categories": [
             "mv"
         ],
         "title": "At God's Mercy",
+        "pronunciation": "atgod'smercy",
         "lyricist": "rerulili",
         "composer": "rerulili",
         "arranger": "-",
@@ -3269,12 +3440,13 @@
     },
     {
         "id": 203,
-        "seq": 2621701,
+        "seq": 2621001,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
         ],
         "title": "Tricologe",
+        "pronunciation": "tricologe",
         "lyricist": "NILFRUITS",
         "composer": "NILFRUITS",
         "arranger": "NILFRUITS",
@@ -3288,12 +3460,13 @@
     },
     {
         "id": 204,
-        "seq": 1621901,
+        "seq": 1621201,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "Usseewa",
+        "pronunciation": "usseewa",
         "lyricist": "syudou",
         "composer": "syudou",
         "arranger": "syudou",
@@ -3307,12 +3480,13 @@
     },
     {
         "id": 205,
-        "seq": 1422201,
+        "seq": 1421501,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "Odo",
+        "pronunciation": "odo",
         "lyricist": "DECO*27",
         "composer": "Giga, TeddyLoid",
         "arranger": "Giga, TeddyLoid",
@@ -3326,12 +3500,13 @@
     },
     {
         "id": 206,
-        "seq": 1122301,
+        "seq": 1121601,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "Colorful Marine Snow",
+        "pronunciation": "colorfulmarinesnow",
         "lyricist": "Carlos Hakamada Saize P",
         "composer": "Carlos Hakamada Saize P",
         "arranger": "Carlos Hakamada Saize P",
@@ -3345,12 +3520,13 @@
     },
     {
         "id": 207,
-        "seq": 2222701,
+        "seq": 2222001,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
         ],
         "title": "Peaky Peaky",
+        "pronunciation": "peakypeaky",
         "lyricist": "mikitoP",
         "composer": "mikitoP",
         "arranger": "mikitoP",
@@ -3364,13 +3540,14 @@
     },
     {
         "id": 208,
-        "seq": 1223101,
+        "seq": 1222401,
         "releaseConditionId": 5,
         "categories": [
             "original",
             "mv_2d"
         ],
         "title": "We're Still Underground",
+        "pronunciation": "we'restillunderground",
         "lyricist": "Eve",
         "composer": "Eve",
         "arranger": "Numa",
@@ -3384,12 +3561,13 @@
     },
     {
         "id": 209,
-        "seq": 2323301,
+        "seq": 2322601,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
         ],
         "title": "Metamo Re:born",
+        "pronunciation": "metamore:born",
         "lyricist": "emon(Tes.) / Tudiken",
         "composer": "emon(Tes.)",
         "arranger": "emon(Tes.)",
@@ -3403,12 +3581,13 @@
     },
     {
         "id": 210,
-        "seq": 1423501,
+        "seq": 1422801,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Rain and Petra",
+        "pronunciation": "rainandpetra",
         "lyricist": "balloon",
         "composer": "balloon",
         "arranger": "balloon",
@@ -3428,6 +3607,7 @@
             "mv"
         ],
         "title": "IF",
+        "pronunciation": "if",
         "lyricist": "Yurry Canon",
         "composer": "Yurry Canon",
         "arranger": "Tsukuyomi",
@@ -3447,6 +3627,7 @@
             "mv"
         ],
         "title": "Starry sky melody",
+        "pronunciation": "starryskymelody",
         "lyricist": "PolyphonicBranch",
         "composer": "PolyphonicBranch",
         "arranger": "PolyphonicBranch",
@@ -3466,6 +3647,7 @@
             "mv"
         ],
         "title": "The Vampire",
+        "pronunciation": "thevampire",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "Rockwell",
@@ -3479,12 +3661,13 @@
     },
     {
         "id": 215,
-        "seq": 1122801,
+        "seq": 1122101,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Judas",
+        "pronunciation": "judas",
         "lyricist": "SukoyaCathedral",
         "composer": "SukoyaCathedral",
         "arranger": "SukoyaCathedral",
@@ -3498,12 +3681,13 @@
     },
     {
         "id": 216,
-        "seq": 1122101,
+        "seq": 1121401,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Luka Luka★Night Fever",
+        "pronunciation": "lukaluka★nightfever",
         "lyricist": "SAM(samfree)",
         "composer": "SAM(samfree)",
         "arranger": "SAM(samfree)",
@@ -3517,12 +3701,13 @@
     },
     {
         "id": 217,
-        "seq": 2427201,
+        "seq": 2426501,
         "releaseConditionId": 10,
         "categories": [
             "mv"
         ],
         "title": "City",
+        "pronunciation": "city",
         "lyricist": "jon-YAKITORY",
         "composer": "jon-YAKITORY",
         "arranger": "jon-YAKITORY",
@@ -3536,12 +3721,13 @@
     },
     {
         "id": 218,
-        "seq": 1626901,
+        "seq": 1626201,
         "releaseConditionId": 5,
         "categories": [
             "mv"
         ],
         "title": "Meru",
+        "pronunciation": "meru",
         "lyricist": "n-buna",
         "composer": "n-buna",
         "arranger": "n-buna",
@@ -3555,12 +3741,13 @@
     },
     {
         "id": 219,
-        "seq": 1123801,
+        "seq": 1123101,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "DUNE",
+        "pronunciation": "dune",
         "lyricist": "HACHI",
         "composer": "HACHI",
         "arranger": "HACHI",
@@ -3574,12 +3761,13 @@
     },
     {
         "id": 220,
-        "seq": 1123701,
+        "seq": 1123001,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "DONUT HOLE",
+        "pronunciation": "donuthole",
         "lyricist": "HACHI",
         "composer": "HACHI",
         "arranger": "HACHI",
@@ -3593,12 +3781,13 @@
     },
     {
         "id": 221,
-        "seq": 1123601,
+        "seq": 1122901,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "MATORYOSHKA",
+        "pronunciation": "matoryoshka",
         "lyricist": "HACHI",
         "composer": "HACHI",
         "arranger": "HACHI",
@@ -3612,12 +3801,13 @@
     },
     {
         "id": 222,
-        "seq": 1124101,
+        "seq": 1123401,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Piano × Forte × Scandal",
+        "pronunciation": "piano×forte×scandal",
         "lyricist": "OSTER project",
         "composer": "OSTER project",
         "arranger": "OSTER project",
@@ -3631,12 +3821,13 @@
     },
     {
         "id": 223,
-        "seq": 1124001,
+        "seq": 1123301,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Thousand Year Solo",
+        "pronunciation": "thousandyearsolo",
         "lyricist": "yanagi",
         "composer": "yanagi",
         "arranger": "-",
@@ -3650,12 +3841,13 @@
     },
     {
         "id": 224,
-        "seq": 2524301,
+        "seq": 2523601,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
         ],
         "title": "88☆彡",
+        "pronunciation": "88",
         "lyricist": "marasy",
         "composer": "marasy×shota horie(kemu)",
         "arranger": "Shota Horie(kemu)",
@@ -3669,12 +3861,13 @@
     },
     {
         "id": 227,
-        "seq": 1124401,
+        "seq": 1123701,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "ONESELF",
+        "pronunciation": "oneself",
         "lyricist": "Twinfield",
         "composer": "Twinfield",
         "arranger": "Twinfield",
@@ -3694,6 +3887,7 @@
             "original"
         ],
         "title": "Goodbye",
+        "pronunciation": "goodbye",
         "lyricist": "CircusP",
         "composer": "CircusP",
         "arranger": "CircusP",
@@ -3713,6 +3907,7 @@
             "original"
         ],
         "title": "Brain Fluid Explosion Girl",
+        "pronunciation": "brainfluidexplosiongirl",
         "lyricist": "rerulili",
         "composer": "rerulili",
         "arranger": "rerulili",
@@ -3732,6 +3927,7 @@
             "mv_2d"
         ],
         "title": "Salamander",
+        "pronunciation": "salamander",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "Rockwell",
@@ -3752,6 +3948,7 @@
             "mv_2d"
         ],
         "title": "Identity",
+        "pronunciation": "identity",
         "lyricist": "Kanaria",
         "composer": "Kanaria",
         "arranger": "-",
@@ -3772,6 +3969,7 @@
             "mv_2d"
         ],
         "title": "blue paint",
+        "pronunciation": "bluepaint",
         "lyricist": "Whale Don't Sleep",
         "composer": "Whale Don't Sleep",
         "arranger": "Whale Don't Sleep",
@@ -3792,6 +3990,7 @@
             "mv_2d"
         ],
         "title": "Cosmospice",
+        "pronunciation": "cosmospice",
         "lyricist": "PinocchioP",
         "composer": "PinocchioP",
         "arranger": "PinocchioP",
@@ -3812,6 +4011,7 @@
             "mv_2d"
         ],
         "title": "Tokugawa Cupnoodle Prohibition",
+        "pronunciation": "tokugawacupnoodleprohibition",
         "lyricist": "Mitchie M",
         "composer": "Mitchie M",
         "arranger": "Mitchie M",
@@ -3832,6 +4032,7 @@
             "original"
         ],
         "title": "Black★Rock Shooter",
+        "pronunciation": "black★rockshooter",
         "lyricist": "ryo",
         "composer": "ryo",
         "arranger": "ryo",
@@ -3851,6 +4052,7 @@
             "mv_2d"
         ],
         "title": "Moonlight",
+        "pronunciation": "moonlight",
         "lyricist": "Tatsuya Kitani × Harumaki Gohan",
         "composer": "Tatsuya Kitani × Harumaki Gohan",
         "arranger": "Tatsuya Kitani × Harumaki Gohan",
@@ -3870,6 +4072,7 @@
             "image"
         ],
         "title": "Dance orchestra",
+        "pronunciation": "danceorchestra",
         "lyricist": "YASUHIRO",
         "composer": "YASUHIRO",
         "arranger": "YASUHIRO",
@@ -3889,6 +4092,7 @@
             "original"
         ],
         "title": "When the Morning Glory Falls",
+        "pronunciation": "whenthemorninggloryfalls",
         "lyricist": "Pusu(fromTUYU)",
         "composer": "Pusu(fromTUYU)",
         "arranger": "Pusu(fromTUYU)",
@@ -3902,12 +4106,13 @@
     },
     {
         "id": 244,
-        "seq": 2418901,
+        "seq": 2418201,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
         ],
         "title": "Awake Now",
+        "pronunciation": "awakenow",
         "lyricist": "Gyuniku",
         "composer": "Yunosuke",
         "arranger": "Yunosuke",
@@ -3921,12 +4126,13 @@
     },
     {
         "id": 245,
-        "seq": 1426001,
+        "seq": 1425301,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "Aun no Beats",
+        "pronunciation": "aunnobeats",
         "lyricist": "Maigo Hanyuu",
         "composer": "Maigo Hanyuu",
         "arranger": "Maigo Hanyuu",
@@ -3946,6 +4152,7 @@
             "image"
         ],
         "title": "Alien Alien",
+        "pronunciation": "alienalien",
         "lyricist": "NayutalieN",
         "composer": "NayutalieN",
         "arranger": "NayutalieN",
@@ -3965,6 +4172,7 @@
             "original"
         ],
         "title": "Copycat",
+        "pronunciation": "Copycat",
         "lyricist": "CircusP",
         "composer": "CircusP",
         "arranger": "CircusP",
@@ -3984,6 +4192,7 @@
             "mv_2d"
         ],
         "title": "bug",
+        "pronunciation": "bug",
         "lyricist": "Kairiki Bear",
         "composer": "Kairiki Bear",
         "arranger": "-",
@@ -4003,6 +4212,7 @@
             "original"
         ],
         "title": "Our 16bit Wars",
+        "pronunciation": "our16bitwars",
         "lyricist": "sasakure.UK",
         "composer": "sasakure.UK",
         "arranger": "sasakure.UK (Gt Hidehisa Sasaki Ba Ryosuke Nikamoto (UKRampage))",
@@ -4022,6 +4232,7 @@
             "image"
         ],
         "title": "Fräulein=библиотека",
+        "pronunciation": "fraulein=библиотека",
         "lyricist": "nyanyannya (DAITENSAI P)",
         "composer": "nyanyannya (DAITENSAI P)",
         "arranger": "nyanyannya (DAITENSAI P)",
@@ -4041,6 +4252,7 @@
             "image"
         ],
         "title": "Incomplete Anthem",
+        "pronunciation": "incompleteanthem",
         "lyricist": "shaito",
         "composer": "shaito",
         "arranger": "shaito",
@@ -4060,6 +4272,7 @@
             "mv_2d"
         ],
         "title": "SHOW OFF",
+        "pronunciation": "SHOW OFF",
         "lyricist": "WADATAKEAKI",
         "composer": "WADATAKEAKI",
         "arranger": "WADATAKEAKI",
@@ -4079,6 +4292,7 @@
             "original"
         ],
         "title": "Highlight",
+        "pronunciation": "Highlight",
         "lyricist": "KIRA",
         "composer": "KIRA",
         "arranger": "KIRA",
@@ -4098,6 +4312,7 @@
             "mv_2d"
         ],
         "title": "Hurray",
+        "pronunciation": "Hurray",
         "lyricist": "HoneyWorks",
         "composer": "HoneyWorks",
         "arranger": "HoneyWorks",
@@ -4111,12 +4326,13 @@
     },
     {
         "id": 317,
-        "seq": 1119701,
+        "seq": 1119001,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "Music Like Magic!",
+        "pronunciation": "musiclikemagic!",
         "lyricist": "OSTER project",
         "composer": "OSTER project",
         "arranger": "OSTER project",
@@ -4130,12 +4346,13 @@
     },
     {
         "id": 318,
-        "seq": 1122501,
+        "seq": 1121801,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Sharing The World",
+        "pronunciation": "sharingtheworld",
         "lyricist": "BIGHEAD",
         "composer": "BIGHEAD",
         "arranger": "Kei Suzuki/BIGHEAD",
@@ -4149,12 +4366,13 @@
     },
     {
         "id": 319,
-        "seq": 1124201,
+        "seq": 1123501,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
         "title": "Decade",
+        "pronunciation": "decade",
         "lyricist": "Dixie Flatline",
         "composer": "Dixie Flatline",
         "arranger": "Dixie Flatline",
@@ -4168,12 +4386,13 @@
     },
     {
         "id": 342,
-        "seq": 1123201,
+        "seq": 1122501,
         "releaseConditionId": 5,
         "categories": [
             "original"
         ],
         "title": "Blue Star",
+        "pronunciation": "bluestar",
         "lyricist": "Hachioji P",
         "composer": "Hachioji P",
         "arranger": "Hachioji P",
@@ -4193,6 +4412,7 @@
             "image"
         ],
         "title": "Wonder Style",
+        "pronunciation": "wonderstyle",
         "lyricist": "colate",
         "composer": "colate",
         "arranger": "colate",
@@ -4212,6 +4432,7 @@
             "original"
         ],
         "title": "UNDERWATER",
+        "pronunciation": "underwater",
         "lyricist": "Hylen",
         "composer": "Hylen",
         "arranger": "Hylen",
@@ -4222,5 +4443,25 @@
         "publishedAt": 1687989600000,
         "liveStageId": 1,
         "fillerSec": 9.0
+    },
+    {
+        "id": 371,
+        "seq": 1199913,
+        "releaseConditionId": 5,
+        "categories": [
+            "original"
+        ],
+        "title": "sweety glitch",
+        "pronunciation": "sweetyglitch",
+        "lyricist": "nyankobrq",
+        "composer": "gaburyu & nyankobrq",
+        "arranger": "gaburyu & nyankobrq",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_371",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1690322400000,
+        "liveStageId": 1,
+        "fillerSec": 8.5649995803833
     }
 ]

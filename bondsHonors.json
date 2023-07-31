@@ -906,7 +906,7 @@
         "gameCharacterUnitId1": 1,
         "gameCharacterUnitId2": 26,
         "honorRarity": "low",
-        "name": "一歌とKAITO",
+        "name": "Ichika & KAITO",
         "description": "Increased Ichika & KAITO to a certain Rank.",
         "levels": [
             {
@@ -948,7 +948,7 @@
         "gameCharacterUnitId1": 1,
         "gameCharacterUnitId2": 26,
         "honorRarity": "middle",
-        "name": "一歌とKAITO",
+        "name": "Ichika & KAITO",
         "description": "Increased Ichika & KAITO to a certain Rank.",
         "levels": [
             {
@@ -2436,7 +2436,7 @@
         "gameCharacterUnitId1": 3,
         "gameCharacterUnitId2": 25,
         "honorRarity": "low",
-        "name": "穂波とMEIKO",
+        "name": "Honami & MEIKO",
         "description": "Increased Honami & MEIKO to a certain Rank.",
         "levels": [
             {
@@ -2478,7 +2478,7 @@
         "gameCharacterUnitId1": 3,
         "gameCharacterUnitId2": 25,
         "honorRarity": "middle",
-        "name": "穂波とMEIKO",
+        "name": "Honami & MEIKO",
         "description": "Increased Honami & MEIKO to a certain Rank.",
         "levels": [
             {
@@ -3066,7 +3066,7 @@
         "gameCharacterUnitId1": 4,
         "gameCharacterUnitId2": 25,
         "honorRarity": "low",
-        "name": "志歩とMEIKO",
+        "name": "Shiho & MEIKO",
         "description": "Increased Shiho & MEIKO to a certain Rank.",
         "levels": [
             {
@@ -3108,7 +3108,7 @@
         "gameCharacterUnitId1": 4,
         "gameCharacterUnitId2": 25,
         "honorRarity": "middle",
-        "name": "志歩とMEIKO",
+        "name": "Shiho & MEIKO",
         "description": "Increased Shiho & MEIKO to a certain Rank.",
         "levels": [
             {
@@ -3156,7 +3156,7 @@
         "gameCharacterUnitId1": 4,
         "gameCharacterUnitId2": 26,
         "honorRarity": "low",
-        "name": "志歩とKAITO",
+        "name": "Shiho & KAITO",
         "description": "Increased Shiho & KAITO to a certain Rank.",
         "levels": [
             {
@@ -3198,7 +3198,7 @@
         "gameCharacterUnitId1": 4,
         "gameCharacterUnitId2": 26,
         "honorRarity": "middle",
-        "name": "志歩とKAITO",
+        "name": "Shiho & KAITO",
         "description": "Increased Shiho & KAITO to a certain Rank.",
         "levels": [
             {
@@ -3786,7 +3786,7 @@
         "gameCharacterUnitId1": 5,
         "gameCharacterUnitId2": 24,
         "honorRarity": "low",
-        "name": "みのりとルカ",
+        "name": "Minori & Luka",
         "description": "Increased Minori & Luka to a certain Rank.",
         "levels": [
             {
@@ -3828,7 +3828,7 @@
         "gameCharacterUnitId1": 5,
         "gameCharacterUnitId2": 24,
         "honorRarity": "middle",
-        "name": "みのりとルカ",
+        "name": "Minori & Luka",
         "description": "Increased Minori & Luka to a certain Rank.",
         "levels": [
             {
@@ -4686,7 +4686,7 @@
         "gameCharacterUnitId1": 7,
         "gameCharacterUnitId2": 23,
         "honorRarity": "low",
-        "name": "愛莉とレン",
+        "name": "Airi & Len",
         "description": "Increased Airi & Len to a certain Rank.",
         "levels": [
             {
@@ -4728,7 +4728,7 @@
         "gameCharacterUnitId1": 7,
         "gameCharacterUnitId2": 23,
         "honorRarity": "middle",
-        "name": "愛莉とレン",
+        "name": "Airi & Len",
         "description": "Increased Airi & Len to a certain Rank.",
         "levels": [
             {
@@ -5136,7 +5136,7 @@
         "gameCharacterUnitId1": 8,
         "gameCharacterUnitId2": 24,
         "honorRarity": "low",
-        "name": "雫とルカ",
+        "name": "Shizuku & Luka",
         "description": "Increased Shizuku & Luka to a certain Rank.",
         "levels": [
             {
@@ -5178,7 +5178,7 @@
         "gameCharacterUnitId1": 8,
         "gameCharacterUnitId2": 24,
         "honorRarity": "middle",
-        "name": "雫とルカ",
+        "name": "Shizuku & Luka",
         "description": "Increased Shizuku & Luka to a certain Rank.",
         "levels": [
             {
@@ -5586,14 +5586,14 @@
         "gameCharacterUnitId1": 9,
         "gameCharacterUnitId2": 22,
         "honorRarity": "low",
-        "name": "こはねとリン",
+        "name": "Kohane & Rin",
         "description": "Increased Kohane & Rin to a certain Rank.",
         "levels": [
             {
                 "id": 109220101,
                 "bondsHonorId": 1092201,
                 "level": 1,
-                "description": "小豆沢こはねと鏡音リンのキズナランクを5まで上げよう。"
+                "description": "Increase Kohane Azusawa & Kagamine Rin's Trust Rank to 5."
             },
             {
                 "id": 109220102,
@@ -5628,7 +5628,7 @@
         "gameCharacterUnitId1": 9,
         "gameCharacterUnitId2": 22,
         "honorRarity": "middle",
-        "name": "こはねとリン",
+        "name": "Kohane & Rin",
         "description": "Increased Kohane & Rin to a certain Rank.",
         "levels": [
             {
@@ -6216,7 +6216,7 @@
         "gameCharacterUnitId1": 10,
         "gameCharacterUnitId2": 22,
         "honorRarity": "low",
-        "name": "杏とリン",
+        "name": "An & Rin",
         "description": "Increased An & Rin to a certain Rank.",
         "levels": [
             {
@@ -6258,7 +6258,7 @@
         "gameCharacterUnitId1": 10,
         "gameCharacterUnitId2": 22,
         "honorRarity": "middle",
-        "name": "杏とリン",
+        "name": "An & Rin",
         "description": "Increased An & Rin to a certain Rank.",
         "levels": [
             {
@@ -6756,7 +6756,7 @@
         "gameCharacterUnitId1": 11,
         "gameCharacterUnitId2": 22,
         "honorRarity": "low",
-        "name": "彰人とリン",
+        "name": "Akito & Rin",
         "description": "Increased Akito & Rin to a certain Rank.",
         "levels": [
             {
@@ -6798,7 +6798,7 @@
         "gameCharacterUnitId1": 11,
         "gameCharacterUnitId2": 22,
         "honorRarity": "middle",
-        "name": "彰人とリン",
+        "name": "Akito & Rin",
         "description": "Increased Akito & Rin to a certain Rank.",
         "levels": [
             {
@@ -7026,7 +7026,7 @@
         "gameCharacterUnitId1": 11,
         "gameCharacterUnitId2": 26,
         "honorRarity": "low",
-        "name": "彰人とKAITO",
+        "name": "Akito & KAITO",
         "description": "Increased Akito & KAITO to a certain Rank.",
         "levels": [
             {
@@ -7068,7 +7068,7 @@
         "gameCharacterUnitId1": 11,
         "gameCharacterUnitId2": 26,
         "honorRarity": "middle",
-        "name": "彰人とKAITO",
+        "name": "Akito & KAITO",
         "description": "Increased Akito & KAITO to a certain Rank.",
         "levels": [
             {
@@ -7296,7 +7296,7 @@
         "gameCharacterUnitId1": 12,
         "gameCharacterUnitId2": 22,
         "honorRarity": "low",
-        "name": "冬弥とリン",
+        "name": "Toya & Rin",
         "description": "Increased Toya & Rin to a certain Rank.",
         "levels": [
             {
@@ -7338,7 +7338,7 @@
         "gameCharacterUnitId1": 12,
         "gameCharacterUnitId2": 22,
         "honorRarity": "middle",
-        "name": "冬弥とリン",
+        "name": "Toya & Rin",
         "description": "Increased Toya & Rin to a certain Rank.",
         "levels": [
             {
@@ -7566,7 +7566,7 @@
         "gameCharacterUnitId1": 12,
         "gameCharacterUnitId2": 26,
         "honorRarity": "low",
-        "name": "冬弥とKAITO",
+        "name": "Toya & KAITO",
         "description": "Increased Toya & KAITO to a certain Rank.",
         "levels": [
             {
@@ -7608,7 +7608,7 @@
         "gameCharacterUnitId1": 12,
         "gameCharacterUnitId2": 26,
         "honorRarity": "middle",
-        "name": "冬弥とKAITO",
+        "name": "Toya & KAITO",
         "description": "Increased Toya & KAITO to a certain Rank.",
         "levels": [
             {
@@ -8016,7 +8016,7 @@
         "gameCharacterUnitId1": 13,
         "gameCharacterUnitId2": 24,
         "honorRarity": "low",
-        "name": "司とルカ",
+        "name": "Tsukasa & Luka",
         "description": "Increased Tsukasa & Luka to a certain Rank.",
         "levels": [
             {
@@ -8058,7 +8058,7 @@
         "gameCharacterUnitId1": 13,
         "gameCharacterUnitId2": 24,
         "honorRarity": "middle",
-        "name": "司とルカ",
+        "name": "Tsukasa & Luka",
         "description": "Increased Tsukasa & Luka to a certain Rank.",
         "levels": [
             {
@@ -8466,7 +8466,7 @@
         "gameCharacterUnitId1": 14,
         "gameCharacterUnitId2": 23,
         "honorRarity": "low",
-        "name": "えむとレン",
+        "name": "Emu & Len",
         "description": "Increased Emu & Len to a certain Rank.",
         "levels": [
             {
@@ -8508,7 +8508,7 @@
         "gameCharacterUnitId1": 14,
         "gameCharacterUnitId2": 23,
         "honorRarity": "middle",
-        "name": "えむとレン",
+        "name": "Emu & Len",
         "description": "Increased Emu & Len to a certain Rank.",
         "levels": [
             {

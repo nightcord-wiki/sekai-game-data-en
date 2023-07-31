@@ -124,23 +124,5 @@
         "virtualLiveId": 123,
         "virtualBoothShopType": "collection_gacha",
         "targetId": 1
-    },
-    {
-        "id": 22,
-        "virtualLiveId": 124,
-        "virtualBoothShopType": "virtual_shop",
-        "targetId": 87
-    },
-    {
-        "id": 23,
-        "virtualLiveId": 124,
-        "virtualBoothShopType": "omikuji",
-        "targetId": 1
-    },
-    {
-        "id": 24,
-        "virtualLiveId": 124,
-        "virtualBoothShopType": "collection_gacha",
-        "targetId": 1
     }
 ]
