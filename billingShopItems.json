@@ -2691,6 +2691,95 @@
         "purchaseOption": "exchange"
     },
     {
+        "id": 10138,
+        "seq": 300380,
+        "billingShopItemType": "costume_3d",
+        "name": "[Fruit] Costume All Colors",
+        "description": "[Fruit] Costume Full Costume Bundle",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_10138",
+        "resourceBoxId": 178,
+        "startAt": 1706774400000,
+        "endAt": 1709279999000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 10139,
+        "seq": 300370,
+        "billingShopItemType": "costume_3d",
+        "name": "[Fruit] Costume Original Color",
+        "description": "[Fruit] Costume Original Color Bundle",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_10139",
+        "resourceBoxId": 179,
+        "startAt": 1706774400000,
+        "endAt": 1709279999000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 10140,
+        "seq": 300360,
+        "billingShopItemType": "costume_3d",
+        "name": "[Fruit] Costume Color Variant 1",
+        "description": "[Fruit] Costume Color Variant 1 Bundle",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_10140",
+        "resourceBoxId": 180,
+        "startAt": 1706774400000,
+        "endAt": 1709279999000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 10141,
+        "seq": 300350,
+        "billingShopItemType": "costume_3d",
+        "name": "[Fruit] Costume Color Variant 2",
+        "description": "[Fruit] Costume Color Variant 2 Bundle",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_10141",
+        "resourceBoxId": 181,
+        "startAt": 1706774400000,
+        "endAt": 1709279999000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 10142,
+        "seq": 300340,
+        "billingShopItemType": "costume_3d",
+        "name": "[Fruit] Costume Color Variant 3",
+        "description": "[Fruit] Costume Color Variant 3 Bundle",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_10142",
+        "resourceBoxId": 182,
+        "startAt": 1706774400000,
+        "endAt": 1709279999000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 10143,
+        "seq": 300330,
+        "billingShopItemType": "costume_3d",
+        "name": "[Sweets] Costume All Colors",
+        "description": "[Sweets] Costume Full Costume Bundle",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_10036",
+        "resourceBoxId": 78,
+        "startAt": 1706774400000,
+        "purchaseOption": "exchange"
+    },
+    {
         "id": 20100,
         "seq": 100,
         "billingShopItemType": "value_set",
@@ -2702,8 +2791,8 @@
         "assetbundleName": "shop_20100",
         "resourceBoxId": 20100,
         "bonusResourceBoxId": 20100,
-        "startAt": 1689274800000,
-        "endAt": 1696013999000
+        "startAt": 1707048000000,
+        "endAt": 4102473599000
     },
     {
         "id": 20101,
@@ -2733,7 +2822,7 @@
         "resourceBoxId": 20100,
         "bonusResourceBoxId": 20100,
         "startAt": 1695409200000,
-        "endAt": 4102473599000
+        "endAt": 1707652799000
     },
     {
         "id": 20103,
@@ -2867,8 +2956,8 @@
         "assetbundleName": "shop_20111",
         "resourceBoxId": 20107,
         "bonusResourceBoxId": 20107,
-        "startAt": 1689332400000,
-        "endAt": 1702295999000
+        "startAt": 1707048000000,
+        "endAt": 4102473599000
     },
     {
         "id": 20112,
@@ -2943,7 +3032,7 @@
         "resourceBoxId": 20107,
         "bonusResourceBoxId": 20107,
         "startAt": 1701691200000,
-        "endAt": 4102473599000
+        "endAt": 1707652799000
     },
     {
         "id": 50000,
@@ -3714,6 +3803,40 @@
         "endAt": 1701503999000
     },
     {
+        "id": 50049,
+        "seq": 320,
+        "billingShopItemType": "value_set",
+        "billingProductGroupId": 50070,
+        "name": "[Camp. SP] Music Card Bundle A",
+        "description": "Crystals x110 Music Card x10(bonus)",
+        "billableLimitType": "count",
+        "billableLimitValue": 10,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_50049",
+        "resourceBoxId": 2,
+        "bonusResourceBoxId": 50049,
+        "label": "Limited Time",
+        "startAt": 1703890800000,
+        "endAt": 1704927599000
+    },
+    {
+        "id": 50050,
+        "seq": 310,
+        "billingShopItemType": "value_set",
+        "billingProductGroupId": 50072,
+        "name": "[Camp. SP] Music Card Bundle B",
+        "description": "Crystals x950 Music Card x100(bonus)",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_50050",
+        "resourceBoxId": 4,
+        "bonusResourceBoxId": 50050,
+        "label": "1 Time Only",
+        "startAt": 1703890800000,
+        "endAt": 1704927599000
+    },
+    {
         "id": 100002,
         "seq": 130,
         "billingShopItemType": "costume_3d",
@@ -4095,6 +4218,38 @@
         "label": "Limited Time",
         "startAt": 1703059200000,
         "endAt": 1704095999000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 100036,
+        "seq": 500004,
+        "billingShopItemType": "costume_3d",
+        "name": "Glamorous Peacock Ensemble (F)",
+        "description": "Costume - Glamorous Peacock Ensemble (F) (20 Costumes x 4 colors)",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_100036",
+        "resourceBoxId": 100036,
+        "label": "Limited Time",
+        "startAt": 1704009600000,
+        "endAt": 1706774399000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 100037,
+        "seq": 500003,
+        "billingShopItemType": "costume_3d",
+        "name": "Glamorous Peacock Suit (M)",
+        "description": "Costume - Glamorous Peacock Suit (M) (6 Costumes x 4 colors)",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_100037",
+        "resourceBoxId": 100037,
+        "label": "Limited Time",
+        "startAt": 1704009600000,
+        "endAt": 1706774399000,
         "purchaseOption": "exchange"
     },
     {

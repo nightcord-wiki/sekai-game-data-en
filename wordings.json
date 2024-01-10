@@ -5197,11 +5197,11 @@
     },
     {
         "wordingKey": "WORD_LIVE_BONUS_TEXT",
-        "value": "{0}/{1}"
+        "value": "{0}"
     },
     {
         "wordingKey": "WORD_LIVE_BONUS_TEXT_COLOR",
-        "value": "<color=#ff5599>{0}</color>/{1}"
+        "value": "<color=#ff5599>{0}</color>"
     },
     {
         "wordingKey": "WORD_LIVE_BOOST_CONSUMPTION_SETTING",
@@ -6705,7 +6705,7 @@
     },
     {
         "wordingKey": "WORD_REMOVING_ASSET",
-        "value": "Deleting unnecessary files."
+        "value": "Decluttering"
     },
     {
         "wordingKey": "WORD_REQUEST",
@@ -7673,7 +7673,7 @@
     },
     {
         "wordingKey": "WORD_TWITTER",
-        "value": "To Twitter"
+        "value": "To X(Twitter)"
     },
     {
         "wordingKey": "WORD_UNCERTAIN_LUCK",
