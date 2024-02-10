@@ -1,10 +1,10 @@
 [
     {
-        "id": 3,
-        "eventId": 82,
-        "startAt": 1704927600000,
-        "endAt": 1705726799000,
-        "closedAt": 1705877999000,
+        "id": 4,
+        "eventId": 86,
+        "startAt": 1708383600000,
+        "endAt": 1709096399000,
+        "closedAt": 1709247599000,
         "assetBundleName": "icon_gold_ticket_01_gl",
         "sentence": "Reward from Golden Charm Challenges."
     }

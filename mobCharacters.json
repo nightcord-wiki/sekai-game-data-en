@@ -666,9 +666,15 @@
         "gender": "male"
     },
     {
+        "id": 114,
+        "seq": 114,
+        "name": "日暮アリサ",
+        "gender": "female"
+    },
+    {
         "id": 118,
         "seq": 118,
-        "name": "瑞希の姉",
+        "name": "Mizuki's Sister",
         "gender": "female"
     },
     {
