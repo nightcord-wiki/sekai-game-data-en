@@ -1,10 +1,10 @@
 [
     {
-        "id": 7,
-        "eventId": 95,
-        "startAt": 1716242400000,
-        "endAt": 1717041599000,
-        "closedAt": 1717192799000,
+        "id": 8,
+        "eventId": 98,
+        "startAt": 1718920800000,
+        "endAt": 1719633599000,
+        "closedAt": 1719784799000,
         "assetBundleName": "icon_gold_ticket_01_gl",
         "sentence": "Reward from Event Show Missions."
     }
