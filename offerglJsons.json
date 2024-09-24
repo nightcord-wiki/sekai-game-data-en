@@ -26,21 +26,6 @@
         "endAt": 4102473599000
     },
     {
-        "id": 56,
-        "shopItemType": "billing_shop",
-        "shopItemId": 20101,
-        "offerType": "limited",
-        "offerDisplayCondition": "gacha_get",
-        "requirement": 1,
-        "param1": 4,
-        "buyLimitCount": 1,
-        "saleDurationMinutes": 10080,
-        "assetBundleName": "offer02",
-        "seq": 8,
-        "startAt": 1701691200000,
-        "endAt": 1726225199000
-    },
-    {
         "id": 93,
         "shopItemType": "billing_shop",
         "shopItemId": 20122,
@@ -67,7 +52,7 @@
         "assetBundleName": "offer01",
         "seq": 11,
         "startAt": 1720090800000,
-        "endAt": 1728557999000
+        "endAt": 4102473599000
     },
     {
         "id": 95,
@@ -81,7 +66,7 @@
         "assetBundleName": "offer11",
         "seq": 5,
         "startAt": 1720090800000,
-        "endAt": 4102473599000
+        "endAt": 1729162799000
     },
     {
         "id": 99,
@@ -95,36 +80,7 @@
         "assetBundleName": "offer10",
         "seq": 6,
         "startAt": 1720868400000,
-        "endAt": 1729162799000
-    },
-    {
-        "id": 100,
-        "shopItemType": "billing_shop",
-        "shopItemId": 20107,
-        "offerType": "limited",
-        "offerDisplayCondition": "player_rank",
-        "requirement": 200,
-        "buyLimitCount": 1,
-        "saleDurationMinutes": 10080,
-        "assetBundleName": "offer07",
-        "seq": 3,
-        "startAt": 1722164400000,
-        "endAt": 1727089199000
-    },
-    {
-        "id": 103,
-        "shopItemType": "billing_shop",
-        "shopItemId": 20106,
-        "offerType": "limited",
-        "offerDisplayCondition": "event_badge",
-        "requirement": 10000,
-        "param1": 105,
-        "buyLimitCount": 1,
-        "saleDurationMinutes": 14399,
-        "assetBundleName": "offer06",
-        "seq": 5,
-        "startAt": 1725141600000,
-        "endAt": 1726005599000
+        "endAt": 4102473599000
     },
     {
         "id": 104,
@@ -183,21 +139,6 @@
         "seq": 8,
         "startAt": 1725620400000,
         "endAt": 4102473599000
-    },
-    {
-        "id": 108,
-        "shopItemType": "billing_shop",
-        "shopItemId": 20106,
-        "offerType": "limited",
-        "offerDisplayCondition": "event_badge",
-        "requirement": 10000,
-        "param1": 106,
-        "buyLimitCount": 1,
-        "saleDurationMinutes": 14399,
-        "assetBundleName": "offer06",
-        "seq": 5,
-        "startAt": 1726005600000,
-        "endAt": 1726869540000
     },
     {
         "id": 109,
