@@ -24096,7 +24096,7 @@
                 "musicVocalId": 1039,
                 "characterType": "game_character",
                 "characterId": 9,
-                "seq": 2761
+                "seq": 2762
             },
             {
                 "id": 1873,
@@ -24104,7 +24104,7 @@
                 "musicVocalId": 1039,
                 "characterType": "game_character",
                 "characterId": 10,
-                "seq": 2762
+                "seq": 2763
             },
             {
                 "id": 1874,
@@ -24112,7 +24112,7 @@
                 "musicVocalId": 1039,
                 "characterType": "game_character",
                 "characterId": 11,
-                "seq": 2763
+                "seq": 2764
             },
             {
                 "id": 1875,
@@ -24120,7 +24120,7 @@
                 "musicVocalId": 1039,
                 "characterType": "game_character",
                 "characterId": 12,
-                "seq": 2764
+                "seq": 2765
             },
             {
                 "id": 1876,
@@ -24128,7 +24128,7 @@
                 "musicVocalId": 1039,
                 "characterType": "game_character",
                 "characterId": 26,
-                "seq": 2765
+                "seq": 2761
             }
         ],
         "assetbundleName": "se_0276_01",
