@@ -1671,5 +1671,40 @@
         "eventStoryId": 108,
         "unit": "school_refusal",
         "eventStoryUnitRelation": "sub"
+    },
+    {
+        "id": 258,
+        "seq": 258,
+        "eventStoryId": 109,
+        "unit": "street",
+        "eventStoryUnitRelation": "main"
+    },
+    {
+        "id": 259,
+        "seq": 259,
+        "eventStoryId": 110,
+        "unit": "light_sound",
+        "eventStoryUnitRelation": "main"
+    },
+    {
+        "id": 260,
+        "seq": 260,
+        "eventStoryId": 111,
+        "unit": "idol",
+        "eventStoryUnitRelation": "main"
+    },
+    {
+        "id": 261,
+        "seq": 261,
+        "eventStoryId": 112,
+        "unit": "school_refusal",
+        "eventStoryUnitRelation": "main"
+    },
+    {
+        "id": 262,
+        "seq": 262,
+        "eventStoryId": 112,
+        "unit": "light_sound",
+        "eventStoryUnitRelation": "sub"
     }
 ]

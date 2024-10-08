@@ -460,5 +460,68 @@
         "name": "Miku CDs",
         "part": "Accessory_face",
         "assetbundleName": "accessory_0076"
+    },
+    {
+        "id": 77,
+        "seq": 760,
+        "name": "Speaker Head",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0077"
+    },
+    {
+        "id": 78,
+        "seq": 770,
+        "name": "Ramen",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0078"
+    },
+    {
+        "id": 79,
+        "seq": 780,
+        "name": "Hot Spring Basin",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0079"
+    },
+    {
+        "id": 81,
+        "seq": 850,
+        "name": "Hello Kitty Headband",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0081"
+    },
+    {
+        "id": 82,
+        "seq": 840,
+        "name": "Pompompurin Headband",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0082"
+    },
+    {
+        "id": 83,
+        "seq": 830,
+        "name": "My Melody Headband",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0083"
+    },
+    {
+        "id": 84,
+        "seq": 820,
+        "name": "Pochacco Headband",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0084"
+    },
+    {
+        "id": 85,
+        "seq": 810,
+        "name": "Cinnamoroll Headband",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0085"
+    },
+    {
+        "id": 86,
+        "seq": 800,
+        "name": "KUROMI Headband",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0086"
     }
 ]

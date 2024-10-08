@@ -1,1 +1,380 @@
-[]
+[
+    {
+        "id": 100013,
+        "seq": 100013,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "clear_all_special_mission",
+        "requirement": 21,
+        "sentence": "Clear all Special Missions.",
+        "rewards": [
+            {
+                "id": 20000030,
+                "missionType": "special_mission",
+                "missionId": 100013,
+                "seq": 1,
+                "resourceBoxId": 100002
+            }
+        ]
+    },
+    {
+        "id": 100014,
+        "seq": 100014,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "special_mission",
+        "requirement": 5,
+        "sentence": "Clear 5 Special Missions.",
+        "rewards": [
+            {
+                "id": 20000031,
+                "missionType": "special_mission",
+                "missionId": 100014,
+                "seq": 1,
+                "resourceBoxId": 100004
+            }
+        ]
+    },
+    {
+        "id": 100015,
+        "seq": 100015,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "special_mission",
+        "requirement": 10,
+        "sentence": "Clear 10 Special Missions.",
+        "rewards": [
+            {
+                "id": 20000032,
+                "missionType": "special_mission",
+                "missionId": 100015,
+                "seq": 1,
+                "resourceBoxId": 100002
+            }
+        ]
+    },
+    {
+        "id": 100016,
+        "seq": 100016,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "inherit",
+        "requirement": 1,
+        "sentence": "Link an account.",
+        "rewards": [
+            {
+                "id": 20000033,
+                "missionType": "special_mission",
+                "missionId": 100016,
+                "seq": 1,
+                "resourceBoxId": 100002
+            }
+        ]
+    },
+    {
+        "id": 100017,
+        "seq": 100017,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "clear_live",
+        "requirement": 1,
+        "sentence": "Clear 1 show.",
+        "rewards": [
+            {
+                "id": 20000034,
+                "missionType": "special_mission",
+                "missionId": 100017,
+                "seq": 1,
+                "resourceBoxId": 100001
+            }
+        ]
+    },
+    {
+        "id": 100018,
+        "seq": 100018,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "clear_live",
+        "requirement": 2,
+        "sentence": "Clear 2 shows.",
+        "rewards": [
+            {
+                "id": 20000035,
+                "missionType": "special_mission",
+                "missionId": 100018,
+                "seq": 1,
+                "resourceBoxId": 100003
+            }
+        ]
+    },
+    {
+        "id": 100019,
+        "seq": 100019,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "clear_multi_live",
+        "requirement": 1,
+        "sentence": "Clear 1 Co-op/Cheerful Show.",
+        "rewards": [
+            {
+                "id": 20000036,
+                "missionType": "special_mission",
+                "missionId": 100019,
+                "seq": 1,
+                "resourceBoxId": 100014
+            }
+        ]
+    },
+    {
+        "id": 100020,
+        "seq": 100020,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "clear_multi_live",
+        "requirement": 3,
+        "sentence": "Clear 3 Co-op/Cheerful Shows.",
+        "rewards": [
+            {
+                "id": 20000037,
+                "missionType": "special_mission",
+                "missionId": 100020,
+                "seq": 1,
+                "resourceBoxId": 100015
+            }
+        ]
+    },
+    {
+        "id": 100021,
+        "seq": 100021,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "chara_clear_live",
+        "missionTargetId": 1,
+        "requirement": 5,
+        "sentence": "Clear 5 shows with Ichika Hoshino.",
+        "rewards": [
+            {
+                "id": 20000038,
+                "missionType": "special_mission",
+                "missionId": 100021,
+                "seq": 1,
+                "resourceBoxId": 100001
+            }
+        ]
+    },
+    {
+        "id": 100022,
+        "seq": 100022,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "chara_clear_live",
+        "missionTargetId": 1,
+        "requirement": 10,
+        "sentence": "Clear 10 shows with Ichika Hoshino.",
+        "rewards": [
+            {
+                "id": 20000039,
+                "missionType": "special_mission",
+                "missionId": 100022,
+                "seq": 1,
+                "resourceBoxId": 100005
+            }
+        ]
+    },
+    {
+        "id": 100023,
+        "seq": 100023,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "play_live",
+        "missionTargetId": 1,
+        "requirement": 5,
+        "sentence": "Do 5 shows with Ichika Hoshino as the Leader.",
+        "rewards": [
+            {
+                "id": 20000040,
+                "missionType": "special_mission",
+                "missionId": 100023,
+                "seq": 1,
+                "resourceBoxId": 100003
+            }
+        ]
+    },
+    {
+        "id": 100024,
+        "seq": 100024,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "play_live",
+        "missionTargetId": 1,
+        "requirement": 10,
+        "sentence": "Do 10 shows with Ichika Hoshino as the Leader.",
+        "rewards": [
+            {
+                "id": 20000041,
+                "missionType": "special_mission",
+                "missionId": 100024,
+                "seq": 1,
+                "resourceBoxId": 100001
+            }
+        ]
+    },
+    {
+        "id": 100025,
+        "seq": 100025,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "music_clear_unit_easy",
+        "requirement": 20,
+        "sentence": "Clear 20 Leo/need songs on EASY.",
+        "rewards": [
+            {
+                "id": 20000042,
+                "missionType": "special_mission",
+                "missionId": 100025,
+                "seq": 1,
+                "resourceBoxId": 100006
+            }
+        ]
+    },
+    {
+        "id": 100026,
+        "seq": 100026,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "music_clear_unit_normal",
+        "requirement": 10,
+        "sentence": "Clear 10 Leo/need songs on NORMAL.",
+        "rewards": [
+            {
+                "id": 20000043,
+                "missionType": "special_mission",
+                "missionId": 100026,
+                "seq": 1,
+                "resourceBoxId": 100007
+            }
+        ]
+    },
+    {
+        "id": 100027,
+        "seq": 100027,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "music_clear_unit_hard",
+        "requirement": 5,
+        "sentence": "Clear 5 Leo/need songs on HARD.",
+        "rewards": [
+            {
+                "id": 20000044,
+                "missionType": "special_mission",
+                "missionId": 100027,
+                "seq": 1,
+                "resourceBoxId": 100003
+            }
+        ]
+    },
+    {
+        "id": 100028,
+        "seq": 100028,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "clear_solo_challenge_live",
+        "requirement": 1,
+        "sentence": "Clear 1 Challenge Show.",
+        "rewards": [
+            {
+                "id": 20000045,
+                "missionType": "special_mission",
+                "missionId": 100028,
+                "seq": 1,
+                "resourceBoxId": 100011
+            }
+        ]
+    },
+    {
+        "id": 100029,
+        "seq": 100029,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "clear_solo_challenge_live",
+        "requirement": 2,
+        "sentence": "Clear 2 Challenge Shows.",
+        "rewards": [
+            {
+                "id": 20000046,
+                "missionType": "special_mission",
+                "missionId": 100029,
+                "seq": 1,
+                "resourceBoxId": 100012
+            }
+        ]
+    },
+    {
+        "id": 100030,
+        "seq": 100030,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "live_bonus",
+        "requirement": 10,
+        "sentence": "Use 10 Bonus Energys.",
+        "rewards": [
+            {
+                "id": 20000047,
+                "missionType": "special_mission",
+                "missionId": 100030,
+                "seq": 1,
+                "resourceBoxId": 100008
+            }
+        ]
+    },
+    {
+        "id": 100031,
+        "seq": 100031,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "live_bonus",
+        "requirement": 20,
+        "sentence": "Use 20 Bonus Energys.",
+        "rewards": [
+            {
+                "id": 20000048,
+                "missionType": "special_mission",
+                "missionId": 100031,
+                "seq": 1,
+                "resourceBoxId": 100003
+            }
+        ]
+    },
+    {
+        "id": 100032,
+        "seq": 100032,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "live_bonus",
+        "requirement": 30,
+        "sentence": "Use 30 Bonus Energys.",
+        "rewards": [
+            {
+                "id": 20000049,
+                "missionType": "special_mission",
+                "missionId": 100032,
+                "seq": 1,
+                "resourceBoxId": 100013
+            }
+        ]
+    },
+    {
+        "id": 100033,
+        "seq": 100033,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "live_bonus",
+        "requirement": 40,
+        "sentence": "Use 40 Bonus Energys.",
+        "rewards": [
+            {
+                "id": 20000050,
+                "missionType": "special_mission",
+                "missionId": 100033,
+                "seq": 1,
+                "resourceBoxId": 100009
+            }
+        ]
+    },
+    {
+        "id": 100034,
+        "seq": 100034,
+        "specialMissionPeriodId": 9999999,
+        "specialMissionType": "live_bonus",
+        "requirement": 50,
+        "sentence": "Use 50 Bonus Energys.",
+        "rewards": [
+            {
+                "id": 20000051,
+                "missionType": "special_mission",
+                "missionId": 100034,
+                "seq": 1,
+                "resourceBoxId": 100010
+            }
+        ]
+    }
+]

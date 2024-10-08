@@ -7699,6 +7699,86 @@
         "description": "Purchase the Crystal Shop Exclusive Stamp Bundle from the Crystal Shop."
     },
     {
+        "id": 713,
+        "stampType": "illustration",
+        "seq": 9070,
+        "name": "[Stamp] Akito: I'll get you fired up!",
+        "assetbundleName": "stamp0713",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 11,
+        "gameCharacterUnitId": 11,
+        "archivePublishedAt": 1728770400000,
+        "description": "Join the Burn My Soul After Show."
+    },
+    {
+        "id": 714,
+        "stampType": "illustration",
+        "seq": 9080,
+        "name": "[Stamp] Shiho: One day I'll be like that",
+        "assetbundleName": "stamp0714",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 4,
+        "gameCharacterUnitId": 4,
+        "archivePublishedAt": 1729634400000,
+        "description": "Join the Stick to Your Faith After Show."
+    },
+    {
+        "id": 715,
+        "stampType": "illustration",
+        "seq": 9090,
+        "name": "[Stamp] Happy Halloween",
+        "assetbundleName": "stamp0715",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "description": "Obtain from Stamp Shop."
+    },
+    {
+        "id": 716,
+        "stampType": "illustration",
+        "seq": 9120,
+        "name": "[Stamp] Shizuku: I understand",
+        "assetbundleName": "stamp0716",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 8,
+        "gameCharacterUnitId": 8,
+        "archivePublishedAt": 1730412000000,
+        "description": "Join The Warmth of a Guiding Hand After Show"
+    },
+    {
+        "id": 717,
+        "stampType": "illustration",
+        "seq": 9130,
+        "name": "[Stamp] KAITO: Don't let go",
+        "assetbundleName": "stamp0717",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 26,
+        "gameCharacterUnitId": 26,
+        "description": "Join the Searching for Sunken Shadows After Show"
+    },
+    {
+        "id": 719,
+        "stampType": "illustration",
+        "seq": 9150,
+        "name": "[Stamp] Akito: It's a heavy setting",
+        "assetbundleName": "stamp0719",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 11,
+        "gameCharacterUnitId": 11,
+        "archivePublishedAt": 1733007600000,
+        "description": "Join the Picture Perfect! After Show"
+    },
+    {
+        "id": 720,
+        "stampType": "illustration",
+        "seq": 9160,
+        "name": "[Stamp] Minori: Please, take it!",
+        "assetbundleName": "stamp0720",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 5,
+        "gameCharacterUnitId": 5,
+        "archivePublishedAt": 1733871600000,
+        "description": "Join the This Way! That Way! Zookeeper Day After Show."
+    },
+    {
         "id": 101021,
         "stampType": "illustration",
         "seq": 7130,
@@ -8018,6 +8098,18 @@
         "description": "Increase Honami & Shiho's Trust Rank to 66."
     },
     {
+        "id": 103061,
+        "stampType": "illustration",
+        "seq": 9100,
+        "name": "[Stamp] Honami & Haruka: Let's both do our best",
+        "assetbundleName": "stamp103061",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 3,
+        "characterId2": 6,
+        "archivePublishedAt": 1698778800000,
+        "description": "Increase Honami & Haruka's Trust Rank to 66."
+    },
+    {
         "id": 103081,
         "stampType": "illustration",
         "seq": 7420,
@@ -8137,6 +8229,18 @@
         "characterId1": 4,
         "characterId2": 6,
         "description": "Increase Shiho & Haruka's Trust Rank to 66."
+    },
+    {
+        "id": 104071,
+        "stampType": "illustration",
+        "seq": 9110,
+        "name": "[Stamp] Shiho & Airi: You really do have it together!",
+        "assetbundleName": "stamp104071",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 4,
+        "characterId2": 7,
+        "archivePublishedAt": 1698778800000,
+        "description": "Increase Shiho & Airi's Trust Rank to 66."
     },
     {
         "id": 104081,

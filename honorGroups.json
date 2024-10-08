@@ -1563,8 +1563,23 @@
         "backgroundAssetbundleName": "season_2023_autumn"
     },
     {
+        "id": 321,
+        "name": "Happy Birthday Honami 10/27/2024",
+        "honorType": "event"
+    },
+    {
         "id": 324,
         "name": "Happy Birthday Haruka 10/5/2024",
+        "honorType": "event"
+    },
+    {
+        "id": 326,
+        "name": "Happy Birthday Shizuku 12/6/2024",
+        "honorType": "event"
+    },
+    {
+        "id": 343,
+        "name": "Happy Anniversary MEIKO 11/5/2024",
         "honorType": "event"
     },
     {
@@ -1581,6 +1596,63 @@
         "id": 347,
         "name": "Sapphire",
         "honorType": "achievement"
+    },
+    {
+        "id": 348,
+        "name": "Burn My Soul",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_burn"
+    },
+    {
+        "id": 349,
+        "name": "Stick to Your Faith",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_stickto"
+    },
+    {
+        "id": 350,
+        "name": "Halloween 2024",
+        "honorType": "event"
+    },
+    {
+        "id": 351,
+        "name": "The Warmth of a Guiding Hand",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_warmth"
+    },
+    {
+        "id": 352,
+        "name": "Searching for Sunken Shadows",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_underwater"
+    },
+    {
+        "id": 353,
+        "name": "Searching for Sunken Shadows Chapter 1",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_underwater_cp1",
+        "frameName": "_event_underwater_cp1"
+    },
+    {
+        "id": 354,
+        "name": "Searching for Sunken Shadows Chapter 2",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_underwater_cp2",
+        "frameName": "_event_underwater_cp2"
+    },
+    {
+        "id": 355,
+        "name": "Searching for Sunken Shadows Chapter 3",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_underwater_cp3",
+        "frameName": "_event_underwater_cp3"
+    },
+    {
+        "id": 356,
+        "name": "Searching for Sunken Shadows Chapter 4",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_underwater_cp4",
+        "frameName": "_event_underwater_cp4"
     },
     {
         "id": 387,

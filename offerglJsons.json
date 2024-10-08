@@ -26,20 +26,6 @@
         "endAt": 1730199599000
     },
     {
-        "id": 93,
-        "shopItemType": "billing_shop",
-        "shopItemId": 20122,
-        "offerType": "limited",
-        "offerDisplayCondition": "player_rank",
-        "requirement": 150,
-        "buyLimitCount": 1,
-        "saleDurationMinutes": 10080,
-        "assetBundleName": "offer12",
-        "seq": 4,
-        "startAt": 1719572400000,
-        "endAt": 1727780399000
-    },
-    {
         "id": 94,
         "shopItemType": "billing_shop",
         "shopItemId": 20100,
@@ -209,6 +195,65 @@
         "assetBundleName": "offer11",
         "seq": 5,
         "startAt": 1728558000000,
+        "endAt": 4102473599000
+    },
+    {
+        "id": 115,
+        "shopItemType": "billing_shop",
+        "shopItemId": 20106,
+        "offerType": "limited",
+        "offerDisplayCondition": "event_badge",
+        "requirement": 10000,
+        "param1": 109,
+        "buyLimitCount": 1,
+        "saleDurationMinutes": 11879,
+        "assetBundleName": "offer06",
+        "seq": 5,
+        "startAt": 1728770400000,
+        "endAt": 1729483199000
+    },
+    {
+        "id": 116,
+        "shopItemType": "billing_shop",
+        "shopItemId": 20106,
+        "offerType": "limited",
+        "offerDisplayCondition": "event_badge",
+        "requirement": 10000,
+        "param1": 110,
+        "buyLimitCount": 1,
+        "saleDurationMinutes": 10439,
+        "assetBundleName": "offer06",
+        "seq": 5,
+        "startAt": 1729634400000,
+        "endAt": 1730260799000
+    },
+    {
+        "id": 117,
+        "shopItemType": "billing_shop",
+        "shopItemId": 20106,
+        "offerType": "limited",
+        "offerDisplayCondition": "event_badge",
+        "requirement": 10000,
+        "param1": 111,
+        "buyLimitCount": 1,
+        "saleDurationMinutes": 7619,
+        "assetBundleName": "offer06",
+        "seq": 5,
+        "startAt": 1730412000000,
+        "endAt": 1730869199000
+    },
+    {
+        "id": 118,
+        "shopItemType": "billing_shop",
+        "shopItemId": 20119,
+        "offerType": "limited",
+        "offerDisplayCondition": "player_rank",
+        "requirement": 300,
+        "buyLimitCount": 1,
+        "saleDurationMinutes": 10080,
+        "assetBundleName": "offer09",
+        "seq": 1,
+        "startAt": 1729594800000,
         "endAt": 4102473599000
     }
 ]
