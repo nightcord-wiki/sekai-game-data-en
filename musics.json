@@ -8078,29 +8078,6 @@
         "isNewlyWrittenMusic": true
     },
     {
-        "id": 384,
-        "seq": 2642001,
-        "releaseConditionId": 10,
-        "categories": [
-            "mv"
-        ],
-        "title": "Twilight Light",
-        "pronunciation": "twilightlight",
-        "creatorArtistId": 35,
-        "lyricist": "Toa",
-        "composer": "Toa",
-        "arranger": "Toa",
-        "dancerCount": 1,
-        "selfDancerPosition": 0,
-        "assetbundleName": "jacket_s_384",
-        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
-        "publishedAt": 1730498400000,
-        "releasedAt": 1698825600000,
-        "liveStageId": 1,
-        "fillerSec": 6.954599857330322,
-        "isNewlyWrittenMusic": true
-    },
-    {
         "id": 385,
         "seq": 1641301,
         "releaseConditionId": 5,
@@ -8190,29 +8167,6 @@
         "releasedAt": 1205568000000,
         "liveStageId": 1,
         "fillerSec": 8.5556001663208,
-        "isNewlyWrittenMusic": false
-    },
-    {
-        "id": 392,
-        "seq": 1442101,
-        "releaseConditionId": 5,
-        "categories": [
-            "original"
-        ],
-        "title": "spring storm",
-        "pronunciation": "springstorm",
-        "creatorArtistId": 211,
-        "lyricist": "john",
-        "composer": "john",
-        "arranger": "john",
-        "dancerCount": 1,
-        "selfDancerPosition": 0,
-        "assetbundleName": "jacket_s_392",
-        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
-        "publishedAt": 1730934000000,
-        "releasedAt": 1575705600000,
-        "liveStageId": 1,
-        "fillerSec": 9.0,
         "isNewlyWrittenMusic": false
     },
     {
@@ -8559,29 +8513,6 @@
         "liveStageId": 1,
         "fillerSec": 9.0,
         "isNewlyWrittenMusic": false
-    },
-    {
-        "id": 429,
-        "seq": 2341901,
-        "releaseConditionId": 10,
-        "categories": [
-            "mv_2d"
-        ],
-        "title": "Hug",
-        "pronunciation": "hug",
-        "creatorArtistId": 89,
-        "lyricist": "MIMI",
-        "composer": "MIMI",
-        "arranger": "-",
-        "dancerCount": 1,
-        "selfDancerPosition": 0,
-        "assetbundleName": "jacket_s_429",
-        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
-        "publishedAt": 1730412000000,
-        "releasedAt": 1698739200000,
-        "liveStageId": 1,
-        "fillerSec": 7.0,
-        "isNewlyWrittenMusic": true
     },
     {
         "id": 445,

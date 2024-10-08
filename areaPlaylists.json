@@ -46,13 +46,5 @@
         "assetbundleName": "collaboration_akuno",
         "bgmName": "bgm_area_akunocollabo",
         "releaseConditionId": 999999
-    },
-    {
-        "id": 12,
-        "areaId": 22,
-        "musicId": 1,
-        "assetbundleName": "collaboration_sanrio",
-        "bgmName": "bgm_area_sanrio_collabo",
-        "releaseConditionId": 999999
     }
 ]

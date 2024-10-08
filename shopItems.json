@@ -41980,26 +41980,6 @@
         "startAt": 1730066400000
     },
     {
-        "id": 10660,
-        "shopId": 2,
-        "seq": 997400,
-        "releaseConditionId": 1,
-        "resourceBoxId": 10660,
-        "costs": [
-            {
-                "shopItemId": 10660,
-                "seq": 1,
-                "cost": {
-                    "resourceId": 13,
-                    "resourceType": "material",
-                    "resourceLevel": 0,
-                    "quantity": 10
-                }
-            }
-        ],
-        "startAt": 1730934000000
-    },
-    {
         "id": 20001,
         "shopId": 12,
         "seq": 670,

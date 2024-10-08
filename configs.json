@@ -844,34 +844,6 @@
         "value": "0.85"
     },
     {
-        "configKey": "user_report_thanks_message",
-        "value": "通報いただいたプレイヤーに対して、\\nペナルティ処置を行いました。\\nご協力いただきありがとうございました。"
-    },
-    {
-        "configKey": "user_mylist_under_limit",
-        "value": "1"
-    },
-    {
-        "configKey": "user_mylist_upper_limit",
-        "value": "5"
-    },
-    {
-        "configKey": "user_mylist_name_max_length",
-        "value": "20"
-    },
-    {
-        "configKey": "colorful_pass_continuous_buy_grace_period",
-        "value": "10"
-    },
-    {
-        "configKey": "offline_event_entry_id_min_length",
-        "value": "18"
-    },
-    {
-        "configKey": "offline_event_entry_id_alphabet",
-        "value": "23456789ABCDEFGHJKMNPQRSTUVWXYZ"
-    },
-    {
         "configKey": "weekly_gacha_reset_day_of_week",
         "value": "MONDAY"
     },
@@ -900,11 +872,35 @@
         "value": "7776000"
     },
     {
-        "configKey": "beacon_enable",
-        "value": "TRUE"
+        "configKey": "user_report_thanks_message",
+        "value": "通報いただいたプレイヤーに対して、\\nペナルティ処置を行いました。\\nご協力いただきありがとうございました。"
     },
     {
-        "configKey": "world_bloom_support_deck_event_item_correction_value",
-        "value": "0.5"
+        "configKey": "user_mylist_under_limit",
+        "value": "1"
+    },
+    {
+        "configKey": "user_mylist_upper_limit",
+        "value": "5"
+    },
+    {
+        "configKey": "user_mylist_name_max_length",
+        "value": "20"
+    },
+    {
+        "configKey": "colorful_pass_continuous_buy_grace_period",
+        "value": "10"
+    },
+    {
+        "configKey": "offline_event_entry_id_min_length",
+        "value": "18"
+    },
+    {
+        "configKey": "offline_event_entry_id_alphabet",
+        "value": "23456789ABCDEFGHJKMNPQRSTUVWXYZ"
+    },
+    {
+        "configKey": "beacon_enable",
+        "value": "TRUE"
     }
 ]
