@@ -2725,8 +2725,8 @@
         "assetbundleName": "shop_20101",
         "resourceBoxId": 20101,
         "bonusResourceBoxId": 20101,
-        "startAt": 1701691200000,
-        "endAt": 1726225199000
+        "startAt": 1730980800000,
+        "endAt": 4102473599000
     },
     {
         "id": 20102,
@@ -2756,7 +2756,7 @@
         "resourceBoxId": 20101,
         "bonusResourceBoxId": 20101,
         "startAt": 1725620400000,
-        "endAt": 4102473599000
+        "endAt": 1731585599000
     },
     {
         "id": 20104,
@@ -2815,8 +2815,8 @@
         "assetbundleName": "shop_20105",
         "resourceBoxId": 20105,
         "bonusResourceBoxId": 20105,
-        "startAt": 1722164400000,
-        "endAt": 1727089199000
+        "startAt": 1731326400000,
+        "endAt": 4102473599000
     },
     {
         "id": 20108,
@@ -2891,7 +2891,7 @@
         "resourceBoxId": 20108,
         "bonusResourceBoxId": 20108,
         "startAt": 1727175600000,
-        "endAt": 4102473599000
+        "endAt": 1732881599000
     },
     {
         "id": 20115,
@@ -2936,7 +2936,7 @@
         "resourceBoxId": 20105,
         "bonusResourceBoxId": 20105,
         "startAt": 1726484400000,
-        "endAt": 4102473599000
+        "endAt": 1731931199000
     },
     {
         "id": 20118,
@@ -3010,8 +3010,8 @@
         "assetbundleName": "shop_20112",
         "resourceBoxId": 20108,
         "bonusResourceBoxId": 20108,
-        "startAt": 1719572400000,
-        "endAt": 1727780399000
+        "startAt": 1732276800000,
+        "endAt": 4102473599000
     },
     {
         "id": 50000,
@@ -5688,6 +5688,71 @@
         "purchaseOption": "exchange"
     },
     {
+        "id": 300230,
+        "seq": 455969,
+        "billingShopItemType": "costume_3d",
+        "saleType": "bundle",
+        "name": "[Gothic] Costume All Colors",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 157,
+        "startAt": 1730444400000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300231,
+        "seq": 455970,
+        "billingShopItemType": "costume_3d",
+        "saleType": "single",
+        "name": "[Gothic] Costume Original Color",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 158,
+        "startAt": 1730444400000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300232,
+        "seq": 455971,
+        "billingShopItemType": "costume_3d",
+        "saleType": "single",
+        "name": "[Gothic] Costume Color Variant 1",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 159,
+        "startAt": 1730444400000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300233,
+        "seq": 455972,
+        "billingShopItemType": "costume_3d",
+        "saleType": "single",
+        "name": "[Gothic] Costume Color Variant 2",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 160,
+        "startAt": 1730444400000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300234,
+        "seq": 455973,
+        "billingShopItemType": "costume_3d",
+        "saleType": "single",
+        "name": "[Gothic] Costume Color Variant 3",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 161,
+        "startAt": 1730444400000,
+        "purchaseOption": "exchange"
+    },
+    {
         "id": 300250,
         "seq": 300250,
         "billingShopItemType": "costume_3d",
@@ -6387,6 +6452,85 @@
         "assetbundleName": "shop_300440",
         "resourceBoxId": 248,
         "startAt": 1727766000000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300450,
+        "seq": 455969,
+        "billingShopItemType": "costume_3d",
+        "saleType": "bundle",
+        "name": "[Yokai] Costume All Colors",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 249,
+        "startAt": 1730444400000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300451,
+        "seq": 455970,
+        "billingShopItemType": "costume_3d",
+        "saleType": "single",
+        "name": "[Yokai] Costume Original Color",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 250,
+        "startAt": 1730444400000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300452,
+        "seq": 455971,
+        "billingShopItemType": "costume_3d",
+        "saleType": "single",
+        "name": "[Yokai] Costume Color Variant 1",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 251,
+        "startAt": 1730444400000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300453,
+        "seq": 455972,
+        "billingShopItemType": "costume_3d",
+        "saleType": "single",
+        "name": "[Yokai] Costume Color Variant 2",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 252,
+        "startAt": 1730444400000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300454,
+        "seq": 455973,
+        "billingShopItemType": "costume_3d",
+        "saleType": "single",
+        "name": "[Yokai] Costume Color Variant 3",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 253,
+        "startAt": 1730444400000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300455,
+        "seq": 455969,
+        "billingShopItemType": "costume_3d",
+        "saleType": "bundle",
+        "name": "2023 Halloween Costume",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_300455",
+        "resourceBoxId": 256,
+        "startAt": 1730444400000,
         "purchaseOption": "exchange"
     },
     {

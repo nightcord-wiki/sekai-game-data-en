@@ -1488,6 +1488,30 @@
         "convertResourceBoxId": 2
     },
     {
+        "id": 227,
+        "gachaId": 401,
+        "name": "As Autumn Dusk Wanes Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1733688000000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 228,
+        "gachaId": 402,
+        "name": "MEIKO Happy Anniversary Gacha Sticker",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1733958000000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 231,
+        "gachaId": 405,
+        "name": "World Link Event Support Gacha Sticker",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1734897600000,
+        "convertResourceBoxId": 2
+    },
+    {
         "id": 1025,
         "gachaId": 1025,
         "name": "[It's Back] Colorful Festival Gacha Sticker",

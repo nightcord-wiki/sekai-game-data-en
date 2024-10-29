@@ -5232,6 +5232,12 @@
         "seq": 0
     },
     {
+        "id": 904,
+        "musicId": 384,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 905,
         "musicId": 385,
         "musicTag": "all",
@@ -5252,6 +5258,12 @@
     {
         "id": 910,
         "musicId": 390,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 912,
+        "musicId": 392,
         "musicTag": "all",
         "seq": 0
     },
@@ -5346,6 +5358,12 @@
         "seq": 0
     },
     {
+        "id": 949,
+        "musicId": 429,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1021,
         "musicId": 373,
         "musicTag": "street",
@@ -5378,6 +5396,12 @@
     {
         "id": 1058,
         "musicId": 535,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 1075,
+        "musicId": 552,
         "musicTag": "all",
         "seq": 0
     },
@@ -5568,6 +5592,12 @@
         "seq": 1
     },
     {
+        "id": 1357,
+        "musicId": 384,
+        "musicTag": "school_refusal",
+        "seq": 5
+    },
+    {
         "id": 1358,
         "musicId": 377,
         "musicTag": "idol",
@@ -5584,6 +5614,18 @@
         "musicId": 383,
         "musicTag": "light_music_club",
         "seq": 6
+    },
+    {
+        "id": 1361,
+        "musicId": 429,
+        "musicTag": "idol",
+        "seq": 4
+    },
+    {
+        "id": 1362,
+        "musicId": 392,
+        "musicTag": "street",
+        "seq": 3
     },
     {
         "id": 1372,
@@ -5660,6 +5702,12 @@
     {
         "id": 1463,
         "musicId": 535,
+        "musicTag": "vocaloid",
+        "seq": 1
+    },
+    {
+        "id": 1471,
+        "musicId": 552,
         "musicTag": "vocaloid",
         "seq": 1
     }

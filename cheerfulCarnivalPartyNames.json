@@ -19313,5 +19313,207 @@
         "partyName": "Team Emboldening Words",
         "gameCharacterUnitId1": 1,
         "gameCharacterUnitId2": 17
+    },
+    {
+        "id": 2454,
+        "partyName": "Team Burn My Soul",
+        "gameCharacterUnitId1": 9,
+        "gameCharacterUnitId2": 10,
+        "gameCharacterUnitId3": 11,
+        "gameCharacterUnitId4": 12,
+        "gameCharacterUnitId5": 44
+    },
+    {
+        "id": 2455,
+        "partyName": "Team Burn My Soul",
+        "gameCharacterUnitId1": 9,
+        "gameCharacterUnitId2": 10,
+        "gameCharacterUnitId3": 11,
+        "gameCharacterUnitId4": 12
+    },
+    {
+        "id": 2456,
+        "partyName": "Team Find the Exit",
+        "gameCharacterUnitId1": 9,
+        "gameCharacterUnitId2": 10,
+        "gameCharacterUnitId3": 11,
+        "gameCharacterUnitId4": 12,
+        "gameCharacterUnitId5": 44
+    },
+    {
+        "id": 2457,
+        "partyName": "Team Find the Exit",
+        "gameCharacterUnitId1": 9,
+        "gameCharacterUnitId2": 10,
+        "gameCharacterUnitId3": 11,
+        "gameCharacterUnitId4": 12
+    },
+    {
+        "id": 2458,
+        "partyName": "Team One-On-One Singing",
+        "gameCharacterUnitId1": 11,
+        "gameCharacterUnitId2": 44
+    },
+    {
+        "id": 2459,
+        "partyName": "Team Making It Known",
+        "gameCharacterUnitId1": 9,
+        "gameCharacterUnitId2": 10,
+        "gameCharacterUnitId3": 11,
+        "gameCharacterUnitId4": 12
+    },
+    {
+        "id": 2460,
+        "partyName": "Team Fueled By Feelings",
+        "gameCharacterUnitId1": 11,
+        "gameCharacterUnitId2": 39,
+        "gameCharacterUnitId3": 49,
+        "gameCharacterUnitId4": 44
+    },
+    {
+        "id": 2461,
+        "partyName": "Team Burn Brighter!",
+        "gameCharacterUnitId1": 9,
+        "gameCharacterUnitId2": 10,
+        "gameCharacterUnitId3": 12
+    },
+    {
+        "id": 2462,
+        "partyName": "Team Stick to Your Faith",
+        "gameCharacterUnitId1": 1,
+        "gameCharacterUnitId2": 2,
+        "gameCharacterUnitId3": 3,
+        "gameCharacterUnitId4": 4,
+        "gameCharacterUnitId5": 32
+    },
+    {
+        "id": 2463,
+        "partyName": "Team Stick to Your Faith",
+        "gameCharacterUnitId1": 1,
+        "gameCharacterUnitId2": 2,
+        "gameCharacterUnitId3": 3,
+        "gameCharacterUnitId4": 4
+    },
+    {
+        "id": 2464,
+        "partyName": "Team Azure Resonance",
+        "gameCharacterUnitId1": 1,
+        "gameCharacterUnitId2": 2,
+        "gameCharacterUnitId3": 3,
+        "gameCharacterUnitId4": 4,
+        "gameCharacterUnitId5": 32
+    },
+    {
+        "id": 2465,
+        "partyName": "Team Azure Resonance",
+        "gameCharacterUnitId1": 1,
+        "gameCharacterUnitId2": 2,
+        "gameCharacterUnitId3": 3,
+        "gameCharacterUnitId4": 4
+    },
+    {
+        "id": 2466,
+        "partyName": "Team Sharing Our Past",
+        "gameCharacterUnitId1": 4,
+        "gameCharacterUnitId2": 32
+    },
+    {
+        "id": 2467,
+        "partyName": "Team Being Our Authentic Selves",
+        "gameCharacterUnitId1": 4,
+        "gameCharacterUnitId2": 32
+    },
+    {
+        "id": 2468,
+        "partyName": "Team Finding Aspiration",
+        "gameCharacterUnitId1": 4,
+        "gameCharacterUnitId2": 3
+    },
+    {
+        "id": 2469,
+        "partyName": "Team Autograph Advice",
+        "gameCharacterUnitId1": 1,
+        "gameCharacterUnitId2": 2,
+        "gameCharacterUnitId3": 3
+    },
+    {
+        "id": 2470,
+        "partyName": "Team Exciting Sound",
+        "gameCharacterUnitId1": 1,
+        "gameCharacterUnitId2": 27
+    },
+    {
+        "id": 2471,
+        "partyName": "Team Warm Guiding Hands",
+        "gameCharacterUnitId1": 5,
+        "gameCharacterUnitId2": 6,
+        "gameCharacterUnitId3": 7,
+        "gameCharacterUnitId4": 8,
+        "gameCharacterUnitId5": 38
+    },
+    {
+        "id": 2472,
+        "partyName": "Team Warm Guiding Hands",
+        "gameCharacterUnitId1": 5,
+        "gameCharacterUnitId2": 6,
+        "gameCharacterUnitId3": 7,
+        "gameCharacterUnitId4": 8
+    },
+    {
+        "id": 2473,
+        "partyName": "Team As Autumn Dusk Wanes",
+        "gameCharacterUnitId1": 5,
+        "gameCharacterUnitId2": 6,
+        "gameCharacterUnitId3": 7,
+        "gameCharacterUnitId4": 8,
+        "gameCharacterUnitId5": 38
+    },
+    {
+        "id": 2474,
+        "partyName": "Team As Autumn Dusk Wanes",
+        "gameCharacterUnitId1": 5,
+        "gameCharacterUnitId2": 6,
+        "gameCharacterUnitId3": 7,
+        "gameCharacterUnitId4": 8
+    },
+    {
+        "id": 2475,
+        "partyName": "Team By The Hand, To A Dream",
+        "gameCharacterUnitId1": 5,
+        "gameCharacterUnitId2": 6,
+        "gameCharacterUnitId3": 7,
+        "gameCharacterUnitId4": 8
+    },
+    {
+        "id": 2476,
+        "partyName": "Team Words From The Heart",
+        "gameCharacterUnitId1": 8,
+        "gameCharacterUnitId2": 38
+    },
+    {
+        "id": 2477,
+        "partyName": "Team Hot Spring Manju Secrets",
+        "gameCharacterUnitId1": 8,
+        "gameCharacterUnitId2": 38
+    },
+    {
+        "id": 2478,
+        "partyName": "Team Determined Fire Makers",
+        "gameCharacterUnitId1": 7,
+        "gameCharacterUnitId2": 5
+    },
+    {
+        "id": 2479,
+        "partyName": "Team MORE MORE CURRY Cooks",
+        "gameCharacterUnitId1": 5,
+        "gameCharacterUnitId2": 6,
+        "gameCharacterUnitId3": 7,
+        "gameCharacterUnitId4": 8
+    },
+    {
+        "id": 2480,
+        "partyName": "Team Perfectly Dressed To Travel♪",
+        "gameCharacterUnitId1": 33,
+        "gameCharacterUnitId2": 38
     }
 ]

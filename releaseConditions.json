@@ -5591,6 +5591,83 @@
         "releaseConditionTypeLevel": 60
     },
     {
+        "id": 30779,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 779,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30780,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 780,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30781,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 781,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30782,
+        "sentence": "View Part 1 and reach Level 50 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 782,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 30783,
+        "sentence": "View Part 1 and reach Level 30 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 783,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 30784,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 784,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30785,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 785,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30786,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 786,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30787,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 787,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30788,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 788,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30789,
+        "sentence": "View Part 1 and reach Level 30 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 789,
+        "releaseConditionTypeLevel": 30
+    },
+    {
         "id": 40001,
         "sentence": "Clear on EXPERT with 7 or fewer GOOD or lower taps",
         "releaseConditionType": "music_difficulty_better_play",
@@ -9109,6 +9186,13 @@
         "sentence": "Clear on EXPERT with a max of 7 or fewer GOOD or lower taps.",
         "releaseConditionType": "music_difficulty_better_play",
         "releaseConditionTypeId": 2674,
+        "releaseConditionTypeQuantity": 7
+    },
+    {
+        "id": 40552,
+        "sentence": "Clear on EXPERT with a max of 7 or fewer GOOD or lower taps.",
+        "releaseConditionType": "music_difficulty_better_play",
+        "releaseConditionTypeId": 2759,
         "releaseConditionTypeQuantity": 7
     },
     {
@@ -19043,6 +19127,223 @@
         "releaseConditionTypeLevel": 5
     },
     {
+        "id": 63240,
+        "sentence": "Obtain \"By The Hand, To A Dream\" Shizuku Hinomori.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 779,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63241,
+        "sentence": "Reach Mastery Rank 1 with \"By The Hand, To A Dream\" Shizuku Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 779,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63242,
+        "sentence": "Reach Mastery Rank 2 with \"By The Hand, To A Dream\" Shizuku Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 779,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 63243,
+        "sentence": "Reach Mastery Rank 3 with \"By The Hand, To A Dream\" Shizuku Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 779,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63244,
+        "sentence": "Reach Mastery Rank 5 with \"By The Hand, To A Dream\" Shizuku Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 779,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63250,
+        "sentence": "Obtain \"A Lavish Feast\" Haruka Kiritani.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 780,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63251,
+        "sentence": "Reach Mastery Rank 1 with \"A Lavish Feast\" Haruka Kiritani to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 780,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63252,
+        "sentence": "Reach Mastery Rank 2 with \"A Lavish Feast\" Haruka Kiritani to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 780,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 63253,
+        "sentence": "Reach Mastery Rank 3 with \"A Lavish Feast\" Haruka Kiritani to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 780,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63254,
+        "sentence": "Reach Mastery Rank 5 with \"A Lavish Feast\" Haruka Kiritani to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 780,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63260,
+        "sentence": "Obtain \"Special Free Time Snapshot!\" Airi Momoi.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 781,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63261,
+        "sentence": "Reach Mastery Rank 1 with \"Special Free Time Snapshot!\" Airi Momoi to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 781,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63262,
+        "sentence": "Reach Mastery Rank 2 with \"Special Free Time Snapshot!\" Airi Momoi to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 781,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 63263,
+        "sentence": "Reach Mastery Rank 3 with \"Special Free Time Snapshot!\" Airi Momoi to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 781,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63264,
+        "sentence": "Reach Mastery Rank 5 with \"Special Free Time Snapshot!\" Airi Momoi to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 781,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63270,
+        "sentence": "Obtain \"Seeing Her In A Child\" Kanade Yoisaki.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 785,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63271,
+        "sentence": "Reach Mastery Rank 1 with \"Seeing Her In A Child\" Kanade Yoisaki to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 785,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63272,
+        "sentence": "Reach Mastery Rank 3 with \"Seeing Her In A Child\" Kanade Yoisaki to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 785,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63273,
+        "sentence": "Reach Mastery Rank 5 with \"Seeing Her In A Child\" Kanade Yoisaki to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 785,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63280,
+        "sentence": "Obtain \"Like A Heart In My Hands\" Mafuyu Asahina.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 786,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63281,
+        "sentence": "Reach Mastery Rank 1 with \"Like A Heart In My Hands\" Mafuyu Asahina to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 786,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63282,
+        "sentence": "Reach Mastery Rank 3 with \"Like A Heart In My Hands\" Mafuyu Asahina to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 786,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63283,
+        "sentence": "Reach Mastery Rank 5 with \"Like A Heart In My Hands\" Mafuyu Asahina to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 786,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63290,
+        "sentence": "Obtain \"Enjoyable Afternoon, Uncertain Future\" Ena Shinonome.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 787,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63291,
+        "sentence": "Reach Mastery Rank 1 with \"Enjoyable Afternoon, Uncertain Future\" Ena Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 787,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63292,
+        "sentence": "Reach Mastery Rank 3 with \"Enjoyable Afternoon, Uncertain Future\" Ena Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 787,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63293,
+        "sentence": "Reach Mastery Rank 5 with \"Enjoyable Afternoon, Uncertain Future\" Ena Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 787,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63300,
+        "sentence": "Obtain \"You Gotta Come With Me!\" Mizuki Akiyama.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 788,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63301,
+        "sentence": "Reach Mastery Rank 1 with \"You Gotta Come With Me!\" Mizuki Akiyama to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 788,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63302,
+        "sentence": "Reach Mastery Rank 3 with \"You Gotta Come With Me!\" Mizuki Akiyama to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 788,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63303,
+        "sentence": "Reach Mastery Rank 5 with \"You Gotta Come With Me!\" Mizuki Akiyama to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 788,
+        "releaseConditionTypeLevel": 5
+    },
+    {
         "id": 70001,
         "sentence": "Reach Character Rank 1 to unlock",
         "releaseConditionType": "character_rank",
@@ -25880,6 +26181,101 @@
         "sentence": "View Stick to Your Faith - Episode 8.",
         "releaseConditionType": "event_story",
         "releaseConditionTypeId": 1000888
+    },
+    {
+        "id": 111001,
+        "sentence": "Earn 12,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 111,
+        "releaseConditionTypeQuantity": 12000
+    },
+    {
+        "id": 111002,
+        "sentence": "Earn 32,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 111,
+        "releaseConditionTypeQuantity": 32000
+    },
+    {
+        "id": 111003,
+        "sentence": "Earn 52,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 111,
+        "releaseConditionTypeQuantity": 52000
+    },
+    {
+        "id": 111004,
+        "sentence": "Earn 76,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 111,
+        "releaseConditionTypeQuantity": 76000
+    },
+    {
+        "id": 111005,
+        "sentence": "Earn 100,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 111,
+        "releaseConditionTypeQuantity": 100000
+    },
+    {
+        "id": 111006,
+        "sentence": "Earn 125,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 111,
+        "releaseConditionTypeQuantity": 125000
+    },
+    {
+        "id": 111007,
+        "sentence": "Earn 150,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 111,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 111008,
+        "sentence": "View The Warmth of a Guiding Hand - Episode 8.",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1000896
+    },
+    {
+        "id": 111100,
+        "sentence": "Unlocks Nov. 8, 2024 8:00 p.m. (PT)",
+        "releaseConditionType": "world_bloom_chapter_start",
+        "releaseConditionTypeId": 112,
+        "releaseConditionTypeId2": 18
+    },
+    {
+        "id": 111101,
+        "sentence": "Unlocks Nov. 11, 2024 8:00 p.m. (PT)",
+        "releaseConditionType": "world_bloom_chapter_start",
+        "releaseConditionTypeId": 112,
+        "releaseConditionTypeId2": 20
+    },
+    {
+        "id": 111102,
+        "sentence": "Unlocks Nov. 14, 2024 8:00 p.m. (PT)",
+        "releaseConditionType": "world_bloom_chapter_start",
+        "releaseConditionTypeId": 112,
+        "releaseConditionTypeId2": 19
+    },
+    {
+        "id": 111103,
+        "sentence": "Unlocks Nov. 17, 2024 8:00 p.m. (PT)",
+        "releaseConditionType": "world_bloom_chapter_start",
+        "releaseConditionTypeId": 112,
+        "releaseConditionTypeId2": 17
+    },
+    {
+        "id": 111104,
+        "sentence": "Unlocks Nov. 20, 2024 8:00 p.m. (PT)",
+        "releaseConditionType": "world_bloom_chapter_aggregate",
+        "releaseConditionTypeId": 112
+    },
+    {
+        "id": 111105,
+        "sentence": "View Searching for Sunken Shadows - Ending.",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1000906
     },
     {
         "id": 800001,

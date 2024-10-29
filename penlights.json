@@ -600,5 +600,12 @@
         "name": "Sparkling SEKAI Glow Stick",
         "defaultPenlightColorId": 9,
         "assetbundleName": "penlight_0093"
+    },
+    {
+        "id": 95,
+        "seq": 93,
+        "name": "Nightcord at 25:00 Glow Stick",
+        "defaultPenlightColorId": 32,
+        "assetbundleName": "penlight_0095"
     }
 ]

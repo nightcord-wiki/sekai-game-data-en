@@ -4642,6 +4642,23 @@
         ]
     },
     {
+        "id": 1107,
+        "seq": 1107,
+        "name": "Halloween Login Campaign",
+        "startAt": 1730358000000,
+        "endAt": 1730530799000,
+        "assetbundleName": "halloween_2023",
+        "closeAt": 1730530799000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 1391,
+                "limitedLoginBonusId": 1107,
+                "day": 1,
+                "resourceBoxId": 1366
+            }
+        ]
+    },
+    {
         "id": 1108,
         "seq": 1108,
         "name": "MIKU EXPO 2024 EUROPE Celebration Campaign",
