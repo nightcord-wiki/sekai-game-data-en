@@ -670,6 +670,26 @@
         "accessoryAssetbundleName": "fullset_0070"
     },
     {
+        "id": 71,
+        "seq": 710,
+        "name": "Akito Costume 2.0",
+        "assetbundleName": "fullset_0071",
+        "skinColorCode": "#ffffff",
+        "costumeAssetbundleName": "fullset_0071",
+        "accessoryPart": "Accessory_face",
+        "accessoryAssetbundleName": "fullset_0071"
+    },
+    {
+        "id": 72,
+        "seq": 720,
+        "name": "Shizuku Costume 2.0",
+        "assetbundleName": "fullset_0072",
+        "skinColorCode": "#ffffff",
+        "costumeAssetbundleName": "fullset_0072",
+        "accessoryPart": "Accessory_face",
+        "accessoryAssetbundleName": "fullset_0072"
+    },
+    {
         "id": 1001,
         "seq": 495,
         "name": "Like a Tiger",

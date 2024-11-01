@@ -14475,5 +14475,263 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 113,
+        "eventId": 113,
+        "outline": "Wonderlands×Showtime have decided to work with other troupes, starting with the long-established Shunmeiza. Given a minor role with just three lines, Tsukasa faces a seemingly impossible task: to convince the director that his character is a real person.",
+        "bannerGameCharacterUnitId": 13,
+        "assetbundleName": "event_supporting_2023",
+        "eventStoryEpisodes": [
+            {
+                "id": 1000907,
+                "eventStoryId": 113,
+                "episodeNo": 1,
+                "title": "New Worlds Await!",
+                "assetbundleName": "event_supporting_2023_01",
+                "scenarioId": "event_113_01",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000908,
+                "eventStoryId": 113,
+                "episodeNo": 2,
+                "title": "A Shunmeiza Play",
+                "assetbundleName": "event_supporting_2023_02",
+                "scenarioId": "event_113_02",
+                "releaseConditionId": 111201,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000909,
+                "eventStoryId": 113,
+                "episodeNo": 3,
+                "title": "Reki Bakuno",
+                "assetbundleName": "event_supporting_2023_03",
+                "scenarioId": "event_113_03",
+                "releaseConditionId": 111202,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000910,
+                "eventStoryId": 113,
+                "episodeNo": 4,
+                "title": "Natural Talent",
+                "assetbundleName": "event_supporting_2023_04",
+                "scenarioId": "event_113_04",
+                "releaseConditionId": 111203,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000911,
+                "eventStoryId": 113,
+                "episodeNo": 5,
+                "title": "Life Is A Story",
+                "assetbundleName": "event_supporting_2023_05",
+                "scenarioId": "event_113_05",
+                "releaseConditionId": 111204,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000912,
+                "eventStoryId": 113,
+                "episodeNo": 6,
+                "title": "Imagination Rediscovered",
+                "assetbundleName": "event_supporting_2023_06",
+                "scenarioId": "event_113_06",
+                "releaseConditionId": 111205,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000913,
+                "eventStoryId": 113,
+                "episodeNo": 7,
+                "title": "Weaving Tales Together",
+                "assetbundleName": "event_supporting_2023_07",
+                "scenarioId": "event_113_07",
+                "releaseConditionId": 111206,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000914,
+                "eventStoryId": 113,
+                "episodeNo": 8,
+                "title": "Becoming The Character",
+                "assetbundleName": "event_supporting_2023_08",
+                "scenarioId": "event_113_08",
+                "releaseConditionId": 111207,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 66
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "eventId": 114,
+        "outline": "When Kamiyama High School's very first Arts Festival is announced, Class 2-A decides to produce a film! It falls to Nene to sit in the director's chair, but will her leadership cut it?",
+        "bannerGameCharacterUnitId": 15,
+        "assetbundleName": "event_crankup_2023",
+        "eventStoryEpisodes": [
+            {
+                "id": 1000915,
+                "eventStoryId": 114,
+                "episodeNo": 1,
+                "title": "The Arts Festival",
+                "assetbundleName": "event_crankup_2023_01",
+                "scenarioId": "event_114_01",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000916,
+                "eventStoryId": 114,
+                "episodeNo": 2,
+                "title": "A Mess Of A Meeting",
+                "assetbundleName": "event_crankup_2023_02",
+                "scenarioId": "event_114_02",
+                "releaseConditionId": 111301,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000917,
+                "eventStoryId": 114,
+                "episodeNo": 3,
+                "title": "Once We Know Each Other",
+                "assetbundleName": "event_crankup_2023_03",
+                "scenarioId": "event_114_03",
+                "releaseConditionId": 111302,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000918,
+                "eventStoryId": 114,
+                "episodeNo": 4,
+                "title": "Classmates",
+                "assetbundleName": "event_crankup_2023_04",
+                "scenarioId": "event_114_04",
+                "releaseConditionId": 111303,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000919,
+                "eventStoryId": 114,
+                "episodeNo": 5,
+                "title": "Action!",
+                "assetbundleName": "event_crankup_2023_05",
+                "scenarioId": "event_114_05",
+                "releaseConditionId": 111304,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000920,
+                "eventStoryId": 114,
+                "episodeNo": 6,
+                "title": "Avoiding Regret",
+                "assetbundleName": "event_crankup_2023_06",
+                "scenarioId": "event_114_06",
+                "releaseConditionId": 111305,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000921,
+                "eventStoryId": 114,
+                "episodeNo": 7,
+                "title": "That's A Wrap!",
+                "assetbundleName": "event_crankup_2023_07",
+                "scenarioId": "event_114_07",
+                "releaseConditionId": 111306,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000922,
+                "eventStoryId": 114,
+                "episodeNo": 8,
+                "title": "Our Film",
+                "assetbundleName": "event_crankup_2023_08",
+                "scenarioId": "event_114_08",
+                "releaseConditionId": 111307,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 67
+                    }
+                ]
+            }
+        ]
     }
 ]

@@ -481,5 +481,12 @@
         "name": "Hot Spring Basin",
         "part": "Accessory_face",
         "assetbundleName": "accessory_0079"
+    },
+    {
+        "id": 80,
+        "seq": 790,
+        "name": "Pegasus Light Display",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0080"
     }
 ]

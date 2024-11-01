@@ -1573,6 +1573,16 @@
         "honorType": "event"
     },
     {
+        "id": 326,
+        "name": "Happy Birthday Shizuku 12/6/2024",
+        "honorType": "event"
+    },
+    {
+        "id": 329,
+        "name": "Happy Birthday Akito 11/12/2024",
+        "honorType": "event"
+    },
+    {
         "id": 343,
         "name": "Happy Anniversary MEIKO 11/5/2024",
         "honorType": "event"
@@ -1648,6 +1658,18 @@
         "honorType": "event",
         "backgroundAssetbundleName": "honor_bg_event_underwater_cp4",
         "frameName": "_event_underwater_cp4"
+    },
+    {
+        "id": 357,
+        "name": "Star of Your Own Story",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_supporting"
+    },
+    {
+        "id": 358,
+        "name": "Picture Perfect!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_crankup"
     },
     {
         "id": 387,

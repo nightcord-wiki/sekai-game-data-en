@@ -1072,7 +1072,8 @@
         "seq": 1204801,
         "releaseConditionId": 5,
         "categories": [
-            "mv"
+            "mv",
+            "mv_2d"
         ],
         "title": "Tale of the Deep-sea Lily",
         "pronunciation": "taleofthedeep-sealily",
@@ -3792,7 +3793,8 @@
         "seq": 1618701,
         "releaseConditionId": 5,
         "categories": [
-            "original"
+            "original",
+            "mv_2d"
         ],
         "title": "DSCF",
         "pronunciation": "dscf",
@@ -5344,7 +5346,7 @@
         "seq": 1425001,
         "releaseConditionId": 5,
         "categories": [
-            "image"
+            "mv_2d"
         ],
         "title": "Imperial Girl",
         "pronunciation": "imperialgirl",
@@ -8193,6 +8195,29 @@
         "isNewlyWrittenMusic": false
     },
     {
+        "id": 391,
+        "seq": 1641801,
+        "releaseConditionId": 5,
+        "categories": [
+            "original"
+        ],
+        "title": "Cute Na Kanojo",
+        "pronunciation": "cutenakanojo",
+        "creatorArtistId": 28,
+        "lyricist": "syudou",
+        "composer": "syudou",
+        "arranger": "syudou",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_391",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1732230000000,
+        "releasedAt": 1613808000000,
+        "liveStageId": 1,
+        "fillerSec": 8.625,
+        "isNewlyWrittenMusic": false
+    },
+    {
         "id": 392,
         "seq": 1441501,
         "releaseConditionId": 5,
@@ -8283,6 +8308,52 @@
         "liveStageId": 1,
         "fillerSec": 7.988800048828125,
         "isNewlyWrittenMusic": false
+    },
+    {
+        "id": 397,
+        "seq": 2541901,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv"
+        ],
+        "title": "filament fever",
+        "pronunciation": "filamentfever",
+        "creatorArtistId": 213,
+        "lyricist": "Yuri Kuriyama",
+        "composer": "Yuri Kuriyama",
+        "arranger": "Yuri Kuriyama",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_397",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1732863900000,
+        "releasedAt": 1701158400000,
+        "liveStageId": 1,
+        "fillerSec": 7.656700134277344,
+        "isNewlyWrittenMusic": true
+    },
+    {
+        "id": 398,
+        "seq": 2442101,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv"
+        ],
+        "title": "Beyond the way",
+        "pronunciation": "beyondtheway",
+        "creatorArtistId": 14,
+        "lyricist": "q*Left",
+        "composer": "Giga",
+        "arranger": "Giga",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_398",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1733698800000,
+        "releasedAt": 1701417600000,
+        "liveStageId": 1,
+        "fillerSec": 8.520000457763672,
+        "isNewlyWrittenMusic": true
     },
     {
         "id": 399,
@@ -8377,6 +8448,29 @@
         "isNewlyWrittenMusic": false
     },
     {
+        "id": 406,
+        "seq": 2141601,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "ARQETYPE",
+        "pronunciation": "arqetype",
+        "creatorArtistId": 212,
+        "lyricist": "Sohbana",
+        "composer": "Sohbana",
+        "arranger": "Sohbana",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_406",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1731279600000,
+        "releasedAt": 1685779200000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": true
+    },
+    {
         "id": 408,
         "seq": 1139001,
         "releaseConditionId": 5,
@@ -8420,6 +8514,29 @@
         "releasedAt": 1673596800000,
         "liveStageId": 1,
         "fillerSec": 8.220800399780273,
+        "isNewlyWrittenMusic": false
+    },
+    {
+        "id": 413,
+        "seq": 1342001,
+        "releaseConditionId": 5,
+        "categories": [
+            "original"
+        ],
+        "title": "Lose The Princess",
+        "pronunciation": "losetheprincess",
+        "creatorArtistId": 214,
+        "lyricist": "Kai",
+        "composer": "Kai",
+        "arranger": "Kai",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_413",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1733266800000,
+        "releasedAt": 1643443200000,
+        "liveStageId": 1,
+        "fillerSec": 8.696499824523926,
         "isNewlyWrittenMusic": false
     },
     {
@@ -8558,6 +8675,29 @@
         "releasedAt": 1690617600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false
+    },
+    {
+        "id": 426,
+        "seq": 1141701,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "On&On",
+        "pronunciation": "onandon",
+        "creatorArtistId": 180,
+        "lyricist": "Mellowcle",
+        "composer": "Mellowcle",
+        "arranger": "Mellowcle",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_426",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1731538800000,
+        "releasedAt": 1689926400000,
+        "liveStageId": 1,
+        "fillerSec": 9.00409984588623,
         "isNewlyWrittenMusic": false
     },
     {

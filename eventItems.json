@@ -774,5 +774,19 @@
         "name": "Chapter 4 Token",
         "flavorText": "Trade for items at the Event Exchange.",
         "assetbundleName": "badge_kanade"
+    },
+    {
+        "id": 117,
+        "eventId": 113,
+        "name": "Event Token",
+        "flavorText": "Trade for items at the Event Exchange.",
+        "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 118,
+        "eventId": 114,
+        "name": "Event Token",
+        "flavorText": "Trade for items at the Event Exchange.",
+        "assetbundleName": "badge_pure"
     }
 ]

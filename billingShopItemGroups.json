@@ -156,6 +156,19 @@
         ]
     },
     {
+        "id": 15,
+        "name": "Checkerboard Pattern Costume",
+        "assetbundleName": "shop_300240",
+        "seq": 300240,
+        "billingShopItemIds": [
+            300240,
+            300241,
+            300242,
+            300243,
+            300244
+        ]
+    },
+    {
         "id": 17,
         "name": "Fruit Costume",
         "assetbundleName": "shop_300270",

@@ -27696,6 +27696,76 @@
         "releaseConditionId": 111008
     },
     {
+        "id": 2022,
+        "areaId": 9,
+        "actionSetType": "normal",
+        "isNextGrade": true,
+        "scenarioId": "areatalk_monthly2310_001",
+        "scriptId": "as_monthly2310_001",
+        "characterIds": [
+            290,
+            302
+        ],
+        "archivePublishedAt": 1730412000000,
+        "releaseConditionId": 110708
+    },
+    {
+        "id": 2023,
+        "areaId": 9,
+        "actionSetType": "normal",
+        "isNextGrade": true,
+        "scenarioId": "areatalk_monthly2310_002",
+        "scriptId": "as_monthly2310_002",
+        "characterIds": [
+            320,
+            293
+        ],
+        "archivePublishedAt": 1730412000000,
+        "releaseConditionId": 110708
+    },
+    {
+        "id": 2024,
+        "areaId": 9,
+        "actionSetType": "normal",
+        "isNextGrade": true,
+        "scenarioId": "areatalk_monthly2310_003",
+        "scriptId": "as_monthly2310_003",
+        "characterIds": [
+            293,
+            332
+        ],
+        "archivePublishedAt": 1730412000000,
+        "releaseConditionId": 110708
+    },
+    {
+        "id": 2025,
+        "areaId": 9,
+        "actionSetType": "normal",
+        "isNextGrade": true,
+        "scenarioId": "areatalk_monthly2310_004",
+        "scriptId": "as_monthly2310_004",
+        "characterIds": [
+            291,
+            332
+        ],
+        "archivePublishedAt": 1730412000000,
+        "releaseConditionId": 110708
+    },
+    {
+        "id": 2026,
+        "areaId": 9,
+        "actionSetType": "normal",
+        "isNextGrade": true,
+        "scenarioId": "areatalk_monthly2310_005",
+        "scriptId": "as_monthly2310_005",
+        "characterIds": [
+            326,
+            292
+        ],
+        "archivePublishedAt": 1730412000000,
+        "releaseConditionId": 110708
+    },
+    {
         "id": 2027,
         "areaId": 10,
         "actionSetType": "normal",
@@ -27912,5 +27982,77 @@
         ],
         "archivePublishedAt": 1732316400000,
         "releaseConditionId": 111208
+    },
+    {
+        "id": 2042,
+        "areaId": 11,
+        "actionSetType": "normal",
+        "isNextGrade": true,
+        "scenarioId": "areatalk_ev_shuffle_39_001",
+        "scriptId": "as_ev_shuffle_39_001",
+        "characterIds": [
+            287,
+            288,
+            292
+        ],
+        "archivePublishedAt": 1733007600000,
+        "releaseConditionId": 111308
+    },
+    {
+        "id": 2043,
+        "areaId": 11,
+        "actionSetType": "normal",
+        "isNextGrade": true,
+        "scenarioId": "areatalk_ev_shuffle_39_002",
+        "scriptId": "as_ev_shuffle_39_002",
+        "characterIds": [
+            287,
+            292
+        ],
+        "archivePublishedAt": 1733007600000,
+        "releaseConditionId": 111308
+    },
+    {
+        "id": 2044,
+        "areaId": 11,
+        "actionSetType": "normal",
+        "isNextGrade": true,
+        "scenarioId": "areatalk_ev_shuffle_39_003",
+        "scriptId": "as_ev_shuffle_39_003",
+        "characterIds": [
+            292,
+            288
+        ],
+        "archivePublishedAt": 1733007600000,
+        "releaseConditionId": 111308
+    },
+    {
+        "id": 2045,
+        "areaId": 2,
+        "actionSetType": "normal",
+        "isNextGrade": true,
+        "scenarioId": "areatalk_ev_shuffle_39_004",
+        "scriptId": "as_ev_shuffle_39_004",
+        "characterIds": [
+            288,
+            287,
+            289
+        ],
+        "archivePublishedAt": 1733007600000,
+        "releaseConditionId": 111308
+    },
+    {
+        "id": 2046,
+        "areaId": 9,
+        "actionSetType": "normal",
+        "isNextGrade": true,
+        "scenarioId": "areatalk_ev_shuffle_39_005",
+        "scriptId": "as_ev_shuffle_39_005",
+        "characterIds": [
+            292,
+            314
+        ],
+        "archivePublishedAt": 1733007600000,
+        "releaseConditionId": 111308
     }
 ]

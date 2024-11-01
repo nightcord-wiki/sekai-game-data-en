@@ -7834,6 +7834,30 @@
         "description": "Join the Searching for Sunken Shadows After Show."
     },
     {
+        "id": 718,
+        "stampType": "illustration",
+        "seq": 9140,
+        "name": "[Stamp] Tsukasa: Whaaat?!",
+        "assetbundleName": "stamp0718",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 13,
+        "gameCharacterUnitId": 13,
+        "archivePublishedAt": 1732316400000,
+        "description": "Join the Star of Your Own Story After Show."
+    },
+    {
+        "id": 719,
+        "stampType": "illustration",
+        "seq": 9150,
+        "name": "[Stamp] Akito: It's a heavy setting",
+        "assetbundleName": "stamp0719",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 11,
+        "gameCharacterUnitId": 11,
+        "archivePublishedAt": 1733007600000,
+        "description": "Join the Picture Perfect! After Show."
+    },
+    {
         "id": 101021,
         "stampType": "illustration",
         "seq": 7130,

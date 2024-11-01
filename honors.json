@@ -57022,6 +57022,38 @@
         ]
     },
     {
+        "id": 3230,
+        "seq": 19200,
+        "groupId": 326,
+        "honorRarity": "low",
+        "name": "Happy Birthday Shizuku 12/6/2024",
+        "assetbundleName": "honor_3230",
+        "levels": [
+            {
+                "honorId": 3230,
+                "level": 1,
+                "bonus": 0,
+                "description": "Join Shizuku's Birthday Show 2024."
+            }
+        ]
+    },
+    {
+        "id": 3233,
+        "seq": 19500,
+        "groupId": 329,
+        "honorRarity": "low",
+        "name": "Happy Birthday Akito 11/12/2024",
+        "assetbundleName": "honor_3233",
+        "levels": [
+            {
+                "honorId": 3233,
+                "level": 1,
+                "bonus": 0,
+                "description": "Join Akito's Birthday Show 2024."
+            }
+        ]
+    },
+    {
         "id": 3247,
         "seq": 18300,
         "groupId": 343,
@@ -60490,6 +60522,1062 @@
                 "level": 1,
                 "bonus": 0,
                 "description": "Rank among the top 100,000 in Chapter 4 of the event Searching for Sunken Shadows."
+            }
+        ]
+    },
+    {
+        "id": 3465,
+        "seq": 135701,
+        "groupId": 357,
+        "honorRarity": "highest",
+        "name": "1st",
+        "assetbundleName": "honor_top_000001",
+        "levels": [
+            {
+                "honorId": 3465,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 1st in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3466,
+        "seq": 135702,
+        "groupId": 357,
+        "honorRarity": "highest",
+        "name": "2nd",
+        "assetbundleName": "honor_top_000002",
+        "levels": [
+            {
+                "honorId": 3466,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 2nd in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3467,
+        "seq": 135703,
+        "groupId": 357,
+        "honorRarity": "highest",
+        "name": "3rd",
+        "assetbundleName": "honor_top_000003",
+        "levels": [
+            {
+                "honorId": 3467,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 3rd in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3468,
+        "seq": 135704,
+        "groupId": 357,
+        "honorRarity": "highest",
+        "name": "4th",
+        "assetbundleName": "honor_top_000004",
+        "levels": [
+            {
+                "honorId": 3468,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 4th in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3469,
+        "seq": 135705,
+        "groupId": 357,
+        "honorRarity": "highest",
+        "name": "5th",
+        "assetbundleName": "honor_top_000005",
+        "levels": [
+            {
+                "honorId": 3469,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 5th in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3470,
+        "seq": 135706,
+        "groupId": 357,
+        "honorRarity": "highest",
+        "name": "6th",
+        "assetbundleName": "honor_top_000006",
+        "levels": [
+            {
+                "honorId": 3470,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 6th in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3471,
+        "seq": 135707,
+        "groupId": 357,
+        "honorRarity": "highest",
+        "name": "7th",
+        "assetbundleName": "honor_top_000007",
+        "levels": [
+            {
+                "honorId": 3471,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 7th in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3472,
+        "seq": 135708,
+        "groupId": 357,
+        "honorRarity": "highest",
+        "name": "8th",
+        "assetbundleName": "honor_top_000008",
+        "levels": [
+            {
+                "honorId": 3472,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 8th in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3473,
+        "seq": 135709,
+        "groupId": 357,
+        "honorRarity": "highest",
+        "name": "9th",
+        "assetbundleName": "honor_top_000009",
+        "levels": [
+            {
+                "honorId": 3473,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 9th in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3474,
+        "seq": 135710,
+        "groupId": 357,
+        "honorRarity": "highest",
+        "name": "10th",
+        "assetbundleName": "honor_top_000010_v2",
+        "levels": [
+            {
+                "honorId": 3474,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 10th in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3475,
+        "seq": 135711,
+        "groupId": 357,
+        "honorRarity": "high",
+        "name": "Top 20",
+        "assetbundleName": "honor_top_000020",
+        "levels": [
+            {
+                "honorId": 3475,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 20 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3476,
+        "seq": 135712,
+        "groupId": 357,
+        "honorRarity": "high",
+        "name": "Top 30",
+        "assetbundleName": "honor_top_000030",
+        "levels": [
+            {
+                "honorId": 3476,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 30 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3477,
+        "seq": 135713,
+        "groupId": 357,
+        "honorRarity": "high",
+        "name": "Top 40",
+        "assetbundleName": "honor_top_000040",
+        "levels": [
+            {
+                "honorId": 3477,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 40 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3478,
+        "seq": 135714,
+        "groupId": 357,
+        "honorRarity": "high",
+        "name": "Top 50",
+        "assetbundleName": "honor_top_000050",
+        "levels": [
+            {
+                "honorId": 3478,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 50 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3479,
+        "seq": 135715,
+        "groupId": 357,
+        "honorRarity": "high",
+        "name": "Top 100",
+        "assetbundleName": "honor_top_000100",
+        "levels": [
+            {
+                "honorId": 3479,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 100 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3480,
+        "seq": 135716,
+        "groupId": 357,
+        "honorRarity": "high",
+        "name": "Top 200",
+        "assetbundleName": "honor_top_000200",
+        "levels": [
+            {
+                "honorId": 3480,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 200 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3481,
+        "seq": 135717,
+        "groupId": 357,
+        "honorRarity": "high",
+        "name": "Top 300",
+        "assetbundleName": "honor_top_000300",
+        "levels": [
+            {
+                "honorId": 3481,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 300 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3482,
+        "seq": 135718,
+        "groupId": 357,
+        "honorRarity": "high",
+        "name": "Top 400",
+        "assetbundleName": "honor_top_000400",
+        "levels": [
+            {
+                "honorId": 3482,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 400 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3483,
+        "seq": 135719,
+        "groupId": 357,
+        "honorRarity": "high",
+        "name": "Top 500",
+        "assetbundleName": "honor_top_000500",
+        "levels": [
+            {
+                "honorId": 3483,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 500 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3484,
+        "seq": 135720,
+        "groupId": 357,
+        "honorRarity": "high",
+        "name": "Top 1,000",
+        "assetbundleName": "honor_top_001000",
+        "levels": [
+            {
+                "honorId": 3484,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 1,000 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3485,
+        "seq": 135721,
+        "groupId": 357,
+        "honorRarity": "middle",
+        "name": "Top 1,500",
+        "assetbundleName": "honor_top_001500",
+        "levels": [
+            {
+                "honorId": 3485,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 1,500 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3486,
+        "seq": 135722,
+        "groupId": 357,
+        "honorRarity": "middle",
+        "name": "Top 2,000",
+        "assetbundleName": "honor_top_002000",
+        "levels": [
+            {
+                "honorId": 3486,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 2,000 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3487,
+        "seq": 135723,
+        "groupId": 357,
+        "honorRarity": "middle",
+        "name": "Top 2,500",
+        "assetbundleName": "honor_top_002500",
+        "levels": [
+            {
+                "honorId": 3487,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 2,500 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3488,
+        "seq": 135724,
+        "groupId": 357,
+        "honorRarity": "middle",
+        "name": "Top 3,000",
+        "assetbundleName": "honor_top_003000",
+        "levels": [
+            {
+                "honorId": 3488,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 3,000 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3489,
+        "seq": 135725,
+        "groupId": 357,
+        "honorRarity": "middle",
+        "name": "Top 4,000",
+        "assetbundleName": "honor_top_004000",
+        "levels": [
+            {
+                "honorId": 3489,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 4,000 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3490,
+        "seq": 135726,
+        "groupId": 357,
+        "honorRarity": "middle",
+        "name": "Top 5,000",
+        "assetbundleName": "honor_top_005000",
+        "levels": [
+            {
+                "honorId": 3490,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 5,000 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3491,
+        "seq": 135727,
+        "groupId": 357,
+        "honorRarity": "middle",
+        "name": "Top 10,000",
+        "assetbundleName": "honor_top_010000",
+        "levels": [
+            {
+                "honorId": 3491,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 10,000 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3492,
+        "seq": 135728,
+        "groupId": 357,
+        "honorRarity": "low",
+        "name": "Top 20,000",
+        "assetbundleName": "honor_top_020000",
+        "levels": [
+            {
+                "honorId": 3492,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 20,000 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3493,
+        "seq": 135729,
+        "groupId": 357,
+        "honorRarity": "low",
+        "name": "Top 30,000",
+        "assetbundleName": "honor_top_030000",
+        "levels": [
+            {
+                "honorId": 3493,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 30,000 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3494,
+        "seq": 135730,
+        "groupId": 357,
+        "honorRarity": "low",
+        "name": "Top 40,000",
+        "assetbundleName": "honor_top_040000",
+        "levels": [
+            {
+                "honorId": 3494,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 40,000 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3495,
+        "seq": 135731,
+        "groupId": 357,
+        "honorRarity": "low",
+        "name": "Top 50,000",
+        "assetbundleName": "honor_top_050000",
+        "levels": [
+            {
+                "honorId": 3495,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 50,000 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3496,
+        "seq": 135732,
+        "groupId": 357,
+        "honorRarity": "low",
+        "name": "Top 100,000",
+        "assetbundleName": "honor_top_100000",
+        "levels": [
+            {
+                "honorId": 3496,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 100,000 in the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3497,
+        "seq": 135733,
+        "groupId": 357,
+        "honorRarity": "low",
+        "name": "Memorial",
+        "assetbundleName": "honor_memorial",
+        "levels": [
+            {
+                "honorId": 3497,
+                "level": 1,
+                "bonus": 0,
+                "description": "View all story episodes for the event Star of Your Own Story."
+            }
+        ]
+    },
+    {
+        "id": 3498,
+        "seq": 135801,
+        "groupId": 358,
+        "honorRarity": "highest",
+        "name": "1st",
+        "assetbundleName": "honor_top_000001",
+        "levels": [
+            {
+                "honorId": 3498,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 1st in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3499,
+        "seq": 135802,
+        "groupId": 358,
+        "honorRarity": "highest",
+        "name": "2nd",
+        "assetbundleName": "honor_top_000002",
+        "levels": [
+            {
+                "honorId": 3499,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 2nd in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3500,
+        "seq": 135803,
+        "groupId": 358,
+        "honorRarity": "highest",
+        "name": "3rd",
+        "assetbundleName": "honor_top_000003",
+        "levels": [
+            {
+                "honorId": 3500,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 3rd in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3501,
+        "seq": 135804,
+        "groupId": 358,
+        "honorRarity": "highest",
+        "name": "4th",
+        "assetbundleName": "honor_top_000004",
+        "levels": [
+            {
+                "honorId": 3501,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 4th in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3502,
+        "seq": 135805,
+        "groupId": 358,
+        "honorRarity": "highest",
+        "name": "5th",
+        "assetbundleName": "honor_top_000005",
+        "levels": [
+            {
+                "honorId": 3502,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 5th in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3503,
+        "seq": 135806,
+        "groupId": 358,
+        "honorRarity": "highest",
+        "name": "6th",
+        "assetbundleName": "honor_top_000006",
+        "levels": [
+            {
+                "honorId": 3503,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 6th in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3504,
+        "seq": 135807,
+        "groupId": 358,
+        "honorRarity": "highest",
+        "name": "7th",
+        "assetbundleName": "honor_top_000007",
+        "levels": [
+            {
+                "honorId": 3504,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 7th in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3505,
+        "seq": 135808,
+        "groupId": 358,
+        "honorRarity": "highest",
+        "name": "8th",
+        "assetbundleName": "honor_top_000008",
+        "levels": [
+            {
+                "honorId": 3505,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 8th in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3506,
+        "seq": 135809,
+        "groupId": 358,
+        "honorRarity": "highest",
+        "name": "9th",
+        "assetbundleName": "honor_top_000009",
+        "levels": [
+            {
+                "honorId": 3506,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 9th in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3507,
+        "seq": 135810,
+        "groupId": 358,
+        "honorRarity": "highest",
+        "name": "10th",
+        "assetbundleName": "honor_top_000010_v2",
+        "levels": [
+            {
+                "honorId": 3507,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 10th in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3508,
+        "seq": 135811,
+        "groupId": 358,
+        "honorRarity": "high",
+        "name": "Top 20",
+        "assetbundleName": "honor_top_000020",
+        "levels": [
+            {
+                "honorId": 3508,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 20 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3509,
+        "seq": 135812,
+        "groupId": 358,
+        "honorRarity": "high",
+        "name": "Top 30",
+        "assetbundleName": "honor_top_000030",
+        "levels": [
+            {
+                "honorId": 3509,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 30 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3510,
+        "seq": 135813,
+        "groupId": 358,
+        "honorRarity": "high",
+        "name": "Top 40",
+        "assetbundleName": "honor_top_000040",
+        "levels": [
+            {
+                "honorId": 3510,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 40 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3511,
+        "seq": 135814,
+        "groupId": 358,
+        "honorRarity": "high",
+        "name": "Top 50",
+        "assetbundleName": "honor_top_000050",
+        "levels": [
+            {
+                "honorId": 3511,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 50 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3512,
+        "seq": 135815,
+        "groupId": 358,
+        "honorRarity": "high",
+        "name": "Top 100",
+        "assetbundleName": "honor_top_000100",
+        "levels": [
+            {
+                "honorId": 3512,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 100 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3513,
+        "seq": 135816,
+        "groupId": 358,
+        "honorRarity": "high",
+        "name": "Top 200",
+        "assetbundleName": "honor_top_000200",
+        "levels": [
+            {
+                "honorId": 3513,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 200 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3514,
+        "seq": 135817,
+        "groupId": 358,
+        "honorRarity": "high",
+        "name": "Top 300",
+        "assetbundleName": "honor_top_000300",
+        "levels": [
+            {
+                "honorId": 3514,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 300 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3515,
+        "seq": 135818,
+        "groupId": 358,
+        "honorRarity": "high",
+        "name": "Top 400",
+        "assetbundleName": "honor_top_000400",
+        "levels": [
+            {
+                "honorId": 3515,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 400 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3516,
+        "seq": 135819,
+        "groupId": 358,
+        "honorRarity": "high",
+        "name": "Top 500",
+        "assetbundleName": "honor_top_000500",
+        "levels": [
+            {
+                "honorId": 3516,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 500 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3517,
+        "seq": 135820,
+        "groupId": 358,
+        "honorRarity": "high",
+        "name": "Top 1,000",
+        "assetbundleName": "honor_top_001000",
+        "levels": [
+            {
+                "honorId": 3517,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 1,000 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3518,
+        "seq": 135821,
+        "groupId": 358,
+        "honorRarity": "middle",
+        "name": "Top 1,500",
+        "assetbundleName": "honor_top_001500",
+        "levels": [
+            {
+                "honorId": 3518,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 1,500 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3519,
+        "seq": 135822,
+        "groupId": 358,
+        "honorRarity": "middle",
+        "name": "Top 2,000",
+        "assetbundleName": "honor_top_002000",
+        "levels": [
+            {
+                "honorId": 3519,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 2,000 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3520,
+        "seq": 135823,
+        "groupId": 358,
+        "honorRarity": "middle",
+        "name": "Top 2,500",
+        "assetbundleName": "honor_top_002500",
+        "levels": [
+            {
+                "honorId": 3520,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 2,500 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3521,
+        "seq": 135824,
+        "groupId": 358,
+        "honorRarity": "middle",
+        "name": "Top 3,000",
+        "assetbundleName": "honor_top_003000",
+        "levels": [
+            {
+                "honorId": 3521,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 3,000 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3522,
+        "seq": 135825,
+        "groupId": 358,
+        "honorRarity": "middle",
+        "name": "Top 4,000",
+        "assetbundleName": "honor_top_004000",
+        "levels": [
+            {
+                "honorId": 3522,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 4,000 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3523,
+        "seq": 135826,
+        "groupId": 358,
+        "honorRarity": "middle",
+        "name": "Top 5,000",
+        "assetbundleName": "honor_top_005000",
+        "levels": [
+            {
+                "honorId": 3523,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 5,000 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3524,
+        "seq": 135827,
+        "groupId": 358,
+        "honorRarity": "middle",
+        "name": "Top 10,000",
+        "assetbundleName": "honor_top_010000",
+        "levels": [
+            {
+                "honorId": 3524,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 10,000 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3525,
+        "seq": 135828,
+        "groupId": 358,
+        "honorRarity": "low",
+        "name": "Top 20,000",
+        "assetbundleName": "honor_top_020000",
+        "levels": [
+            {
+                "honorId": 3525,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 20,000 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3526,
+        "seq": 135829,
+        "groupId": 358,
+        "honorRarity": "low",
+        "name": "Top 30,000",
+        "assetbundleName": "honor_top_030000",
+        "levels": [
+            {
+                "honorId": 3526,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 30,000 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3527,
+        "seq": 135830,
+        "groupId": 358,
+        "honorRarity": "low",
+        "name": "Top 40,000",
+        "assetbundleName": "honor_top_040000",
+        "levels": [
+            {
+                "honorId": 3527,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 40,000 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3528,
+        "seq": 135831,
+        "groupId": 358,
+        "honorRarity": "low",
+        "name": "Top 50,000",
+        "assetbundleName": "honor_top_050000",
+        "levels": [
+            {
+                "honorId": 3528,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 50,000 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3529,
+        "seq": 135832,
+        "groupId": 358,
+        "honorRarity": "low",
+        "name": "Top 100,000",
+        "assetbundleName": "honor_top_100000",
+        "levels": [
+            {
+                "honorId": 3529,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 100,000 in the event Picture Perfect!"
+            }
+        ]
+    },
+    {
+        "id": 3530,
+        "seq": 135833,
+        "groupId": 358,
+        "honorRarity": "low",
+        "name": "Memorial",
+        "assetbundleName": "honor_memorial",
+        "levels": [
+            {
+                "honorId": 3530,
+                "level": 1,
+                "bonus": 0,
+                "description": "View all story episodes for the event Picture Perfect!"
             }
         ]
     },
