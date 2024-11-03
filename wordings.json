@@ -437,11 +437,11 @@
     },
     {
         "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_INFO",
-        "value": "<color=#ff5599>*Stamps reset every Monday at 4:00 (PDT).</color>"
+        "value": "<color=#ff5599>*Stamps reset every Monday at 4:00 (PST).</color>"
     },
     {
         "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_RESET",
-        "value": "Resets on Monday at 4:00 PDT"
+        "value": "Resets on Monday at 4:00 PST"
     },
     {
         "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT",
@@ -2453,7 +2453,7 @@
     },
     {
         "wordingKey": "MSG_RESET_AT_HOUR",
-        "value": "Resets at {0}:00 PDT"
+        "value": "Resets at {0}:00 PST"
     },
     {
         "wordingKey": "MSG_RESTRICT_MULTILIVE",
@@ -2569,7 +2569,7 @@
     },
     {
         "wordingKey": "MSG_SHOP_MONTHLY_RESET_PERIOD",
-        "value": "Resets day {0} of every month at 00:00 PDT"
+        "value": "Resets day {0} of every month at 00:00 PST"
     },
     {
         "wordingKey": "MSG_SHOP_NUMBER_OF_PURCHASE",
@@ -2601,7 +2601,7 @@
     },
     {
         "wordingKey": "MSG_SHOP_RESET",
-        "value": "Resets on the last day of every month at 00:00 PDT."
+        "value": "Resets on the last day of every month at 00:00 PST."
     },
     {
         "wordingKey": "MSG_SHOP_RE_REFLECT_CONFIRM",
@@ -3417,7 +3417,7 @@
     },
     {
         "wordingKey": "WORD_AGGREGATION_PERIOD_FORMAT",
-        "value": "{0} {1} at {2}:{3:00} (PDT)"
+        "value": "{0} {1} at {2}:{3:00} (PST)"
     },
     {
         "wordingKey": "WORD_ALL",
@@ -6489,7 +6489,7 @@
     },
     {
         "wordingKey": "WORD_LIVE_BOOST_PRESENT_RESET",
-        "value": "Resets at 4:00 PDT"
+        "value": "Resets at 4:00 PST"
     },
     {
         "wordingKey": "WORD_LIVE_BOOST_RECOVER",
@@ -7573,7 +7573,7 @@
     },
     {
         "wordingKey": "WORD_ONCE_A_WEEK_GACHA_END_AT",
-        "value": "Free pull resets every Monday at {0}:00 a.m. (PDT)"
+        "value": "Free pull resets every Monday at {0}:00 a.m. (PST)"
     },
     {
         "wordingKey": "WORD_ONCE_CHECK_AGAIN_LIVE",
