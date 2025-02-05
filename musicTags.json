@@ -5610,6 +5610,12 @@
         "seq": 0
     },
     {
+        "id": 1122,
+        "musicId": 599,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1324,
         "musicId": 382,
         "musicTag": "vocaloid",
@@ -6096,6 +6102,12 @@
         "seq": 1
     },
     {
+        "id": 1516,
+        "musicId": 599,
+        "musicTag": "vocaloid",
+        "seq": 1
+    },
+    {
         "id": 1524,
         "musicId": 464,
         "musicTag": "all",
@@ -6104,12 +6116,6 @@
     {
         "id": 1525,
         "musicId": 464,
-        "musicTag": "vocaloid",
-        "seq": 1
-    },
-    {
-        "id": 1538,
-        "musicId": 593,
         "musicTag": "vocaloid",
         "seq": 1
     }
