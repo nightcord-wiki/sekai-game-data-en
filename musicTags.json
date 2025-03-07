@@ -5358,6 +5358,12 @@
         "seq": 0
     },
     {
+        "id": 924,
+        "musicId": 404,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 925,
         "musicId": 405,
         "musicTag": "all",
@@ -5490,6 +5496,12 @@
         "seq": 0
     },
     {
+        "id": 947,
+        "musicId": 427,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 949,
         "musicId": 429,
         "musicTag": "all",
@@ -5502,6 +5514,12 @@
         "seq": 0
     },
     {
+        "id": 951,
+        "musicId": 431,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 952,
         "musicId": 432,
         "musicTag": "all",
@@ -5510,6 +5528,12 @@
     {
         "id": 953,
         "musicId": 433,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 954,
+        "musicId": 434,
         "musicTag": "all",
         "seq": 0
     },
@@ -5592,6 +5616,12 @@
         "seq": 0
     },
     {
+        "id": 976,
+        "musicId": 456,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 981,
         "musicId": 461,
         "musicTag": "all",
@@ -5600,6 +5630,12 @@
     {
         "id": 983,
         "musicId": 463,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 985,
+        "musicId": 465,
         "musicTag": "all",
         "seq": 0
     },
@@ -5624,6 +5660,12 @@
     {
         "id": 1001,
         "musicId": 481,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 1003,
+        "musicId": 483,
         "musicTag": "all",
         "seq": 0
     },
@@ -6222,10 +6264,52 @@
         "seq": 1
     },
     {
+        "id": 1411,
+        "musicId": 431,
+        "musicTag": "idol",
+        "seq": 4
+    },
+    {
+        "id": 1412,
+        "musicId": 483,
+        "musicTag": "vocaloid",
+        "seq": 1
+    },
+    {
+        "id": 1413,
+        "musicId": 427,
+        "musicTag": "vocaloid",
+        "seq": 1
+    },
+    {
         "id": 1414,
         "musicId": 470,
         "musicTag": "vocaloid",
         "seq": 1
+    },
+    {
+        "id": 1415,
+        "musicId": 465,
+        "musicTag": "vocaloid",
+        "seq": 1
+    },
+    {
+        "id": 1416,
+        "musicId": 434,
+        "musicTag": "theme_park",
+        "seq": 2
+    },
+    {
+        "id": 1417,
+        "musicId": 456,
+        "musicTag": "light_music_club",
+        "seq": 6
+    },
+    {
+        "id": 1418,
+        "musicId": 404,
+        "musicTag": "street",
+        "seq": 3
     },
     {
         "id": 1442,
