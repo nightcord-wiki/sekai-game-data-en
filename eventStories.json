@@ -16228,5 +16228,134 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 126,
+        "eventId": 126,
+        "outline": "On one of his daily runs, Akito has an encounter with a dog and his owner. The pair has been training day by day in the hopes of one day winning a national disc dog competition. But the day before their next competition, this dog owner sprains his ankle...",
+        "bannerGameCharacterUnitId": 11,
+        "assetbundleName": "event_rise_2024",
+        "eventStoryEpisodes": [
+            {
+                "id": 1001015,
+                "eventStoryId": 126,
+                "episodeNo": 1,
+                "title": "As Partners",
+                "assetbundleName": "event_rise_2024_01",
+                "scenarioId": "event_126_01",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001016,
+                "eventStoryId": 126,
+                "episodeNo": 2,
+                "title": "Pooch Party",
+                "assetbundleName": "event_rise_2024_02",
+                "scenarioId": "event_126_02",
+                "releaseConditionId": 112501,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001017,
+                "eventStoryId": 126,
+                "episodeNo": 3,
+                "title": "Behind His Refusal",
+                "assetbundleName": "event_rise_2024_03",
+                "scenarioId": "event_126_03",
+                "releaseConditionId": 112502,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001018,
+                "eventStoryId": 126,
+                "episodeNo": 4,
+                "title": "Instinctive Fear",
+                "assetbundleName": "event_rise_2024_04",
+                "scenarioId": "event_126_04",
+                "releaseConditionId": 112503,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001019,
+                "eventStoryId": 126,
+                "episodeNo": 5,
+                "title": "The Antidote to Fear",
+                "assetbundleName": "event_rise_2024_05",
+                "scenarioId": "event_126_05",
+                "releaseConditionId": 112504,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001020,
+                "eventStoryId": 126,
+                "episodeNo": 6,
+                "title": "To Understand Max",
+                "assetbundleName": "event_rise_2024_06",
+                "scenarioId": "event_126_06",
+                "releaseConditionId": 112505,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001021,
+                "eventStoryId": 126,
+                "episodeNo": 7,
+                "title": "A Tall Order",
+                "assetbundleName": "event_rise_2024_07",
+                "scenarioId": "event_126_07",
+                "releaseConditionId": 112506,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001022,
+                "eventStoryId": 126,
+                "episodeNo": 8,
+                "title": "A Howl Mary Play",
+                "assetbundleName": "event_rise_2024_08",
+                "scenarioId": "event_126_08",
+                "releaseConditionId": 112507,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 79
+                    }
+                ]
+            }
+        ]
     }
 ]

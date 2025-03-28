@@ -385,6 +385,13 @@
         "toUserRank": 999
     },
     {
+        "id": 139,
+        "title": "CM機能",
+        "description": "You can earn rewards every day by watching in-game ads.",
+        "fromUserRank": 1,
+        "toUserRank": 999
+    },
+    {
         "id": 1041,
         "title": "What \"Going Pro\" Means",
         "assetbundleName": "comic_0041",

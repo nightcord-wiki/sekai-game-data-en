@@ -1355,6 +1355,59 @@
         ]
     },
     {
+        "id": 89,
+        "seq": 89,
+        "name": "JP 3.5 Year Anniversary Login Campaign",
+        "startAt": 1743361200000,
+        "endAt": 1744455599000,
+        "assetbundleName": "3.5th_anniversary",
+        "closeAt": 1743937200000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 193,
+                "limitedLoginBonusId": 89,
+                "day": 1,
+                "resourceBoxId": 115
+            },
+            {
+                "id": 194,
+                "limitedLoginBonusId": 89,
+                "day": 2,
+                "resourceBoxId": 116
+            },
+            {
+                "id": 195,
+                "limitedLoginBonusId": 89,
+                "day": 3,
+                "resourceBoxId": 116
+            },
+            {
+                "id": 196,
+                "limitedLoginBonusId": 89,
+                "day": 4,
+                "resourceBoxId": 116
+            },
+            {
+                "id": 197,
+                "limitedLoginBonusId": 89,
+                "day": 5,
+                "resourceBoxId": 116
+            },
+            {
+                "id": 198,
+                "limitedLoginBonusId": 89,
+                "day": 6,
+                "resourceBoxId": 116
+            },
+            {
+                "id": 199,
+                "limitedLoginBonusId": 89,
+                "day": 7,
+                "resourceBoxId": 116
+            }
+        ]
+    },
+    {
         "id": 1001,
         "seq": 1001,
         "name": "OBT特別ログインボーナス",

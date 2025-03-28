@@ -1856,6 +1856,14 @@
         "convertResourceBoxId": 2
     },
     {
+        "id": 299,
+        "gachaId": 489,
+        "name": "JP 3.5Y Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1746903600000,
+        "convertResourceBoxId": 2
+    },
+    {
         "id": 1025,
         "gachaId": 1025,
         "name": "[It's Back] Colorful Festival Gacha Sticker",

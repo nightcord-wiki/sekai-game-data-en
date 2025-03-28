@@ -1870,6 +1870,18 @@
         "backgroundAssetbundleName": "honor_bg_event_concerto"
     },
     {
+        "id": 384,
+        "name": "Rise as One!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_rise"
+    },
+    {
+        "id": 385,
+        "name": "Ranked Matches Spring 2025",
+        "honorType": "rank_match",
+        "backgroundAssetbundleName": "season_2024_spring"
+    },
+    {
         "id": 387,
         "name": "COLORFUL STAGE! World Championship 2024 Spring",
         "honorType": "event"

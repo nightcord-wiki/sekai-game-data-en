@@ -336,5 +336,18 @@
             300523,
             300524
         ]
+    },
+    {
+        "id": 31,
+        "name": "Spring Costumes",
+        "assetbundleName": "shop_300530",
+        "seq": 300530,
+        "billingShopItemIds": [
+            300530,
+            300531,
+            300532,
+            300533,
+            300534
+        ]
     }
 ]
