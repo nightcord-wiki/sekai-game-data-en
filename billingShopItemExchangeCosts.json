@@ -2595,12 +2595,5 @@
         "resourceType": "paid_jewel",
         "resourceId": 1,
         "quantity": 1000
-    },
-    {
-        "id": 99999999,
-        "billingShopItemId": 999997,
-        "resourceType": "paid_jewel",
-        "resourceId": 1,
-        "quantity": 1500
     }
 ]
