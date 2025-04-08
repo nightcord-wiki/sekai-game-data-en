@@ -8042,6 +8042,30 @@
         "description": "Join the Rise as One! After Show."
     },
     {
+        "id": 736,
+        "stampType": "illustration",
+        "seq": 9940,
+        "name": "[Stamp] Ena: Five more minutes...",
+        "assetbundleName": "stamp0736",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 19,
+        "gameCharacterUnitId": 19,
+        "archivePublishedAt": 1744322400000,
+        "description": "Join the Knowing the Unseen After Show."
+    },
+    {
+        "id": 737,
+        "stampType": "illustration",
+        "seq": 9950,
+        "name": "[Stamp] Saki: What should I do?",
+        "assetbundleName": "stamp0737",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 2,
+        "gameCharacterUnitId": 2,
+        "archivePublishedAt": 1745186400000,
+        "description": "Join the Parallel Harmonies After Show."
+    },
+    {
         "id": 741,
         "stampType": "illustration",
         "seq": 9620,

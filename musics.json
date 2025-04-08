@@ -949,7 +949,8 @@
         "seq": 1502501,
         "releaseConditionId": 5,
         "categories": [
-            "mv"
+            "mv",
+            "mv_2d"
         ],
         "title": "Dance Robot Dance",
         "pronunciation": "dancerobotdance",
@@ -6947,7 +6948,7 @@
         "seq": 1329101,
         "releaseConditionId": 5,
         "categories": [
-            "image"
+            "mv_2d"
         ],
         "title": "Booo!",
         "pronunciation": "booo",
@@ -8052,7 +8053,8 @@
         "seq": 2738001,
         "releaseConditionId": 10,
         "categories": [
-            "mv"
+            "mv",
+            "mv_2d"
         ],
         "title": "NEO",
         "pronunciation": "neo",
@@ -9780,6 +9782,54 @@
         "isFullLength": false
     },
     {
+        "id": 441,
+        "seq": 1448101,
+        "releaseConditionId": 5,
+        "categories": [
+            "mv"
+        ],
+        "title": "Yoidore Shirazu",
+        "pronunciation": "yoidoreshirazu",
+        "creatorArtistId": 77,
+        "lyricist": "Kanaria",
+        "composer": "Kanaria",
+        "arranger": "Kanaria",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_441",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1744754400000,
+        "releasedAt": 1651478400000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 442,
+        "seq": 2248401,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv"
+        ],
+        "title": "Suresure",
+        "pronunciation": "suresure",
+        "creatorArtistId": 156,
+        "lyricist": "Scop",
+        "composer": "Scop",
+        "arranger": "Scop",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_442",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1745906700000,
+        "releasedAt": 1714291200000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
         "id": 444,
         "seq": 1144401,
         "releaseConditionId": 5,
@@ -10403,6 +10453,78 @@
         "releasedAt": 1424851200000,
         "liveStageId": 1,
         "fillerSec": 7.08519983291626,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 486,
+        "seq": 1148201,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Ogyarinizer",
+        "pronunciation": "ogyarinizer",
+        "creatorArtistId": 143,
+        "lyricist": "Ponchi♪",
+        "composer": "Ponchi♪",
+        "arranger": "Ponchi♪",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_486",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1745100000000,
+        "releasedAt": 1698652800000,
+        "liveStageId": 1,
+        "fillerSec": 8.164999961853027,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 492,
+        "seq": 2648001,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv_2d"
+        ],
+        "title": "I'm the Rain",
+        "pronunciation": "i'mtherain",
+        "creatorArtistId": 224,
+        "lyricist": "inabakumori",
+        "composer": "inabakumori",
+        "arranger": "inabakumori",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_492",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1744322400000,
+        "releasedAt": 1712736000000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 496,
+        "seq": 1148301,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Silver Collector",
+        "pronunciation": "silvercollector",
+        "creatorArtistId": 238,
+        "lyricist": "Shu",
+        "composer": "Shu",
+        "arranger": "Shu",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_496",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1745359200000,
+        "releasedAt": 1706601600000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
         "isNewlyWrittenMusic": false,
         "isFullLength": false
     },

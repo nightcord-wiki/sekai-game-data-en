@@ -6319,6 +6319,83 @@
         "releaseConditionTypeLevel": 30
     },
     {
+        "id": 30903,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 903,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30904,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 904,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30905,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 905,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30906,
+        "sentence": "View Part 1 and reach Level 50 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 906,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 30907,
+        "sentence": "View Part 1 and reach Level 30 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 907,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 30908,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 908,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30909,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 909,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30910,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 910,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30911,
+        "sentence": "View Part 1 and reach Level 60 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 911,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30912,
+        "sentence": "View Part 1 and reach Level 50 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 912,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 30913,
+        "sentence": "View Part 1 and reach Level 30 to unlock.",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 913,
+        "releaseConditionTypeLevel": 30
+    },
+    {
         "id": 40001,
         "sentence": "Clear on EXPERT with 7 or fewer GOOD or lower taps.",
         "releaseConditionType": "music_difficulty_better_play",
@@ -21717,6 +21794,174 @@
         "releaseConditionTypeLevel": 5
     },
     {
+        "id": 63860,
+        "sentence": "Obtain \"The Emotions In The Art\" Ena Shinonome.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 903,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63861,
+        "sentence": "Reach Mastery Rank 1 with \"The Emotions In The Art\" Ena Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 903,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63862,
+        "sentence": "Reach Mastery Rank 3 with \"The Emotions In The Art\" Ena Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 903,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63863,
+        "sentence": "Reach Mastery Rank 5 with \"The Emotions In The Art\" Ena Shinonome to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 903,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63870,
+        "sentence": "Obtain \"Leisurely Preparations\" Mafuyu Asahina.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 904,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63871,
+        "sentence": "Reach Mastery Rank 1 with \"Leisurely Preparations\" Mafuyu Asahina to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 904,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63872,
+        "sentence": "Reach Mastery Rank 3 with \"Leisurely Preparations\" Mafuyu Asahina to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 904,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63873,
+        "sentence": "Reach Mastery Rank 5 with \"Leisurely Preparations\" Mafuyu Asahina to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 904,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63880,
+        "sentence": "Obtain \"An Intriguing Exhibition\" Kagamine Len.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 905,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63881,
+        "sentence": "Reach Mastery Rank 1 with \"An Intriguing Exhibition\" Kagamine Len to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 905,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63882,
+        "sentence": "Reach Mastery Rank 3 with \"An Intriguing Exhibition\" Kagamine Len to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 905,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63883,
+        "sentence": "Reach Mastery Rank 5 with \"An Intriguing Exhibition\" Kagamine Len to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 905,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63890,
+        "sentence": "Obtain \"In My Empty Room\" Saki Tenma.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 909,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63891,
+        "sentence": "Reach Mastery Rank 1 with \"In My Empty Room\" Saki Tenma to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 909,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63892,
+        "sentence": "Reach Mastery Rank 3 with \"In My Empty Room\" Saki Tenma to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 909,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63893,
+        "sentence": "Reach Mastery Rank 5 with \"In My Empty Room\" Saki Tenma to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 909,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63900,
+        "sentence": "Obtain \"Snacks In Hand\" Shiho Hinomori.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 910,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63901,
+        "sentence": "Reach Mastery Rank 1 with \"Snacks In Hand\" Shiho Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 910,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63902,
+        "sentence": "Reach Mastery Rank 3 with \"Snacks In Hand\" Shiho Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 910,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63903,
+        "sentence": "Reach Mastery Rank 5 with \"Snacks In Hand\" Shiho Hinomori to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 910,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63910,
+        "sentence": "Obtain \"Who We Are\" MEIKO.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 911,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63911,
+        "sentence": "Reach Mastery Rank 1 with \"Who We Are\" MEIKO to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 911,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63912,
+        "sentence": "Reach Mastery Rank 3 with \"Who We Are\" MEIKO to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 911,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63913,
+        "sentence": "Reach Mastery Rank 5 with \"Who We Are\" MEIKO to unlock.",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 911,
+        "releaseConditionTypeLevel": 5
+    },
+    {
         "id": 70001,
         "sentence": "Reach Character Rank 1 to unlock.",
         "releaseConditionType": "character_rank",
@@ -29389,6 +29634,116 @@
         "sentence": "View episode 8 of Rise as One!",
         "releaseConditionType": "event_story",
         "releaseConditionTypeId": 1001022
+    },
+    {
+        "id": 112601,
+        "sentence": "Earn 12,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 127,
+        "releaseConditionTypeQuantity": 12000
+    },
+    {
+        "id": 112602,
+        "sentence": "Earn 32,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 127,
+        "releaseConditionTypeQuantity": 32000
+    },
+    {
+        "id": 112603,
+        "sentence": "Earn 52,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 127,
+        "releaseConditionTypeQuantity": 52000
+    },
+    {
+        "id": 112604,
+        "sentence": "Earn 76,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 127,
+        "releaseConditionTypeQuantity": 76000
+    },
+    {
+        "id": 112605,
+        "sentence": "Earn 100,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 127,
+        "releaseConditionTypeQuantity": 100000
+    },
+    {
+        "id": 112606,
+        "sentence": "Earn 125,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 127,
+        "releaseConditionTypeQuantity": 125000
+    },
+    {
+        "id": 112607,
+        "sentence": "Earn 150,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 127,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 112608,
+        "sentence": "View episode 8 of Knowing the Unseen.",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1001030
+    },
+    {
+        "id": 112701,
+        "sentence": "Earn 12,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 128,
+        "releaseConditionTypeQuantity": 12000
+    },
+    {
+        "id": 112702,
+        "sentence": "Earn 32,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 128,
+        "releaseConditionTypeQuantity": 32000
+    },
+    {
+        "id": 112703,
+        "sentence": "Earn 52,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 128,
+        "releaseConditionTypeQuantity": 52000
+    },
+    {
+        "id": 112704,
+        "sentence": "Earn 76,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 128,
+        "releaseConditionTypeQuantity": 76000
+    },
+    {
+        "id": 112705,
+        "sentence": "Earn 100,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 128,
+        "releaseConditionTypeQuantity": 100000
+    },
+    {
+        "id": 112706,
+        "sentence": "Earn 125,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 128,
+        "releaseConditionTypeQuantity": 125000
+    },
+    {
+        "id": 112707,
+        "sentence": "Earn 150,000 Event Pts.",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 128,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 112708,
+        "sentence": "View episode 8 of Parallel Harmonies.",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1001038
     },
     {
         "id": 800001,
