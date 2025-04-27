@@ -392,6 +392,13 @@
         "toUserRank": 999
     },
     {
+        "id": 140,
+        "title": "フルコンボ・ALL PERFECT専用のライブリザルトセリフ",
+        "description": "If you achieve a Full Combo or All Perfect, you will hear a special voice line on the results screen.",
+        "fromUserRank": 1,
+        "toUserRank": 999
+    },
+    {
         "id": 1041,
         "title": "What \"Going Pro\" Means",
         "assetbundleName": "comic_0041",

@@ -5913,7 +5913,7 @@
     },
     {
         "id": 276,
-        "seq": 1431701,
+        "seq": 1431401,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -6681,7 +6681,7 @@
     },
     {
         "id": 309,
-        "seq": 1133601,
+        "seq": 1133101,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7041,7 +7041,7 @@
     },
     {
         "id": 324,
-        "seq": 2532001,
+        "seq": 2531601,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -7065,7 +7065,7 @@
     },
     {
         "id": 325,
-        "seq": 1139001,
+        "seq": 1138501,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7402,7 +7402,7 @@
     },
     {
         "id": 339,
-        "seq": 1233001,
+        "seq": 1232501,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7426,7 +7426,7 @@
     },
     {
         "id": 340,
-        "seq": 1633201,
+        "seq": 1632701,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7450,7 +7450,7 @@
     },
     {
         "id": 341,
-        "seq": 1142801,
+        "seq": 1142301,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7522,7 +7522,7 @@
     },
     {
         "id": 344,
-        "seq": 1434601,
+        "seq": 1434101,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7546,7 +7546,7 @@
     },
     {
         "id": 345,
-        "seq": 2634301,
+        "seq": 2633801,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -7570,7 +7570,7 @@
     },
     {
         "id": 346,
-        "seq": 1532501,
+        "seq": 1532001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -7762,7 +7762,7 @@
     },
     {
         "id": 354,
-        "seq": 1331501,
+        "seq": 1331301,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -7786,7 +7786,7 @@
     },
     {
         "id": 355,
-        "seq": 1337101,
+        "seq": 1336601,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7810,7 +7810,7 @@
     },
     {
         "id": 356,
-        "seq": 2435901,
+        "seq": 2435401,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -7858,7 +7858,7 @@
     },
     {
         "id": 358,
-        "seq": 1636301,
+        "seq": 1635801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7906,7 +7906,7 @@
     },
     {
         "id": 360,
-        "seq": 1533901,
+        "seq": 1533401,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -7930,7 +7930,7 @@
     },
     {
         "id": 361,
-        "seq": 1333501,
+        "seq": 1333001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8002,7 +8002,7 @@
     },
     {
         "id": 364,
-        "seq": 1131901,
+        "seq": 1131501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8026,7 +8026,7 @@
     },
     {
         "id": 365,
-        "seq": 1439201,
+        "seq": 1438701,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8050,7 +8050,7 @@
     },
     {
         "id": 366,
-        "seq": 2738001,
+        "seq": 2737501,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -8075,7 +8075,7 @@
     },
     {
         "id": 367,
-        "seq": 1539701,
+        "seq": 1539201,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -8099,7 +8099,7 @@
     },
     {
         "id": 368,
-        "seq": 2138101,
+        "seq": 2137601,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -8123,7 +8123,7 @@
     },
     {
         "id": 369,
-        "seq": 1338701,
+        "seq": 1338201,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8147,7 +8147,7 @@
     },
     {
         "id": 370,
-        "seq": 1132101,
+        "seq": 1131701,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8195,7 +8195,7 @@
     },
     {
         "id": 372,
-        "seq": 1238301,
+        "seq": 1237801,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8219,7 +8219,7 @@
     },
     {
         "id": 373,
-        "seq": 2432301,
+        "seq": 2431801,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -8243,7 +8243,7 @@
     },
     {
         "id": 374,
-        "seq": 2332801,
+        "seq": 2332301,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -8267,7 +8267,7 @@
     },
     {
         "id": 375,
-        "seq": 2234401,
+        "seq": 2233901,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -8291,7 +8291,7 @@
     },
     {
         "id": 376,
-        "seq": 1540801,
+        "seq": 1540301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8315,7 +8315,7 @@
     },
     {
         "id": 377,
-        "seq": 1340701,
+        "seq": 1340201,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -8339,7 +8339,7 @@
     },
     {
         "id": 378,
-        "seq": 1643001,
+        "seq": 1642501,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8363,7 +8363,7 @@
     },
     {
         "id": 379,
-        "seq": 1135401,
+        "seq": 1134901,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8387,7 +8387,7 @@
     },
     {
         "id": 380,
-        "seq": 1132601,
+        "seq": 1132101,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8411,7 +8411,7 @@
     },
     {
         "id": 381,
-        "seq": 1135201,
+        "seq": 1134701,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8435,7 +8435,7 @@
     },
     {
         "id": 382,
-        "seq": 1134001,
+        "seq": 1133501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8459,7 +8459,7 @@
     },
     {
         "id": 383,
-        "seq": 2241001,
+        "seq": 2240501,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -8484,7 +8484,7 @@
     },
     {
         "id": 384,
-        "seq": 2641401,
+        "seq": 2640901,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -8509,7 +8509,7 @@
     },
     {
         "id": 385,
-        "seq": 1640201,
+        "seq": 1639701,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8533,7 +8533,7 @@
     },
     {
         "id": 386,
-        "seq": 2536001,
+        "seq": 2535501,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -8581,7 +8581,7 @@
     },
     {
         "id": 388,
-        "seq": 1142501,
+        "seq": 1142001,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -8605,7 +8605,7 @@
     },
     {
         "id": 390,
-        "seq": 1140401,
+        "seq": 1139901,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8629,7 +8629,7 @@
     },
     {
         "id": 391,
-        "seq": 1642001,
+        "seq": 1641501,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8653,7 +8653,7 @@
     },
     {
         "id": 392,
-        "seq": 1441601,
+        "seq": 1441101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8677,7 +8677,7 @@
     },
     {
         "id": 393,
-        "seq": 2137401,
+        "seq": 2136901,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8701,7 +8701,7 @@
     },
     {
         "id": 394,
-        "seq": 2136101,
+        "seq": 2135601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8725,7 +8725,7 @@
     },
     {
         "id": 395,
-        "seq": 1235701,
+        "seq": 1235201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8749,7 +8749,7 @@
     },
     {
         "id": 397,
-        "seq": 2542301,
+        "seq": 2541801,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -8774,7 +8774,7 @@
     },
     {
         "id": 398,
-        "seq": 2442601,
+        "seq": 2442101,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -8799,7 +8799,7 @@
     },
     {
         "id": 399,
-        "seq": 1135501,
+        "seq": 1135001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8823,7 +8823,7 @@
     },
     {
         "id": 400,
-        "seq": 2334901,
+        "seq": 2334401,
         "releaseConditionId": 5,
         "categories": [
             "mv_2d"
@@ -8847,7 +8847,7 @@
     },
     {
         "id": 401,
-        "seq": 1138501,
+        "seq": 1138001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8871,7 +8871,7 @@
     },
     {
         "id": 402,
-        "seq": 1643801,
+        "seq": 1643301,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -8895,7 +8895,7 @@
     },
     {
         "id": 403,
-        "seq": 1139901,
+        "seq": 1139401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8919,7 +8919,7 @@
     },
     {
         "id": 404,
-        "seq": 2447401,
+        "seq": 2446901,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -8943,7 +8943,7 @@
     },
     {
         "id": 405,
-        "seq": 2344901,
+        "seq": 2344401,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -8967,7 +8967,7 @@
     },
     {
         "id": 406,
-        "seq": 2141701,
+        "seq": 2141201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8991,7 +8991,7 @@
     },
     {
         "id": 407,
-        "seq": 1243201,
+        "seq": 1242701,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9015,7 +9015,7 @@
     },
     {
         "id": 408,
-        "seq": 1136901,
+        "seq": 1136401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9039,7 +9039,7 @@
     },
     {
         "id": 409,
-        "seq": 2643301,
+        "seq": 2642801,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -9063,7 +9063,7 @@
     },
     {
         "id": 410,
-        "seq": 1444701,
+        "seq": 1444201,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -9087,7 +9087,7 @@
     },
     {
         "id": 411,
-        "seq": 2545301,
+        "seq": 2544801,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -9111,7 +9111,7 @@
     },
     {
         "id": 412,
-        "seq": 1139401,
+        "seq": 1138901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9135,7 +9135,7 @@
     },
     {
         "id": 413,
-        "seq": 1342401,
+        "seq": 1341901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9159,7 +9159,7 @@
     },
     {
         "id": 414,
-        "seq": 1136801,
+        "seq": 1136301,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9183,7 +9183,7 @@
     },
     {
         "id": 415,
-        "seq": 1137601,
+        "seq": 1137101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9207,7 +9207,7 @@
     },
     {
         "id": 416,
-        "seq": 2145701,
+        "seq": 2145201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9231,7 +9231,7 @@
     },
     {
         "id": 417,
-        "seq": 1344001,
+        "seq": 1343501,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9255,7 +9255,7 @@
     },
     {
         "id": 418,
-        "seq": 1443401,
+        "seq": 1442901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9327,7 +9327,7 @@
     },
     {
         "id": 421,
-        "seq": 2440001,
+        "seq": 2439501,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -9351,7 +9351,7 @@
     },
     {
         "id": 422,
-        "seq": 2346101,
+        "seq": 2345601,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -9375,7 +9375,7 @@
     },
     {
         "id": 423,
-        "seq": 2245901,
+        "seq": 2245401,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -9399,7 +9399,7 @@
     },
     {
         "id": 424,
-        "seq": 2246301,
+        "seq": 2245801,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -9423,7 +9423,7 @@
     },
     {
         "id": 425,
-        "seq": 1140501,
+        "seq": 1140001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9447,7 +9447,7 @@
     },
     {
         "id": 426,
-        "seq": 1141801,
+        "seq": 1141301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9471,7 +9471,7 @@
     },
     {
         "id": 427,
-        "seq": 2147001,
+        "seq": 2146501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9494,8 +9494,32 @@
         "isFullLength": false
     },
     {
+        "id": 428,
+        "seq": 2148701,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Tokimeki Jet Coaster",
+        "pronunciation": "tokimekijetcoaster",
+        "creatorArtistId": 243,
+        "lyricist": "picco",
+        "composer": "picco",
+        "arranger": "picco",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_428",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1746914400000,
+        "releasedAt": 1692864000000,
+        "liveStageId": 1,
+        "fillerSec": 8.04170036315918,
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
         "id": 429,
-        "seq": 2341201,
+        "seq": 2340701,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -9519,7 +9543,7 @@
     },
     {
         "id": 430,
-        "seq": 1143901,
+        "seq": 1143401,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9543,7 +9567,7 @@
     },
     {
         "id": 431,
-        "seq": 1346702,
+        "seq": 1346202,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -9567,7 +9591,7 @@
     },
     {
         "id": 432,
-        "seq": 1543601,
+        "seq": 1543101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9591,7 +9615,7 @@
     },
     {
         "id": 433,
-        "seq": 1143701,
+        "seq": 1143201,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9615,7 +9639,7 @@
     },
     {
         "id": 434,
-        "seq": 1547201,
+        "seq": 1546701,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -9639,7 +9663,7 @@
     },
     {
         "id": 435,
-        "seq": 1144901,
+        "seq": 1144401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9663,7 +9687,7 @@
     },
     {
         "id": 436,
-        "seq": 1546001,
+        "seq": 1545501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9687,7 +9711,7 @@
     },
     {
         "id": 437,
-        "seq": 1444801,
+        "seq": 1444301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9711,7 +9735,7 @@
     },
     {
         "id": 438,
-        "seq": 1244101,
+        "seq": 1243601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9735,7 +9759,7 @@
     },
     {
         "id": 439,
-        "seq": 1143501,
+        "seq": 1143001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9759,7 +9783,7 @@
     },
     {
         "id": 440,
-        "seq": 2142701,
+        "seq": 2142201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9783,7 +9807,7 @@
     },
     {
         "id": 441,
-        "seq": 1448101,
+        "seq": 1447601,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -9807,7 +9831,7 @@
     },
     {
         "id": 442,
-        "seq": 2248401,
+        "seq": 2247901,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -9831,7 +9855,7 @@
     },
     {
         "id": 444,
-        "seq": 1144401,
+        "seq": 1143901,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9879,7 +9903,7 @@
     },
     {
         "id": 446,
-        "seq": 1142901,
+        "seq": 1142401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9903,7 +9927,7 @@
     },
     {
         "id": 447,
-        "seq": 3744201,
+        "seq": 3743701,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9928,7 +9952,7 @@
     },
     {
         "id": 448,
-        "seq": 3744301,
+        "seq": 3743801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9953,7 +9977,7 @@
     },
     {
         "id": 449,
-        "seq": 3744601,
+        "seq": 3744101,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9978,7 +10002,7 @@
     },
     {
         "id": 452,
-        "seq": 2544501,
+        "seq": 2544001,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -10026,7 +10050,7 @@
     },
     {
         "id": 454,
-        "seq": 1147501,
+        "seq": 1147001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10050,7 +10074,7 @@
     },
     {
         "id": 455,
-        "seq": 1646401,
+        "seq": 1645901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10074,7 +10098,7 @@
     },
     {
         "id": 456,
-        "seq": 1247301,
+        "seq": 1246801,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10122,7 +10146,7 @@
     },
     {
         "id": 461,
-        "seq": 1145001,
+        "seq": 1144501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10146,7 +10170,7 @@
     },
     {
         "id": 462,
-        "seq": 1147601,
+        "seq": 1147101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10170,7 +10194,7 @@
     },
     {
         "id": 463,
-        "seq": 1145401,
+        "seq": 1144901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10218,7 +10242,7 @@
     },
     {
         "id": 465,
-        "seq": 2147101,
+        "seq": 2146601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10242,7 +10266,7 @@
     },
     {
         "id": 466,
-        "seq": 1147801,
+        "seq": 1147301,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10266,7 +10290,7 @@
     },
     {
         "id": 467,
-        "seq": 1147701,
+        "seq": 1147201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10290,7 +10314,7 @@
     },
     {
         "id": 468,
-        "seq": 1145501,
+        "seq": 1145001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10314,7 +10338,7 @@
     },
     {
         "id": 469,
-        "seq": 1646201,
+        "seq": 1645701,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10338,7 +10362,7 @@
     },
     {
         "id": 470,
-        "seq": 1146601,
+        "seq": 1146101,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -10385,8 +10409,32 @@
         "isFullLength": false
     },
     {
+        "id": 480,
+        "seq": 1548501,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Mischievous Function",
+        "pronunciation": "mischievousfunction",
+        "creatorArtistId": 242,
+        "lyricist": "GojimajiP",
+        "composer": "GojimajiP",
+        "arranger": "GojimajiP",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_480",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1746655200000,
+        "releasedAt": 1285833600000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 481,
-        "seq": 1146501,
+        "seq": 1146001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10410,7 +10458,7 @@
     },
     {
         "id": 483,
-        "seq": 1146801,
+        "seq": 1146301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10434,7 +10482,7 @@
     },
     {
         "id": 485,
-        "seq": 1147901,
+        "seq": 1147401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10458,7 +10506,7 @@
     },
     {
         "id": 486,
-        "seq": 1148201,
+        "seq": 1147701,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10482,7 +10530,7 @@
     },
     {
         "id": 492,
-        "seq": 2648001,
+        "seq": 2647501,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -10506,7 +10554,7 @@
     },
     {
         "id": 496,
-        "seq": 1148301,
+        "seq": 1147801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10529,8 +10577,107 @@
         "isFullLength": false
     },
     {
+        "id": 497,
+        "seq": 2448101,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv_2d"
+        ],
+        "title": "Blazing",
+        "pronunciation": "blazing",
+        "creatorArtistId": 239,
+        "lyricist": "niki",
+        "composer": "niki",
+        "arranger": "niki",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_497",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1746050400000,
+        "releasedAt": 1714464000000,
+        "liveStageId": 1,
+        "fillerSec": 8.543999671936035,
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 501,
+        "seq": 1648301,
+        "releaseConditionId": 5,
+        "categories": [
+            "mv_2d"
+        ],
+        "title": "Bad Apple!! feat.SEKAI",
+        "pronunciation": "badapplefeatsekai",
+        "creatorArtistId": 241,
+        "lyricist": "Haruka",
+        "composer": "ZUN(Team Shanghai Alice)",
+        "arranger": "beatMARIO x MARON / marasy / Masayoshi Minoshima",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_501",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1746396000000,
+        "releasedAt": 1714809600000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "musicCollaborationId": 6,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 502,
+        "seq": 1148401,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Help me, ERINNNNNN!!",
+        "pronunciation": "helpmeerinnnnnn",
+        "creatorArtistId": 240,
+        "lyricist": "beatMARIO",
+        "composer": "ZUN(Team Shanghai Alice)",
+        "arranger": "beatMARIO x MARON",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_502",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1746482400000,
+        "releasedAt": 1714896000000,
+        "liveStageId": 1,
+        "fillerSec": 9.140999794006348,
+        "musicCollaborationId": 6,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 503,
+        "seq": 3748201,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Chou Saishuu Kichiku Imouto Flandre S",
+        "pronunciation": "chousaishuukichikuimoutoflandres",
+        "creatorArtistId": 240,
+        "lyricist": "-",
+        "composer": "ZUN(Team Shanghai Alice)",
+        "arranger": "beatMARIO x MARON",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_503",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1746309600000,
+        "releasedAt": 1714723200000,
+        "liveStageId": 1,
+        "fillerSec": 9.071000099182129,
+        "musicCollaborationId": 6,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 514,
-        "seq": 1137801,
+        "seq": 1137301,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -10554,7 +10701,7 @@
     },
     {
         "id": 528,
-        "seq": 1134801,
+        "seq": 1134301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10578,7 +10725,7 @@
     },
     {
         "id": 535,
-        "seq": 1136601,
+        "seq": 1136101,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10602,7 +10749,7 @@
     },
     {
         "id": 552,
-        "seq": 1141101,
+        "seq": 1140601,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10626,7 +10773,7 @@
     },
     {
         "id": 563,
-        "seq": 1143101,
+        "seq": 1142601,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -10650,7 +10797,7 @@
     },
     {
         "id": 568,
-        "seq": 1142201,
+        "seq": 1141701,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10673,8 +10820,58 @@
         "isFullLength": false
     },
     {
+        "id": 573,
+        "seq": 2148001,
+        "releaseConditionId": 10,
+        "categories": [
+            "image"
+        ],
+        "title": "The Future of Beginning",
+        "pronunciation": "thefutureofbeginning",
+        "creatorArtistId": 267,
+        "lyricist": "40mP × sasakure.UK",
+        "composer": "40mP × sasakure.UK",
+        "arranger": "40mP × sasakure.UK",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_573",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1745964000000,
+        "releasedAt": 1735372800000,
+        "liveStageId": 1,
+        "fillerSec": 8.230799674987793,
+        "musicCollaborationId": 8,
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 576,
+        "seq": 2448601,
+        "releaseConditionId": 10,
+        "categories": [
+            "image"
+        ],
+        "title": "Fire Dance",
+        "pronunciation": "firedance",
+        "creatorArtistId": 4,
+        "lyricist": "DECO*27",
+        "composer": "DECO*27",
+        "arranger": "Giga",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_576",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1746752400000,
+        "releasedAt": 1737100800000,
+        "liveStageId": 1,
+        "fillerSec": 7.710299968719482,
+        "musicCollaborationId": 8,
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
         "id": 593,
-        "seq": 1145201,
+        "seq": 1144701,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10698,7 +10895,7 @@
     },
     {
         "id": 598,
-        "seq": 1145601,
+        "seq": 1145101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10722,7 +10919,7 @@
     },
     {
         "id": 599,
-        "seq": 1145101,
+        "seq": 1144601,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10746,7 +10943,7 @@
     },
     {
         "id": 602,
-        "seq": 1145801,
+        "seq": 1145301,
         "releaseConditionId": 10,
         "categories": [
             "original"
