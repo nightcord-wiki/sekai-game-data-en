@@ -7,5 +7,14 @@
         "closedAt": 1751320799000,
         "assetBundleName": "icon_gold_ticket_01_gl",
         "sentence": "Reward from Event Show Missions."
+    },
+    {
+        "id": 30,
+        "eventId": 135,
+        "startAt": 1751320800000,
+        "endAt": 1751947199000,
+        "closedAt": 1752098399000,
+        "assetBundleName": "icon_gold_ticket_01_gl",
+        "sentence": "Reward from Event Show Missions."
     }
 ]
