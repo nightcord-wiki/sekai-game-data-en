@@ -15548,5 +15548,55 @@
         "headCostume3dId": 630143,
         "hairCostume3dId": 227,
         "bodyCostume3dId": 630144
+    },
+    {
+        "id": 1565,
+        "characterType": "game_character",
+        "characterId": 1,
+        "unit": "light_sound",
+        "name": "Ichika Hoshino (White Heart Cardigan)",
+        "headCostume3dId": 1,
+        "hairCostume3dId": 141161,
+        "bodyCostume3dId": 141002
+    },
+    {
+        "id": 1566,
+        "characterType": "game_character",
+        "characterId": 2,
+        "unit": "light_sound",
+        "name": "天馬咲希（ホワイトハート・カーデ01）",
+        "headCostume3dId": 3,
+        "hairCostume3dId": 202,
+        "bodyCostume3dId": 141012
+    },
+    {
+        "id": 1567,
+        "characterType": "game_character",
+        "characterId": 3,
+        "unit": "light_sound",
+        "name": "望月穂波（ホワイトハート・カーデ02）",
+        "headCostume3dId": 304,
+        "hairCostume3dId": 203,
+        "bodyCostume3dId": 141022
+    },
+    {
+        "id": 1568,
+        "characterType": "game_character",
+        "characterId": 4,
+        "unit": "light_sound",
+        "name": "日野森志歩（ホワイトハート・カーデ03）",
+        "headCostume3dId": 7,
+        "hairCostume3dId": 204,
+        "bodyCostume3dId": 141032
+    },
+    {
+        "id": 1569,
+        "characterType": "game_character",
+        "characterId": 21,
+        "unit": "light_sound",
+        "name": "レオニミク（ホワイトハート・カーデ03）",
+        "headCostume3dId": 340,
+        "hairCostume3dId": 221,
+        "bodyCostume3dId": 141136
     }
 ]

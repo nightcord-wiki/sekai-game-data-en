@@ -9,6 +9,7 @@
         "progressEndAt": 1703188799000,
         "closedAt": 1703620799000,
         "informationId": 1506,
+        "panelMissionSelectionType": "manual",
         "panelMissionSheetGroups": [
             {
                 "id": 101,
@@ -1099,7 +1100,7 @@
                                 "id": 1020204,
                                 "panelMissionSheetId": 10202,
                                 "name": "Play 10 shows in morning and afternoon",
-                                "description": "Play 10 shows each in both periods (PT):\n• 12.00 a.m. - 11:59 a.m.\n• 12:00 p.m. - 11:59 p.m.",
+                                "description": "Play 10 shows each in both periods (PT):\n• 12.00 AM - 11:59 AM\n• 12:00 PM - 11:59 PM",
                                 "seq": 4,
                                 "panelMissionType": "live_clear_am_pm",
                                 "requirement1": 2,
@@ -1244,7 +1245,7 @@
                                 "id": 1020304,
                                 "panelMissionSheetId": 10203,
                                 "name": "Play 30 shows in morning and afternoon",
-                                "description": "Play 30 shows each in both periods (PT):\n• 12.00 a.m. - 11:59 a.m.\n• 12:00 p.m. - 11:59 p.m.",
+                                "description": "Play 30 shows each in both periods (PT):\n• 12.00 AM - 11:59 AM\n• 12:00 PM - 11:59 PM",
                                 "seq": 4,
                                 "panelMissionType": "live_clear_am_pm",
                                 "requirement1": 2,
@@ -2078,6 +2079,7 @@
         "progressEndAt": 1734638399000,
         "closedAt": 1734983999000,
         "informationId": 2072,
+        "panelMissionSelectionType": "manual",
         "panelMissionSheetGroups": [
             {
                 "id": 201,
@@ -3168,7 +3170,7 @@
                                 "id": 2020204,
                                 "panelMissionSheetId": 20202,
                                 "name": "Play 10 shows in morning and afternoon",
-                                "description": "Play 10 shows each in both periods (PT):\n• 12.00 a.m. - 11:59 a.m.\n• 12:00 p.m. - 11:59 p.m.",
+                                "description": "Play 10 shows each in both periods (PT):\n• 12.00 AM - 11:59 AM\n• 12:00 PM - 11:59 PM",
                                 "seq": 4,
                                 "panelMissionType": "live_clear_am_pm",
                                 "requirement1": 2,
@@ -3313,7 +3315,7 @@
                                 "id": 2020304,
                                 "panelMissionSheetId": 20203,
                                 "name": "Play 30 shows in morning and afternoon",
-                                "description": "Play 30 shows each in both periods (PT):\n• 12.00 a.m. - 11:59 a.m.\n• 12:00 p.m. - 11:59 p.m.",
+                                "description": "Play 30 shows each in both periods (PT):\n• 12.00 AM - 11:59 AM\n• 12:00 PM - 11:59 PM",
                                 "seq": 4,
                                 "panelMissionType": "live_clear_am_pm",
                                 "requirement1": 2,
@@ -4147,6 +4149,7 @@
         "progressEndAt": 1746082799000,
         "closedAt": 1746514799000,
         "informationId": 2403,
+        "panelMissionSelectionType": "manual",
         "panelMissionSheetGroups": [
             {
                 "id": 301,
@@ -7708,7 +7711,9 @@
         "startAt": 1746558000000,
         "progressEndAt": 1748717999000,
         "closedAt": 1749927599000,
+        "distributionEndAt": 1749927599000,
         "informationId": 2482,
+        "panelMissionSelectionType": "manual",
         "panelMissionSheetGroups": [
             {
                 "id": 701,

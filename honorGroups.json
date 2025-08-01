@@ -2071,6 +2071,16 @@
         "backgroundAssetbundleName": "honor_bg_event_chase"
     },
     {
+        "id": 410,
+        "name": "Show Master: Sage",
+        "honorType": "achievement"
+    },
+    {
+        "id": 411,
+        "name": "Show Master: Grand Sage",
+        "honorType": "achievement"
+    },
+    {
         "id": 1001,
         "name": "1.5 Anniversary Party!",
         "honorType": "event"

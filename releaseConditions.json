@@ -34617,6 +34617,27 @@
         "releaseConditionTypeLevel": 56
     },
     {
+        "id": 1030501,
+        "sentence": "Increase Honami Mochizuki & Minori Hanasato's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10305,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1030502,
+        "sentence": "Increase Honami Mochizuki & Minori Hanasato's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10305,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1030503,
+        "sentence": "Increase Honami Mochizuki & Minori Hanasato's Trust Rank to 56.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10305,
+        "releaseConditionTypeLevel": 56
+    },
+    {
         "id": 1030601,
         "sentence": "Increase Honami Mochizuki & Haruka Kiritani's Trust Rank to 16.",
         "releaseConditionType": "bonds_rank",
@@ -36213,6 +36234,27 @@
         "releaseConditionTypeLevel": 56
     },
     {
+        "id": 1101601,
+        "sentence": "Increase An Shiraishi & Rui Kamishiro's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11016,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1101602,
+        "sentence": "Increase An Shiraishi & Rui Kamishiro's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11016,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1101603,
+        "sentence": "Increase An Shiraishi & Rui Kamishiro's Trust Rank to 56.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11016,
+        "releaseConditionTypeLevel": 56
+    },
+    {
         "id": 1102001,
         "sentence": "Increase An Shiraishi & Mizuki Akiyama's Trust Rank to 16.",
         "releaseConditionType": "bonds_rank",
@@ -37302,6 +37344,27 @@
         "sentence": "Increase Nene Kusanagi & KAITO's Trust Rank to 56.",
         "releaseConditionType": "bonds_rank",
         "releaseConditionTypeId": 11526,
+        "releaseConditionTypeLevel": 56
+    },
+    {
+        "id": 1161801,
+        "sentence": "Increase Rui Kamishiro & Mafuyu Asahina's Trust Rank to 16.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11618,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1161802,
+        "sentence": "Increase Rui Kamishiro & Mafuyu Asahina's Trust Rank to 36.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11618,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1161803,
+        "sentence": "Increase Rui Kamishiro & Mafuyu Asahina's Trust Rank to 56.",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11618,
         "releaseConditionTypeLevel": 56
     },
     {

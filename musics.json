@@ -7453,7 +7453,7 @@
     },
     {
         "id": 341,
-        "seq": 1140901,
+        "seq": 1140801,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -8294,7 +8294,7 @@
     },
     {
         "id": 376,
-        "seq": 1538701,
+        "seq": 1538601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8318,7 +8318,7 @@
     },
     {
         "id": 377,
-        "seq": 1338601,
+        "seq": 1338501,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -8342,7 +8342,7 @@
     },
     {
         "id": 378,
-        "seq": 1641301,
+        "seq": 1641201,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8462,7 +8462,7 @@
     },
     {
         "id": 383,
-        "seq": 2238901,
+        "seq": 2238801,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -8487,7 +8487,7 @@
     },
     {
         "id": 384,
-        "seq": 2639301,
+        "seq": 2639201,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -8512,7 +8512,7 @@
     },
     {
         "id": 385,
-        "seq": 1638101,
+        "seq": 1638001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8584,7 +8584,7 @@
     },
     {
         "id": 388,
-        "seq": 1140501,
+        "seq": 1140401,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -8608,7 +8608,7 @@
     },
     {
         "id": 390,
-        "seq": 1138301,
+        "seq": 1138201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8632,7 +8632,7 @@
     },
     {
         "id": 391,
-        "seq": 1639901,
+        "seq": 1639801,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8656,7 +8656,7 @@
     },
     {
         "id": 392,
-        "seq": 1439501,
+        "seq": 1439401,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8752,7 +8752,7 @@
     },
     {
         "id": 396,
-        "seq": 1251501,
+        "seq": 1251401,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -8776,7 +8776,7 @@
     },
     {
         "id": 397,
-        "seq": 2540201,
+        "seq": 2540101,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -8801,7 +8801,7 @@
     },
     {
         "id": 398,
-        "seq": 2440601,
+        "seq": 2440501,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -8898,7 +8898,7 @@
     },
     {
         "id": 402,
-        "seq": 1642301,
+        "seq": 1642201,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -8946,7 +8946,7 @@
     },
     {
         "id": 404,
-        "seq": 2447901,
+        "seq": 2447801,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -8970,7 +8970,7 @@
     },
     {
         "id": 405,
-        "seq": 2344201,
+        "seq": 2344101,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -8995,7 +8995,7 @@
     },
     {
         "id": 406,
-        "seq": 2139601,
+        "seq": 2139501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9019,7 +9019,7 @@
     },
     {
         "id": 407,
-        "seq": 1241601,
+        "seq": 1241501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9067,7 +9067,7 @@
     },
     {
         "id": 409,
-        "seq": 2641801,
+        "seq": 2641701,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -9092,7 +9092,7 @@
     },
     {
         "id": 410,
-        "seq": 1443801,
+        "seq": 1443701,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -9116,7 +9116,7 @@
     },
     {
         "id": 411,
-        "seq": 2544901,
+        "seq": 2544801,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -9165,7 +9165,7 @@
     },
     {
         "id": 413,
-        "seq": 1340401,
+        "seq": 1340301,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9237,7 +9237,7 @@
     },
     {
         "id": 416,
-        "seq": 2145301,
+        "seq": 2145201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9261,7 +9261,7 @@
     },
     {
         "id": 417,
-        "seq": 1342501,
+        "seq": 1342401,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9285,7 +9285,7 @@
     },
     {
         "id": 418,
-        "seq": 1441901,
+        "seq": 1441801,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9381,7 +9381,7 @@
     },
     {
         "id": 422,
-        "seq": 2345801,
+        "seq": 2345702,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -9406,7 +9406,7 @@
     },
     {
         "id": 423,
-        "seq": 2245501,
+        "seq": 2245401,
         "releaseConditionId": 10,
         "categories": [
             "mv",
@@ -9431,7 +9431,7 @@
     },
     {
         "id": 424,
-        "seq": 2246001,
+        "seq": 2245901,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -9455,7 +9455,7 @@
     },
     {
         "id": 425,
-        "seq": 1138401,
+        "seq": 1138301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9479,7 +9479,7 @@
     },
     {
         "id": 426,
-        "seq": 1139701,
+        "seq": 1139601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9503,7 +9503,7 @@
     },
     {
         "id": 427,
-        "seq": 2147301,
+        "seq": 2147201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9527,7 +9527,7 @@
     },
     {
         "id": 428,
-        "seq": 2151201,
+        "seq": 2151101,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9551,7 +9551,7 @@
     },
     {
         "id": 429,
-        "seq": 2339101,
+        "seq": 2339001,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -9575,7 +9575,7 @@
     },
     {
         "id": 430,
-        "seq": 1142401,
+        "seq": 1142301,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9599,7 +9599,7 @@
     },
     {
         "id": 431,
-        "seq": 1346902,
+        "seq": 1346802,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -9623,7 +9623,7 @@
     },
     {
         "id": 432,
-        "seq": 1542101,
+        "seq": 1542001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9647,7 +9647,7 @@
     },
     {
         "id": 433,
-        "seq": 1142201,
+        "seq": 1142101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9671,7 +9671,7 @@
     },
     {
         "id": 434,
-        "seq": 1547701,
+        "seq": 1547601,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -9695,7 +9695,7 @@
     },
     {
         "id": 435,
-        "seq": 1144201,
+        "seq": 1144101,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9719,7 +9719,7 @@
     },
     {
         "id": 436,
-        "seq": 1545701,
+        "seq": 1545601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9743,7 +9743,7 @@
     },
     {
         "id": 437,
-        "seq": 1444101,
+        "seq": 1444001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9767,7 +9767,7 @@
     },
     {
         "id": 438,
-        "seq": 1242601,
+        "seq": 1242501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9791,7 +9791,7 @@
     },
     {
         "id": 439,
-        "seq": 1142001,
+        "seq": 1141901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9815,7 +9815,7 @@
     },
     {
         "id": 440,
-        "seq": 2140801,
+        "seq": 2140701,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9839,7 +9839,7 @@
     },
     {
         "id": 441,
-        "seq": 1449401,
+        "seq": 1449301,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -9863,7 +9863,7 @@
     },
     {
         "id": 442,
-        "seq": 2249901,
+        "seq": 2249801,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -9887,7 +9887,7 @@
     },
     {
         "id": 443,
-        "seq": 1254701,
+        "seq": 1254601,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9911,7 +9911,7 @@
     },
     {
         "id": 444,
-        "seq": 1143301,
+        "seq": 1143201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9959,7 +9959,7 @@
     },
     {
         "id": 446,
-        "seq": 1141101,
+        "seq": 1141001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9983,7 +9983,7 @@
     },
     {
         "id": 447,
-        "seq": 3742801,
+        "seq": 3742701,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10008,7 +10008,7 @@
     },
     {
         "id": 448,
-        "seq": 3743001,
+        "seq": 3742901,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10033,7 +10033,7 @@
     },
     {
         "id": 449,
-        "seq": 3743601,
+        "seq": 3743501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10058,7 +10058,7 @@
     },
     {
         "id": 450,
-        "seq": 2552701,
+        "seq": 2552601,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -10082,7 +10082,7 @@
     },
     {
         "id": 451,
-        "seq": 1651701,
+        "seq": 1651601,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -10106,7 +10106,7 @@
     },
     {
         "id": 452,
-        "seq": 2543401,
+        "seq": 2543301,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -10154,7 +10154,7 @@
     },
     {
         "id": 454,
-        "seq": 1148001,
+        "seq": 1147901,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10178,7 +10178,7 @@
     },
     {
         "id": 455,
-        "seq": 1646301,
+        "seq": 1646201,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10202,7 +10202,7 @@
     },
     {
         "id": 456,
-        "seq": 1247801,
+        "seq": 1247701,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10226,7 +10226,7 @@
     },
     {
         "id": 457,
-        "seq": 2353501,
+        "seq": 2353401,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -10250,7 +10250,7 @@
     },
     {
         "id": 458,
-        "seq": 1253001,
+        "seq": 1252901,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -10298,7 +10298,7 @@
     },
     {
         "id": 460,
-        "seq": 2153901,
+        "seq": 2153801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10322,7 +10322,7 @@
     },
     {
         "id": 461,
-        "seq": 1144401,
+        "seq": 1144301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10346,7 +10346,7 @@
     },
     {
         "id": 462,
-        "seq": 1148201,
+        "seq": 1148101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10370,7 +10370,7 @@
     },
     {
         "id": 463,
-        "seq": 1145001,
+        "seq": 1144901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10418,7 +10418,7 @@
     },
     {
         "id": 465,
-        "seq": 2147501,
+        "seq": 2147401,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10442,7 +10442,7 @@
     },
     {
         "id": 466,
-        "seq": 1148601,
+        "seq": 1148501,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10466,7 +10466,7 @@
     },
     {
         "id": 467,
-        "seq": 1148401,
+        "seq": 1148301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10490,7 +10490,7 @@
     },
     {
         "id": 468,
-        "seq": 1145101,
+        "seq": 1145001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10514,7 +10514,7 @@
     },
     {
         "id": 469,
-        "seq": 1645901,
+        "seq": 1645801,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10538,7 +10538,7 @@
     },
     {
         "id": 470,
-        "seq": 1146601,
+        "seq": 1146501,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -10562,7 +10562,7 @@
     },
     {
         "id": 471,
-        "seq": 2454201,
+        "seq": 2454101,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -10586,7 +10586,7 @@
     },
     {
         "id": 472,
-        "seq": 2554601,
+        "seq": 2554501,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -10610,7 +10610,7 @@
     },
     {
         "id": 473,
-        "seq": 1655301,
+        "seq": 1655201,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -10634,7 +10634,7 @@
     },
     {
         "id": 474,
-        "seq": 2355701,
+        "seq": 2355601,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -10682,7 +10682,7 @@
     },
     {
         "id": 480,
-        "seq": 1550901,
+        "seq": 1550801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10706,7 +10706,7 @@
     },
     {
         "id": 481,
-        "seq": 1146501,
+        "seq": 1146401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10730,7 +10730,7 @@
     },
     {
         "id": 482,
-        "seq": 1352301,
+        "seq": 1352201,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10754,7 +10754,7 @@
     },
     {
         "id": 483,
-        "seq": 1147101,
+        "seq": 1147001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10778,7 +10778,7 @@
     },
     {
         "id": 485,
-        "seq": 1148801,
+        "seq": 1148701,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10802,7 +10802,7 @@
     },
     {
         "id": 486,
-        "seq": 1149601,
+        "seq": 1149501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10826,7 +10826,7 @@
     },
     {
         "id": 487,
-        "seq": 1154301,
+        "seq": 1154201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10850,7 +10850,7 @@
     },
     {
         "id": 492,
-        "seq": 2649201,
+        "seq": 2649101,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -10874,7 +10874,7 @@
     },
     {
         "id": 493,
-        "seq": 1553301,
+        "seq": 1553201,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10898,7 +10898,7 @@
     },
     {
         "id": 494,
-        "seq": 1354001,
+        "seq": 1353901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10922,7 +10922,7 @@
     },
     {
         "id": 496,
-        "seq": 1149701,
+        "seq": 1149601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10946,7 +10946,7 @@
     },
     {
         "id": 497,
-        "seq": 2450101,
+        "seq": 2450001,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -10970,7 +10970,7 @@
     },
     {
         "id": 501,
-        "seq": 1650401,
+        "seq": 1650301,
         "releaseConditionId": 5,
         "categories": [
             "mv_2d"
@@ -10995,7 +10995,7 @@
     },
     {
         "id": 502,
-        "seq": 1150601,
+        "seq": 1150501,
         "releaseConditionId": 5,
         "categories": [
             "mv_2d"
@@ -11020,7 +11020,7 @@
     },
     {
         "id": 503,
-        "seq": 3750201,
+        "seq": 3750101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -11045,7 +11045,7 @@
     },
     {
         "id": 504,
-        "seq": 1152001,
+        "seq": 1151901,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -11069,7 +11069,7 @@
     },
     {
         "id": 507,
-        "seq": 2653601,
+        "seq": 2653501,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -11093,7 +11093,7 @@
     },
     {
         "id": 512,
-        "seq": 1153801,
+        "seq": 1153701,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -11140,8 +11140,56 @@
         "isFullLength": false
     },
     {
+        "id": 515,
+        "seq": 1155301,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Medicine",
+        "pronunciation": "medicine",
+        "creatorArtistId": 230,
+        "lyricist": "Sasuke Haraguchi",
+        "composer": "Sasuke Haraguchi",
+        "arranger": "Sasuke Haraguchi",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_515",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1754258400000,
+        "releasedAt": 1709107200000,
+        "liveStageId": 1,
+        "fillerSec": 9.352899551391602,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 516,
+        "seq": 1155501,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Achikochi Date-san",
+        "pronunciation": "achikochidatesan",
+        "creatorArtistId": 251,
+        "lyricist": "OgataDagashi",
+        "composer": "OgataDagashi",
+        "arranger": "OgataDagashi",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_516",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1754344800000,
+        "releasedAt": 1709280000000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 517,
-        "seq": 1154901,
+        "seq": 1154801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -11213,7 +11261,7 @@
     },
     {
         "id": 552,
-        "seq": 1139001,
+        "seq": 1138901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -11237,7 +11285,7 @@
     },
     {
         "id": 563,
-        "seq": 1141501,
+        "seq": 1141401,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -11261,7 +11309,7 @@
     },
     {
         "id": 564,
-        "seq": 2651401,
+        "seq": 2651301,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -11286,7 +11334,7 @@
     },
     {
         "id": 568,
-        "seq": 1140101,
+        "seq": 1140001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -11310,7 +11358,7 @@
     },
     {
         "id": 573,
-        "seq": 2150001,
+        "seq": 2149901,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -11335,7 +11383,7 @@
     },
     {
         "id": 574,
-        "seq": 2252401,
+        "seq": 2252301,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -11360,7 +11408,7 @@
     },
     {
         "id": 575,
-        "seq": 2351901,
+        "seq": 2351801,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -11385,7 +11433,7 @@
     },
     {
         "id": 576,
-        "seq": 2451001,
+        "seq": 2450901,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -11410,7 +11458,7 @@
     },
     {
         "id": 577,
-        "seq": 2552101,
+        "seq": 2552001,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -11435,7 +11483,7 @@
     },
     {
         "id": 578,
-        "seq": 2152601,
+        "seq": 2152501,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -11460,7 +11508,7 @@
     },
     {
         "id": 579,
-        "seq": 2751601,
+        "seq": 2751501,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -11485,7 +11533,7 @@
     },
     {
         "id": 593,
-        "seq": 1144701,
+        "seq": 1144601,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -11509,7 +11557,7 @@
     },
     {
         "id": 598,
-        "seq": 1145201,
+        "seq": 1145101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -11533,7 +11581,7 @@
     },
     {
         "id": 599,
-        "seq": 1144501,
+        "seq": 1144401,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -11557,7 +11605,7 @@
     },
     {
         "id": 602,
-        "seq": 1145401,
+        "seq": 1145301,
         "releaseConditionId": 10,
         "categories": [
             "original"
@@ -11605,7 +11653,7 @@
     },
     {
         "id": 640,
-        "seq": 1155201,
+        "seq": 1155101,
         "releaseConditionId": 5,
         "categories": [
             "original"

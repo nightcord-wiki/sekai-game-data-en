@@ -2136,6 +2136,14 @@
         "convertResourceBoxId": 2
     },
     {
+        "id": 350,
+        "gachaId": 558,
+        "name": "[It's Back] New Year's Divine Beasts Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1758049200000,
+        "convertResourceBoxId": 2
+    },
+    {
         "id": 392,
         "gachaId": 657,
         "name": "Movie Release Recollection Gacha Sticker",
