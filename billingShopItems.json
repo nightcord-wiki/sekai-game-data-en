@@ -3571,8 +3571,8 @@
         "assetbundleName": "shop_20137",
         "resourceBoxId": 20117,
         "bonusResourceBoxId": 20122,
-        "startAt": 1752994800000,
-        "endAt": 1753599599000
+        "startAt": 1754895600000,
+        "endAt": 1755500399000
     },
     {
         "id": 20141,
@@ -3660,8 +3660,8 @@
         "assetbundleName": "shop_20137",
         "resourceBoxId": 20117,
         "bonusResourceBoxId": 20122,
-        "startAt": 1753513200000,
-        "endAt": 1754117999000
+        "startAt": 1756278000000,
+        "endAt": 1756882799000
     },
     {
         "id": 20147,
@@ -9003,6 +9003,71 @@
         "billableLimitResetIntervalType": "none",
         "resourceBoxId": 313,
         "startAt": 1754031600000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300590,
+        "seq": 459009,
+        "billingShopItemType": "costume_3d",
+        "saleType": "bundle",
+        "name": "[Americana] Costumes All Colors",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 314,
+        "startAt": 1756710000000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300591,
+        "seq": 459010,
+        "billingShopItemType": "costume_3d",
+        "saleType": "single",
+        "name": "[Americana] Costumes Original Color",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 315,
+        "startAt": 1756710000000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300592,
+        "seq": 459011,
+        "billingShopItemType": "costume_3d",
+        "saleType": "single",
+        "name": "[Americana] Costumes Color Variant 1",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 316,
+        "startAt": 1756710000000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300593,
+        "seq": 459012,
+        "billingShopItemType": "costume_3d",
+        "saleType": "single",
+        "name": "[Americana] Costumes Color Variant 2",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 317,
+        "startAt": 1756710000000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 300594,
+        "seq": 459013,
+        "billingShopItemType": "costume_3d",
+        "saleType": "single",
+        "name": "[Americana] Costumes Color Variant 3",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "resourceBoxId": 318,
+        "startAt": 1756710000000,
         "purchaseOption": "exchange"
     },
     {

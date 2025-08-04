@@ -10362,5 +10362,179 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 9,
+        "name": "Persona 5 Royal Collaboration Stamp Missions",
+        "assetbundleName": "persona5royal_collab_2025_pm",
+        "bgmAssetbundleName": "persona5royal_collab_2025_pm_bgm",
+        "selectableLimit": 1,
+        "startAt": 1754334000000,
+        "progressEndAt": 1755154799000,
+        "closedAt": 1755154799000,
+        "distributionEndAt": 1756364399000,
+        "informationId": 2658,
+        "panelMissionSelectionType": "auto",
+        "panelMissionSheetGroups": [
+            {
+                "id": 901,
+                "panelMissionCampaignId": 9,
+                "name": "Stamps",
+                "selectableLimit": 1,
+                "seq": 1,
+                "panelMissionSheets": [
+                    {
+                        "id": 90101,
+                        "panelMissionSheetGroupId": 901,
+                        "name": "Stamp Cards",
+                        "seq": 1,
+                        "assetbundleName": "sheet_persona5royal_collab",
+                        "panelMissions": [
+                            {
+                                "id": 9010101,
+                                "panelMissionSheetId": 90101,
+                                "name": "Clear Life Will Change",
+                                "description": "Clear the song Life Will Change.",
+                                "seq": 1,
+                                "panelMissionType": "live_clear_in_music",
+                                "requirement1": 1,
+                                "rewards": [
+                                    {
+                                        "id": 14040,
+                                        "missionType": "panel_mission",
+                                        "missionId": 9010101,
+                                        "seq": 1,
+                                        "resourceBoxId": 1767
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 9010102,
+                                "panelMissionSheetId": 90101,
+                                "name": "Clear 3 Songs",
+                                "description": "Clear 3 different songs.\n(Includes Auto-Play.)",
+                                "seq": 2,
+                                "panelMissionType": "live_clear_with_different_music",
+                                "requirement1": 3,
+                                "requirement2": 1,
+                                "rewards": [
+                                    {
+                                        "id": 14041,
+                                        "missionType": "panel_mission",
+                                        "missionId": 9010102,
+                                        "seq": 1,
+                                        "resourceBoxId": 1767
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 9010103,
+                                "panelMissionSheetId": 90101,
+                                "name": "Clear 5 Songs",
+                                "description": "Clear 5 different songs.\n(Includes Auto-Play.)",
+                                "seq": 3,
+                                "panelMissionType": "live_clear_with_different_music",
+                                "requirement1": 5,
+                                "requirement2": 1,
+                                "rewards": [
+                                    {
+                                        "id": 14042,
+                                        "missionType": "panel_mission",
+                                        "missionId": 9010103,
+                                        "seq": 1,
+                                        "resourceBoxId": 1767
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 9010104,
+                                "panelMissionSheetId": 90101,
+                                "name": "Clear 10 Songs",
+                                "description": "Clear 10 different songs.\n(Includes Auto-Play.)",
+                                "seq": 4,
+                                "panelMissionType": "live_clear_with_different_music",
+                                "requirement1": 10,
+                                "requirement2": 1,
+                                "rewards": [
+                                    {
+                                        "id": 14043,
+                                        "missionType": "panel_mission",
+                                        "missionId": 9010104,
+                                        "seq": 1,
+                                        "resourceBoxId": 1767
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 9010105,
+                                "panelMissionSheetId": 90101,
+                                "name": "Clear 15 Songs",
+                                "description": "Clear 15 different songs.\n(Includes Auto-Play.)",
+                                "seq": 5,
+                                "panelMissionType": "live_clear_with_different_music",
+                                "requirement1": 15,
+                                "requirement2": 1,
+                                "rewards": [
+                                    {
+                                        "id": 14044,
+                                        "missionType": "panel_mission",
+                                        "missionId": 9010105,
+                                        "seq": 1,
+                                        "resourceBoxId": 1767
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 9010106,
+                                "panelMissionSheetId": 90101,
+                                "name": "Clear 20 Songs",
+                                "description": "Clear 20 different songs.\n(Includes Auto-Play.)",
+                                "seq": 6,
+                                "panelMissionType": "live_clear_with_different_music",
+                                "requirement1": 20,
+                                "requirement2": 1,
+                                "rewards": [
+                                    {
+                                        "id": 14045,
+                                        "missionType": "panel_mission",
+                                        "missionId": 9010106,
+                                        "seq": 1,
+                                        "resourceBoxId": 1767
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 9010107,
+                                "panelMissionSheetId": 90101,
+                                "name": "Clear 25 Songs",
+                                "description": "Clear 25 different songs.\n(Includes Auto-Play.)",
+                                "seq": 7,
+                                "panelMissionType": "live_clear_with_different_music",
+                                "requirement1": 25,
+                                "requirement2": 1,
+                                "rewards": [
+                                    {
+                                        "id": 14046,
+                                        "missionType": "panel_mission",
+                                        "missionId": 9010107,
+                                        "seq": 1,
+                                        "resourceBoxId": 1767
+                                    }
+                                ]
+                            }
+                        ],
+                        "rewards": [
+                            {
+                                "id": 14047,
+                                "missionType": "panel_mission_complete",
+                                "missionId": 90101,
+                                "seq": 1,
+                                "resourceBoxId": 1768
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]

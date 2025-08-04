@@ -8870,6 +8870,42 @@
         "description": "Join the Chase My Ideal Idol! After Show."
     },
     {
+        "id": 805,
+        "stampType": "illustration",
+        "seq": 10150,
+        "name": "[Stamp] Toya: Welcome...!",
+        "assetbundleName": "stamp0805",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 12,
+        "gameCharacterUnitId": 12,
+        "archivePublishedAt": 1754776800000,
+        "description": "Join the Play That Beautiful Sound! After Show."
+    },
+    {
+        "id": 806,
+        "stampType": "illustration",
+        "seq": 10160,
+        "name": "[Stamp] Miku: Watching over you",
+        "assetbundleName": "stamp0806",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 21,
+        "gameCharacterUnitId": 21,
+        "archivePublishedAt": 1755486000000,
+        "description": "Join the With You at SEKAI's Beginnings After Show."
+    },
+    {
+        "id": 807,
+        "stampType": "illustration",
+        "seq": 10170,
+        "name": "[Stamp] Emu: Hold on tight!",
+        "assetbundleName": "stamp0807",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 14,
+        "gameCharacterUnitId": 14,
+        "archivePublishedAt": 1756677600000,
+        "description": "Join the Wonderhorror?! A Test of Courage! After Show."
+    },
+    {
         "id": 874,
         "stampType": "illustration",
         "seq": 10690,

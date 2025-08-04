@@ -818,5 +818,13 @@
         "flavorText": "Can be traded for a 4★ character of your choice at the 4★ Voucher Exchange.",
         "canUse": false,
         "materialType": "card_ticket"
+    },
+    {
+        "id": 1000009,
+        "seq": 1000009,
+        "name": "Morgana Figure Blueprint Voucher",
+        "flavorText": "You can exchange this voucher for a Morgana Figure in the MYSEKAI feature when it is added.",
+        "canUse": false,
+        "materialType": "common"
     }
 ]
