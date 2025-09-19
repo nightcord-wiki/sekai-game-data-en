@@ -59098,7 +59098,7 @@
         "motion": "w-cute02-forward",
         "expression": "face_smile_02",
         "publishedAt": 1756677600000,
-        "closedAt": 1760317200000,
+        "closedAt": 1760220000000,
         "weight": 1
     },
     {
@@ -59111,7 +59111,7 @@
         "motion": "w-cool10-nod",
         "expression": "face_smile_01",
         "publishedAt": 1756677600000,
-        "closedAt": 1760317200000,
+        "closedAt": 1760220000000,
         "weight": 1
     },
     {
@@ -59124,7 +59124,7 @@
         "motion": "w-cute02-nodB",
         "expression": "face_smile_01",
         "publishedAt": 1756677600000,
-        "closedAt": 1760317200000,
+        "closedAt": 1760220000000,
         "weight": 1
     },
     {
