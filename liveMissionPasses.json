@@ -362,7 +362,7 @@
     {
         "id": 41,
         "liveMissionPeriodId": 41,
-        "costumeName": "Denim Costume",
+        "costumeName": "Denim Costumes",
         "character3dId1": 1257,
         "character3dId2": 1258,
         "maleAssetbundleName": "cos0511_body",
@@ -371,7 +371,7 @@
     {
         "id": 42,
         "liveMissionPeriodId": 42,
-        "costumeName": "Winter Costume",
+        "costumeName": "Winter Costumes",
         "character3dId1": 1334,
         "character3dId2": 1335,
         "maleAssetbundleName": "cos0534_body",
@@ -380,7 +380,7 @@
     {
         "id": 43,
         "liveMissionPeriodId": 43,
-        "costumeName": "Opera House Costume",
+        "costumeName": "Opera House Costumes",
         "character3dId1": 1369,
         "character3dId2": 1370,
         "maleAssetbundleName": "cos0546_body",
@@ -448,5 +448,14 @@
         "character3dId2": 1599,
         "maleAssetbundleName": "cos0649_body",
         "femaleAssetbundleName": "cos0648_body"
+    },
+    {
+        "id": 51,
+        "liveMissionPeriodId": 51,
+        "costumeName": "Loungewear Costumes",
+        "character3dId1": 1661,
+        "character3dId2": 1662,
+        "maleAssetbundleName": "cos0675_body",
+        "femaleAssetbundleName": "cos0674_body"
     }
 ]
