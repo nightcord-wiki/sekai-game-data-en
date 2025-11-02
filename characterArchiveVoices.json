@@ -11866,6 +11866,50 @@
         "displayStartAt": 1759230000000
     },
     {
+        "id": 2060152,
+        "groupId": 2060152,
+        "gameCharacterId": 6,
+        "characterArchiveVoiceType": "live_cutin_pair",
+        "displayPhrase": "Your training is paying off.",
+        "displayPhrase2": "When you put in that many hours, it does.",
+        "characterArchiveVoiceTagId": 1,
+        "externalId": 15817,
+        "displayStartAt": 1761906600000
+    },
+    {
+        "id": 2060153,
+        "groupId": 2060153,
+        "gameCharacterId": 6,
+        "characterArchiveVoiceType": "live_cutin_pair",
+        "displayPhrase": "Giving it everything!",
+        "displayPhrase2": "He's so passionate... I need to follow suit.",
+        "characterArchiveVoiceTagId": 1,
+        "externalId": 15818,
+        "displayStartAt": 1761906600000
+    },
+    {
+        "id": 2060154,
+        "groupId": 2060154,
+        "gameCharacterId": 6,
+        "characterArchiveVoiceType": "live_cutin_pair",
+        "displayPhrase": "I can't miss a beat until it's over...!",
+        "displayPhrase2": "On top of things as always, Kiritani!",
+        "characterArchiveVoiceTagId": 1,
+        "externalId": 15819,
+        "displayStartAt": 1761906600000
+    },
+    {
+        "id": 2060155,
+        "groupId": 2060155,
+        "gameCharacterId": 6,
+        "characterArchiveVoiceType": "live_cutin_pair",
+        "displayPhrase": "It's my time to shine!",
+        "displayPhrase2": "Break a leg, Tenma!",
+        "characterArchiveVoiceTagId": 1,
+        "externalId": 15820,
+        "displayStartAt": 1761906600000
+    },
+    {
         "id": 2070001,
         "groupId": 2070001,
         "gameCharacterId": 7,
@@ -19808,6 +19852,28 @@
         "displayStartAt": 1748689200000
     },
     {
+        "id": 2110143,
+        "groupId": 2110143,
+        "gameCharacterId": 11,
+        "characterArchiveVoiceType": "live_cutin_pair",
+        "displayPhrase": "Your training is paying off.",
+        "displayPhrase2": "When you put in that many hours, it does.",
+        "characterArchiveVoiceTagId": 1,
+        "externalId": 15817,
+        "displayStartAt": 1761906600000
+    },
+    {
+        "id": 2110144,
+        "groupId": 2110144,
+        "gameCharacterId": 11,
+        "characterArchiveVoiceType": "live_cutin_pair",
+        "displayPhrase": "Giving it everything!",
+        "displayPhrase2": "He's so passionate... I need to follow suit.",
+        "characterArchiveVoiceTagId": 1,
+        "externalId": 15818,
+        "displayStartAt": 1761906600000
+    },
+    {
         "id": 2120001,
         "groupId": 2120001,
         "gameCharacterId": 12,
@@ -23018,6 +23084,28 @@
         "characterArchiveVoiceTagId": 1,
         "externalId": 15574,
         "displayStartAt": 1711796400000
+    },
+    {
+        "id": 2130155,
+        "groupId": 2130155,
+        "gameCharacterId": 13,
+        "characterArchiveVoiceType": "live_cutin_pair",
+        "displayPhrase": "I can't miss a beat until it's over...!",
+        "displayPhrase2": "On top of things as always, Kiritani!",
+        "characterArchiveVoiceTagId": 1,
+        "externalId": 15819,
+        "displayStartAt": 1761906600000
+    },
+    {
+        "id": 2130156,
+        "groupId": 2130156,
+        "gameCharacterId": 13,
+        "characterArchiveVoiceType": "live_cutin_pair",
+        "displayPhrase": "It's my time to shine!",
+        "displayPhrase2": "Break a leg, Tenma!",
+        "characterArchiveVoiceTagId": 1,
+        "externalId": 15820,
+        "displayStartAt": 1761906600000
     },
     {
         "id": 2140001,
