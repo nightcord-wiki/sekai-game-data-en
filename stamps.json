@@ -10051,6 +10051,18 @@
         "description": "Increase Shiho & Kohane's Trust Rank to 66."
     },
     {
+        "id": 104101,
+        "stampType": "illustration",
+        "seq": 10580,
+        "name": "[Stamp] Shiho & An: That was a good session",
+        "assetbundleName": "stamp104101",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 4,
+        "characterId2": 10,
+        "archivePublishedAt": 1764531000000,
+        "description": "Increase Shiho & An's Trust Rank to 66."
+    },
+    {
         "id": 104131,
         "stampType": "illustration",
         "seq": 7550,
@@ -10205,6 +10217,18 @@
         "characterId2": 17,
         "archivePublishedAt": 1727672400000,
         "description": "Increase Minori & Kanade's Trust Rank to 66."
+    },
+    {
+        "id": 105191,
+        "stampType": "illustration",
+        "seq": 10590,
+        "name": "[Stamp] Minori & Ena: She makes me wanna cheer her on",
+        "assetbundleName": "stamp105191",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 5,
+        "characterId2": 19,
+        "archivePublishedAt": 1764531000000,
+        "description": "Increase Minori & Ena's Trust Rank to 66."
     },
     {
         "id": 105211,
@@ -10685,6 +10709,18 @@
         "characterId2": 13,
         "archivePublishedAt": 1727672400000,
         "description": "Increase Kohane & Tsukasa's Trust Rank to 66."
+    },
+    {
+        "id": 109141,
+        "stampType": "illustration",
+        "seq": 10600,
+        "name": "[Stamp] Kohane & Emu: I can't help but smile too",
+        "assetbundleName": "stamp109141",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 9,
+        "characterId2": 14,
+        "archivePublishedAt": 1764531000000,
+        "description": "Increase Kohane & Emu's Trust Rank to 66."
     },
     {
         "id": 109211,
