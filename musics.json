@@ -11519,7 +11519,7 @@
     },
     {
         "id": 518,
-        "seq": 1155901,
+        "seq": 1155801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -12023,7 +12023,7 @@
     },
     {
         "id": 548,
-        "seq": 2555601,
+        "seq": 2555501,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -12095,7 +12095,7 @@
     },
     {
         "id": 553,
-        "seq": 1155701,
+        "seq": 1155601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -12633,7 +12633,7 @@
     },
     {
         "id": 694,
-        "seq": 1155801,
+        "seq": 1155701,
         "releaseConditionId": 5,
         "categories": [
             "original"
