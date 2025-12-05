@@ -3966,6 +3966,12 @@
         "releaseConditionId": 40694
     },
     {
+        "id": 40701,
+        "topicType": "music_difficulty",
+        "topicTypeId": 3505,
+        "releaseConditionId": 40701
+    },
+    {
         "id": 50001,
         "topicType": "rule_slide",
         "topicTypeId": 1,
