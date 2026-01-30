@@ -4002,6 +4002,36 @@
         "releaseConditionId": 40609
     },
     {
+        "id": 40611,
+        "topicType": "music_difficulty",
+        "topicTypeId": 3055,
+        "releaseConditionId": 40611
+    },
+    {
+        "id": 40612,
+        "topicType": "music_difficulty",
+        "topicTypeId": 3060,
+        "releaseConditionId": 40612
+    },
+    {
+        "id": 40613,
+        "topicType": "music_difficulty",
+        "topicTypeId": 3065,
+        "releaseConditionId": 40613
+    },
+    {
+        "id": 40614,
+        "topicType": "music_difficulty",
+        "topicTypeId": 3070,
+        "releaseConditionId": 40614
+    },
+    {
+        "id": 40615,
+        "topicType": "music_difficulty",
+        "topicTypeId": 3075,
+        "releaseConditionId": 40615
+    },
+    {
         "id": 40640,
         "topicType": "music_difficulty",
         "topicTypeId": 3200,
