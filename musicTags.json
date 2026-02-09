@@ -6306,6 +6306,18 @@
         "seq": 0
     },
     {
+        "id": 1105,
+        "musicId": 582,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 1110,
+        "musicId": 587,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1116,
         "musicId": 593,
         "musicTag": "all",
@@ -7760,6 +7772,18 @@
     {
         "id": 1541,
         "musicId": 578,
+        "musicTag": "vocaloid",
+        "seq": 1
+    },
+    {
+        "id": 1542,
+        "musicId": 582,
+        "musicTag": "idol",
+        "seq": 4
+    },
+    {
+        "id": 1543,
+        "musicId": 587,
         "musicTag": "vocaloid",
         "seq": 1
     },
