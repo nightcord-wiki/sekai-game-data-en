@@ -1405,9 +1405,29 @@
         "pronunciation": "n.k"
     },
     {
+        "id": 283,
+        "name": "inoutsuhaSA",
+        "pronunciation": "inoutsuhaSA"
+    },
+    {
         "id": 284,
         "name": "SAWTOWNE",
         "pronunciation": "SAWTOWNE"
+    },
+    {
+        "id": 285,
+        "name": "Synthion",
+        "pronunciation": "Synthion"
+    },
+    {
+        "id": 286,
+        "name": "Yunosuke & CircusP feat. Hatsune Miku",
+        "pronunciation": "Yunosuke & CircusP feat. Hatsune Miku"
+    },
+    {
+        "id": 287,
+        "name": "inno",
+        "pronunciation": "inno"
     },
     {
         "id": 289,
@@ -1425,6 +1445,16 @@
         "pronunciation": "Æsir"
     },
     {
+        "id": 324,
+        "name": "xi",
+        "pronunciation": "xi"
+    },
+    {
+        "id": 325,
+        "name": "M2U",
+        "pronunciation": "M2U"
+    },
+    {
         "id": 326,
         "name": "Shinichi Kobayashi",
         "pronunciation": "Shinichi Kobayashi"
@@ -1433,6 +1463,11 @@
         "id": 327,
         "name": "RABPIT",
         "pronunciation": "RABPIT"
+    },
+    {
+        "id": 328,
+        "name": "Sta",
+        "pronunciation": "Sta"
     },
     {
         "id": 10001,
